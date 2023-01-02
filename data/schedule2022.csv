@@ -1,0 +1,833 @@
+﻿Team,H/A,Date,Time,Helper,Stadium,Weather Factor,Park RHH,Park LHH,Pitcher,Pitcher H,Opponent,Opp Pitcher,Opp Throw
+LAA,Home,5/27/2022,N,LAA44708,Angel Stadium,0.987,1.04,1.29,Chase Silseth,R,TOR,Alek Manoah,R
+TOR,Away,5/27/2022,N,TOR44708,Angel Stadium,0.987,1.04,1.29,Alek Manoah,R,LAA,Chase Silseth,R
+MIL,Away,5/27/2022,N,MIL44708,Busch Stadium,0.916,0.84,0.93,Brandon Woodruff,R,STL,Dakota Hudson,R
+STL,Home,5/27/2022,N,STL44708,Busch Stadium,0.916,0.84,0.93,Dakota Hudson,R,MIL,Brandon Woodruff,R
+ARI,Home,5/27/2022,N,ARI44708,Chase Field,0.983,0.87,0.97,Madison Bumgarner,L,LAD,Ryan Pepiot,R
+LAD,Away,5/27/2022,N,LAD44708,Chase Field,0.983,0.87,0.97,Ryan Pepiot,R,ARI,Madison Bumgarner,L
+NYM,Home,5/27/2022,N,NYM44708,Citi Field,0.9,1.07,0.98,Carlos Carrasco,R,PHI,Bailey Falter,L
+PHI,Away,5/27/2022,N,PHI44708,Citi Field,0.9,1.07,0.98,Bailey Falter,L,NYM,Carlos Carrasco,R
+BAL,Away,5/27/2022,N,BAL44708,Fenway Park,0.992,0.98,0.84,Kyle Bradish,R,BOS,Garrett Whitlock,R
+BOS,Home,5/27/2022,N,BOS44708,Fenway Park,0.992,0.98,0.84,Garrett Whitlock,R,BAL,Kyle Bradish,R
+SFG,Away,5/27/2022,N,SFG44708,Great American BP,1.001,1.3,1.36,Carlos Rodon,L,CIN,Graham Ashcraft,R
+CIN,Home,5/27/2022,N,CIN44708,Great American BP,1.001,1.3,1.36,Graham Ashcraft,R,SFG,Carlos Rodon,L
+OAK,Home,5/27/2022,N,OAK44708,Oakland Coliseum,0.991,0.82,0.73,Cole Irvin,L,TEX,Jon Gray,R
+TEX,Away,5/27/2022,N,TEX44708,Oakland Coliseum,0.991,0.82,0.73,Jon Gray,R,OAK,Cole Irvin,L
+SDP,Home,5/27/2022,N,SDP44708,Petco Park,1.035,0.98,0.92,Sean Manaea,L,PIT,Jose Quintana,L
+PIT,Away,5/27/2022,N,PIT44708,Petco Park,1.035,0.98,0.92,Jose Quintana,L,SDP,Sean Manaea,L
+KCR,Away,5/27/2022,N,KCR44708,Target Field,1.102,0.86,0.89,Brad Keller,R,MIN,Bailey Ober,R
+MIN,Home,5/27/2022,N,MIN44708,Target Field,1.102,0.86,0.89,Bailey Ober,R,KCR,Brad Keller,R
+HOU,Away,5/27/2022,N,HOU44708,T-Mobile Park,1,1.04,0.89,Justin Verlander,R,SEA,Chris Flexen,R
+SEA,Home,5/27/2022,N,SEA44708,T-Mobile Park,1,1.04,0.89,Chris Flexen,R,HOU,Justin Verlander,R
+TBR,Home,5/27/2022,N,TBR44708,Tropicana Field,0.995,0.91,0.96,Jeffrey Springs,L,NYY,Jameson Taillon,R
+NYY,Away,5/27/2022,N,NYY44708,Tropicana Field,0.995,0.91,0.96,Jameson Taillon,R,TBR,Jeffrey Springs,L
+ATL,Home,5/27/2022,N,ATL44708,Truist Park,1.064,0.94,0.92,Ian Anderson,R,MIA,Trevor Rogers,L
+MIA,Away,5/27/2022,N,MIA44708,Truist Park,1.064,0.94,0.92,Trevor Rogers,L,ATL,Ian Anderson,R
+LAA,Home,5/28/2022,N,LAA44709,Angel Stadium,0.986,1.04,1.29,Michael Lorenzen,R,TOR,Yusei Kikuchi,L
+TOR,Away,5/28/2022,N,TOR44709,Angel Stadium,0.986,1.04,1.29,Yusei Kikuchi,L,LAA,Michael Lorenzen,R
+MIL,Away,5/28/2022,D,MIL44709,Busch Stadium,1.056,0.84,0.93,Adrian Houser,R,STL,Matthew Liberatore,L
+STL,Home,5/28/2022,D,STL44709,Busch Stadium,1.056,0.84,0.93,Matthew Liberatore,L,MIL,Adrian Houser,R
+ARI,Home,5/28/2022,D,ARI44709,Chase Field,0.983,0.87,0.97,Merrill Kelly,R,LAD,Tony Gonsolin,R
+LAD,Away,5/28/2022,D,LAD44709,Chase Field,0.983,0.87,0.97,Tony Gonsolin,R,ARI,Merrill Kelly,R
+NYM,Home,5/28/2022,N,NYM44709,Citi Field,0.974,1.07,0.98,Taijuan Walker,R,PHI,Zach Eflin,R
+PHI,Away,5/28/2022,N,PHI44709,Citi Field,0.974,1.07,0.98,Zach Eflin,R,NYM,Taijuan Walker,R
+CLE,Away,5/28/2022,D,CLE44709,Comerica Park,1,0.96,0.88,Shane Bieber,R,DET,Alex Faedo,R
+DET,Home,5/28/2022,D,DET44709,Comerica Park,1,0.96,0.88,Alex Faedo,R,CLE,Shane Bieber,R
+BAL,Away,5/28/2022,D,BAL44709,Fenway Park,1.272,0.98,0.84,Jordan Lyles,R,BOS,Nathan Eovaldi,R
+BOS,Home,5/28/2022,D,BOS44709,Fenway Park,1.272,0.98,0.84,Nathan Eovaldi,R,BAL,Jordan Lyles,R
+SFG,Away,5/28/2022,D,SFG44709,Great American BP,1.001,1.3,1.36,Alex Wood,L,CIN,Vladimir Gutierrez,R
+CIN,Home,5/28/2022,D,CIN44709,Great American BP,1.001,1.3,1.36,Vladimir Gutierrez,R,SFG,Alex Wood,L
+CHC,Away,5/28/2022,N,CHC44709,Guaranteed Rate Fld,0.893,1.12,1.15,Keegan Thompson,R,CHW,Johnny Cueto,R
+CHW,Home,5/28/2022,N,CHW44709,Guaranteed Rate Fld,0.893,1.12,1.15,Johnny Cueto,R,CHC,Keegan Thompson,R
+WSN,Home,5/28/2022,D,WSN44709,Nationals Park,0.963,1.09,1.14,Joan Adon,R,COL,Chad Kuhl,R
+COL,Away,5/28/2022,D,COL44709,Nationals Park,0.963,1.09,1.14,Chad Kuhl,R,WSN,Joan Adon,R
+OAK,Home,5/28/2022,D,OAK44709,Oakland Coliseum,1.027,0.82,0.73,Zach Logue,L,TEX,Taylor Hearn,L
+TEX,Away,5/28/2022,D,TEX44709,Oakland Coliseum,1.027,0.82,0.73,Taylor Hearn,L,OAK,Zach Logue,L
+SDP,Home,5/28/2022,N,SDP44709,Petco Park,1.01,0.98,0.92,Joe Musgrove,R,PIT,JT Brubaker,R
+PIT,Away,5/28/2022,N,PIT44709,Petco Park,1.01,0.98,0.92,JT Brubaker,R,SDP,Joe Musgrove,R
+KCR,Away,5/28/2022,N,KCR44709,Target Field,0.941,0.86,0.89,Brady Singer,R,MIN,Chris Archer,R
+MIN,Home,5/28/2022,N,MIN44709,Target Field,0.941,0.86,0.89,Chris Archer,R,KCR,Brady Singer,R
+HOU,Away,5/28/2022,N,HOU44709,T-Mobile Park,1,1.04,0.89,Jose Urquidy,R,SEA,Logan Gilbert,R
+SEA,Home,5/28/2022,N,SEA44709,T-Mobile Park,1,1.04,0.89,Logan Gilbert,R,HOU,Jose Urquidy,R
+TBR,Home,5/28/2022,D,TBR44709,Tropicana Field,0.995,0.91,0.96,Corey Kluber,R,NYY,Gerrit Cole,R
+NYY,Away,5/28/2022,D,NYY44709,Tropicana Field,0.995,0.91,0.96,Gerrit Cole,R,TBR,Corey Kluber,R
+ATL,Home,5/28/2022,D,ATL44709,Truist Park,1.064,0.94,0.92,Tucker Davidson,L,MIA,Sandy Alcantara,R
+MIA,Away,5/28/2022,D,MIA44709,Truist Park,1.064,0.94,0.92,Sandy Alcantara,R,ATL,Tucker Davidson,L
+LAA,Home,5/29/2022,D,LAA44710,Angel Stadium,1.116,1.04,1.29,Patrick Sandoval,L,TOR,Jose Berrios,R
+TOR,Away,5/29/2022,D,TOR44710,Angel Stadium,1.116,1.04,1.29,Jose Berrios,R,LAA,Patrick Sandoval,L
+MIL,Away,5/29/2022,D,MIL44710,Busch Stadium,1.036,0.84,0.93,Corbin Burnes,R,STL,Miles Mikolas,R
+STL,Home,5/29/2022,D,STL44710,Busch Stadium,1.036,0.84,0.93,Miles Mikolas,R,MIL,Corbin Burnes,R
+ARI,Home,5/29/2022,D,ARI44710,Chase Field,0.983,0.87,0.97,Zach Davies,R,LAD,Tyler Anderson,L
+LAD,Away,5/29/2022,D,LAD44710,Chase Field,0.983,0.87,0.97,Tyler Anderson,L,ARI,Zach Davies,R
+NYM,Home,5/29/2022,N,NYM44710,Citi Field,0.9,1.07,0.98,Chris Bassitt,R,PHI,Zack Wheeler,R
+PHI,Away,5/29/2022,N,PHI44710,Citi Field,0.9,1.07,0.98,Zack Wheeler,R,NYM,Chris Bassitt,R
+CLE,Away,5/29/2022,D,CLE44710,Comerica Park,0.978,0.96,0.88,Triston McKenzie,R,DET,Elvin Rodriguez,R
+DET,Home,5/29/2022,D,DET44710,Comerica Park,0.978,0.96,0.88,Elvin Rodriguez,R,CLE,Triston McKenzie,R
+BAL,Away,5/29/2022,D,BAL44710,Fenway Park,0.895,0.98,0.84,Bruce Zimmermann,L,BOS,Nick Pivetta,R
+BOS,Home,5/29/2022,D,BOS44710,Fenway Park,0.895,0.98,0.84,Nick Pivetta,R,BAL,Bruce Zimmermann,L
+SFG,Away,5/29/2022,D,SFG44710,Great American BP,1.001,1.3,1.36,Alex Cobb,R,CIN,Tyler Mahle,R
+CIN,Home,5/29/2022,D,CIN44710,Great American BP,1.001,1.3,1.36,Tyler Mahle,R,SFG,Alex Cobb,R
+CHC,Away,5/29/2022,D,CHC44710,Guaranteed Rate Fld,1.096,1.12,1.15,Marcus Stroman,R,CHW,Dylan Cease,R
+CHW,Home,5/29/2022,D,CHW44710,Guaranteed Rate Fld,1.096,1.12,1.15,Dylan Cease,R,CHC,Marcus Stroman,R
+WSN,Home,5/29/2022,D,WSN44710,Nationals Park,0.963,1.09,1.14,Josiah Gray,R,COL,Kyle Freeland,L
+COL,Away,5/29/2022,D,COL44710,Nationals Park,0.963,1.09,1.14,Kyle Freeland,L,WSN,Josiah Gray,R
+OAK,Home,5/29/2022,D,OAK44710,Oakland Coliseum,1.027,0.82,0.73,James Kaprielian,R,TEX,Dane Dunning,R
+TEX,Away,5/29/2022,D,TEX44710,Oakland Coliseum,1.027,0.82,0.73,Dane Dunning,R,OAK,James Kaprielian,R
+SDP,Home,5/29/2022,D,SDP44710,Petco Park,1.01,0.98,0.92,MacKenzie Gore,L,PIT,Roansy Contreras,R
+PIT,Away,5/29/2022,D,PIT44710,Petco Park,1.01,0.98,0.92,Roansy Contreras,R,SDP,MacKenzie Gore,L
+KCR,Away,5/29/2022,D,KCR44710,Target Field,0.941,0.86,0.89,Zack Greinke,R,MIN,Sonny Gray,R
+MIN,Home,5/29/2022,D,MIN44710,Target Field,0.941,0.86,0.89,Sonny Gray,R,KCR,Zack Greinke,R
+HOU,Away,5/29/2022,D,HOU44710,T-Mobile Park,1,1.04,0.89,Luis Garcia,R,SEA,Marco Gonzales,L
+SEA,Home,5/29/2022,D,SEA44710,T-Mobile Park,1,1.04,0.89,Marco Gonzales,L,HOU,Luis Garcia,R
+TBR,Home,5/29/2022,D,TBR44710,Tropicana Field,0.995,0.91,0.96,Shane McClanahan,L,NYY,Luis Severino,R
+NYY,Away,5/29/2022,D,NYY44710,Tropicana Field,0.995,0.91,0.96,Luis Severino,R,TBR,Shane McClanahan,L
+ATL,Home,5/29/2022,D,ATL44710,Truist Park,1.064,0.94,0.92,Max Fried,L,MIA,Elieser Hernandez,R
+MIA,Away,5/29/2022,D,MIA44710,Truist Park,1.064,0.94,0.92,Elieser Hernandez,R,ATL,Max Fried,L
+STL,Home,5/30/2022,D,STL44711,Busch Stadium,1.036,0.84,0.93,Packy Naughton,L,SDP,Nick Martinez,R
+SDP,Away,5/30/2022,D,SDP44711,Busch Stadium,1.036,0.84,0.93,Nick Martinez,R,STL,Packy Naughton,L
+ARI,Home,5/30/2022,N,ARI44711,Chase Field,0.983,0.87,0.97,Zac Gallen,R,ATL,Spencer Strider,R
+ATL,Away,5/30/2022,N,ATL44711,Chase Field,0.983,0.87,0.97,Spencer Strider,R,ARI,Zac Gallen,R
+NYM,Home,5/30/2022,N,NYM44711,Citi Field,0.9,1.07,0.98,David Peterson,L,WSN,Erick Fedde,R
+WSN,Away,5/30/2022,N,WSN44711,Citi Field,0.9,1.07,0.98,Erick Fedde,R,NYM,David Peterson,L
+SFG,Away,5/30/2022,D,SFG44711,Citizens Bank Park,1.084,1.22,1.16,Logan Webb,R,PHI,Kyle Gibson,R
+PHI,Home,5/30/2022,D,PHI44711,Citizens Bank Park,1.084,1.22,1.16,Kyle Gibson,R,SFG,Logan Webb,R
+DET,Home,5/30/2022,D,DET44711,Comerica Park,0.978,0.96,0.88,Beau Brieske,R,MIN,Dylan Bundy,R
+MIN,Away,5/30/2022,D,MIN44711,Comerica Park,0.978,0.96,0.88,Dylan Bundy,R,DET,Beau Brieske,R
+MIA,Away,5/30/2022,D,MIA44711,Coors Field,0.978,1.21,1.22,Pablo Lopez,R,COL,Ryan Feltner,R
+COL,Home,5/30/2022,D,COL44711,Coors Field,0.978,1.21,1.22,Ryan Feltner,R,MIA,Pablo Lopez,R
+LAD,Home,5/30/2022,N,LAD44711,Dodger Stadium,1.081,1.2,1.05,Walker Buehler,R,PIT,Zach Thompson,R
+PIT,Away,5/30/2022,N,PIT44711,Dodger Stadium,1.081,1.2,1.05,Zach Thompson,R,LAD,Walker Buehler,R
+BAL,Away,5/30/2022,N,BAL44711,Fenway Park,1.028,0.98,0.84,Tyler Wells,R,BOS,Rich Hill,L
+BOS,Home,5/30/2022,N,BOS44711,Fenway Park,1.028,0.98,0.84,Rich Hill,L,BAL,Tyler Wells,R
+TEX,Home,5/30/2022,N,TEX44711,Globe Life Field,0.981,0.96,0.95,Glenn Otto,R,TBR,Drew Rasmussen,R
+TBR,Away,5/30/2022,N,TBR44711,Globe Life Field,0.981,0.96,0.95,Drew Rasmussen,R,TEX,Glenn Otto,R
+HOU,Away,5/30/2022,D,HOU44711,Oakland Coliseum,1.027,0.82,0.73,Framber Valdez,L,OAK,Paul Blackburn,R
+OAK,Home,5/30/2022,D,OAK44711,Oakland Coliseum,1.027,0.82,0.73,Paul Blackburn,R,HOU,Framber Valdez,L
+CLE,Home,5/30/2022,N,CLE44711,Progressive Field,1.216,0.98,1.08,Zach Plesac,R,KCR,Jon Heasley,R
+KCR,Away,5/30/2022,N,KCR44711,Progressive Field,1.216,0.98,1.08,Jon Heasley,R,CLE,Zach Plesac,R
+MIL,Away,5/30/2022,D,MIL44711,Wrigley Field,0.96,0.98,0.83,Aaron Ashby,L,CHC,Drew Smyly,L
+CHC,Home,5/30/2022,D,CHC44711,Wrigley Field,0.96,0.98,0.83,Drew Smyly,L,MIL,Aaron Ashby,L
+STL,Home,5/31/2022,N,STL44712,Busch Stadium,1.036,0.84,0.93,Adam Wainwright,R,SDP,Blake Snell,L
+SDP,Away,5/31/2022,N,SDP44712,Busch Stadium,1.036,0.84,0.93,Blake Snell,L,STL,Adam Wainwright,R
+ARI,Home,5/31/2022,N,ARI44712,Chase Field,0.983,0.87,0.97,Humberto Castellanos,R,ATL,Charlie Morton,R
+ATL,Away,5/31/2022,N,ATL44712,Chase Field,0.983,0.87,0.97,Charlie Morton,R,ARI,Humberto Castellanos,R
+NYM,Home,5/31/2022,N,NYM44712,Citi Field,0.974,1.07,0.98,Trevor Williams,R,WSN,Patrick Corbin,L
+WSN,Away,5/31/2022,N,WSN44712,Citi Field,0.974,1.07,0.98,Patrick Corbin,L,NYM,Trevor Williams,R
+SFG,Away,5/31/2022,N,SFG44712,Citizens Bank Park,0.973,1.22,1.16,Jakob Junis,R,PHI,Ranger Suarez,L
+PHI,Home,5/31/2022,N,PHI44712,Citizens Bank Park,0.973,1.22,1.16,Ranger Suarez,L,SFG,Jakob Junis,R
+DET,Home,5/31/2022,N,DET44712,Comerica Park,1.056,0.96,0.88,Rony Garcia,R,MIN,Devin Smeltzer,L
+MIN,Away,5/31/2022,N,MIN44712,Comerica Park,1.056,0.96,0.88,Devin Smeltzer,L,DET,Rony Garcia,R
+LAD,Home,5/31/2022,N,LAD44712,Dodger Stadium,1.081,1.2,1.05,Julio Urias,L,PIT,Mitch Keller,R
+PIT,Away,5/31/2022,N,PIT44712,Dodger Stadium,1.081,1.2,1.05,Mitch Keller,R,LAD,Julio Urias,L
+BOS,Home,5/31/2022,N,BOS44712,Fenway Park,0.895,0.98,0.84,Michael Wacha,R,CIN,Luis Castillo,R
+CIN,Away,5/31/2022,N,CIN44712,Fenway Park,0.895,0.98,0.84,Luis Castillo,R,BOS,Michael Wacha,R
+TEX,Home,5/31/2022,N,TEX44712,Globe Life Field,0.981,0.96,0.95,Martin Perez,L,TBR,Ryan Yarbrough,L
+TBR,Away,5/31/2022,N,TBR44712,Globe Life Field,0.981,0.96,0.95,Ryan Yarbrough,L,TEX,Martin Perez,L
+HOU,Away,5/31/2022,N,HOU44712,Oakland Coliseum,1.124,0.82,0.73,Cristian Javier,R,OAK,Frankie Montas,R
+OAK,Home,5/31/2022,N,OAK44712,Oakland Coliseum,1.124,0.82,0.73,Frankie Montas,R,HOU,Cristian Javier,R
+SEA,Away,5/31/2022,N,SEA44712,Oriole Park,0.932,1.2,1.11,George Kirby,R,BAL,Bryan Baker,R
+BAL,Home,5/31/2022,N,BAL44712,Oriole Park,0.932,1.2,1.11,Bryan Baker,R,SEA,George Kirby,R
+CLE,Home,5/31/2022,N,CLE44712,Progressive Field,1.019,0.98,1.08,Cal Quantrill,R,KCR,Daniel Lynch,L
+KCR,Away,5/31/2022,N,KCR44712,Progressive Field,1.019,0.98,1.08,Daniel Lynch,L,CLE,Cal Quantrill,R
+TOR,Home,5/31/2022,N,TOR44712,Rogers Centre,0.989,1.1,1.15,Kevin Gausman,R,CHW,Lucas Giolito,R
+CHW,Away,5/31/2022,N,CHW44712,Rogers Centre,0.989,1.1,1.15,Lucas Giolito,R,TOR,Kevin Gausman,R
+MIL,Away,5/31/2022,N,MIL44712,Wrigley Field,0.96,0.98,0.83,Eric Lauer,L,CHC,Justin Steele,L
+CHC,Home,5/31/2022,N,CHC44712,Wrigley Field,0.96,0.98,0.83,Justin Steele,L,MIL,Eric Lauer,L
+LAA,Away,5/31/2022,N,LAA44712,Yankee Stadium,0.921,1.02,1.1,Noah Syndergaard,R,NYY,Jordan Montgomery,L
+NYY,Home,5/31/2022,N,NYY44712,Yankee Stadium,0.921,1.02,1.1,Jordan Montgomery,L,LAA,Noah Syndergaard,R
+STL,Home,6/1/2022,D,STL44713,Busch Stadium,0.936,0.84,0.93,Dakota Hudson,R,SDP,Yu Darvish,R
+SDP,Away,6/1/2022,D,SDP44713,Busch Stadium,0.936,0.84,0.93,Yu Darvish,R,STL,Dakota Hudson,R
+ARI,Home,6/1/2022,D,ARI44713,Chase Field,0.983,0.87,0.97,Madison Bumgarner,L,ATL,Kyle Wright,R
+ATL,Away,6/1/2022,D,ATL44713,Chase Field,0.983,0.87,0.97,Kyle Wright,R,ARI,Madison Bumgarner,L
+NYM,Home,6/1/2022,D,NYM44713,Citi Field,0.974,1.07,0.98,Carlos Carrasco,R,WSN,Evan Lee,L
+WSN,Away,6/1/2022,D,WSN44713,Citi Field,0.974,1.07,0.98,Evan Lee,L,NYM,Carlos Carrasco,R
+SFG,Away,6/1/2022,N,SFG44713,Citizens Bank Park,0.963,1.22,1.16,Carlos Rodon,L,PHI,Aaron Nola,R
+PHI,Home,6/1/2022,N,PHI44713,Citizens Bank Park,0.963,1.22,1.16,Aaron Nola,R,SFG,Carlos Rodon,L
+DET,Home,6/1/2022,D,DET44713,Comerica Park,1.004,0.96,0.88,Tarik Skubal,L,MIN,Bailey Ober,R
+MIN,Away,6/1/2022,D,MIN44713,Comerica Park,1.004,0.96,0.88,Bailey Ober,R,DET,Tarik Skubal,L
+MIA,Away,6/1/2022,D,MIA44713,Coors Field,0.918,1.21,1.22,Trevor Rogers,L,COL,German Marquez,R
+COL,Home,6/1/2022,D,COL44713,Coors Field,0.918,1.21,1.22,German Marquez,R,MIA,Trevor Rogers,L
+LAD,Home,6/1/2022,N,LAD44713,Dodger Stadium,1.081,1.2,1.05,Mitch White,R,PIT,Jose Quintana,L
+PIT,Away,6/1/2022,N,PIT44713,Dodger Stadium,1.081,1.2,1.05,Jose Quintana,L,LAD,Mitch White,R
+BOS,Home,6/1/2022,N,BOS44713,Fenway Park,1.272,0.98,0.84,Garrett Whitlock,R,CIN,Hunter Greene,R
+CIN,Away,6/1/2022,N,CIN44713,Fenway Park,1.272,0.98,0.84,Hunter Greene,R,BOS,Garrett Whitlock,R
+TEX,Home,6/1/2022,N,TEX44713,Globe Life Field,0.981,0.96,0.95,Jon Gray,R,TBR,Jeffrey Springs,L
+TBR,Away,6/1/2022,N,TBR44713,Globe Life Field,0.981,0.96,0.95,Jeffrey Springs,L,TEX,Jon Gray,R
+HOU,Away,6/1/2022,D,HOU44713,Oakland Coliseum,1.199,0.82,0.73,Justin Verlander,R,OAK,Cole Irvin,L
+OAK,Home,6/1/2022,D,OAK44713,Oakland Coliseum,1.199,0.82,0.73,Cole Irvin,L,HOU,Justin Verlander,R
+SEA,Away,6/1/2022,N,SEA44713,Oriole Park,0.989,1.2,1.11,Robbie Ray,L,BAL,Kyle Bradish,R
+BAL,Home,6/1/2022,N,BAL44713,Oriole Park,0.989,1.2,1.11,Kyle Bradish,R,SEA,Robbie Ray,L
+CLE,Home,6/1/2022,D,CLE44713,Progressive Field,1.033,0.98,1.08,Konnor Pilkington,L,KCR,Brad Keller,R
+KCR,Away,6/1/2022,D,KCR44713,Progressive Field,1.033,0.98,1.08,Brad Keller,R,CLE,Konnor Pilkington,L
+TOR,Home,6/1/2022,N,TOR44713,Rogers Centre,0.989,1.1,1.15,Hyun-Jin Ryu,L,CHW,Michael Kopech,R
+CHW,Away,6/1/2022,N,CHW44713,Rogers Centre,0.989,1.1,1.15,Michael Kopech,R,TOR,Hyun-Jin Ryu,L
+MIL,Away,6/1/2022,N,MIL44713,Wrigley Field,0.96,0.98,0.83,Jason Alexander,R,CHC,Kyle Hendricks,R
+CHC,Home,6/1/2022,N,CHC44713,Wrigley Field,0.96,0.98,0.83,Kyle Hendricks,R,MIL,Jason Alexander,R
+MIL,Home,6/2/2022,N,MIL44714,American Family Fld,0.988,1.14,1.08,Adrian Houser,R,SDP,Sean Manaea,L
+SDP,Away,6/2/2022,N,SDP44714,American Family Fld,0.988,1.14,1.08,Sean Manaea,L,MIL,Adrian Houser,R
+ATL,Away,6/2/2022,N,ATL44714,Coors Field,1.163,1.21,1.22,Ian Anderson,R,COL,Austin Gomber,L
+COL,Home,6/2/2022,N,COL44714,Coors Field,1.163,1.21,1.22,Austin Gomber,L,ATL,Ian Anderson,R
+LAD,Home,6/2/2022,N,LAD44714,Dodger Stadium,1.081,1.2,1.05,Tony Gonsolin,R,NYM,Taijuan Walker,R
+NYM,Away,6/2/2022,N,NYM44714,Dodger Stadium,1.081,1.2,1.05,Taijuan Walker,R,LAD,Tony Gonsolin,R
+TEX,Home,6/2/2022,D,TEX44714,Globe Life Field,0.981,0.96,0.95,Taylor Hearn,L,TBR,Corey Kluber,R
+TBR,Away,6/2/2022,D,TBR44714,Globe Life Field,0.981,0.96,0.95,Corey Kluber,R,TEX,Taylor Hearn,L
+WSN,Away,6/2/2022,N,WSN44714,Great American BP,1.001,1.3,1.36,Joan Adon,R,CIN,Graham Ashcraft,R
+CIN,Home,6/2/2022,N,CIN44714,Great American BP,1.001,1.3,1.36,Graham Ashcraft,R,WSN,Joan Adon,R
+SFG,Away,6/2/2022,N,SFG44714,LoanDepot Park,1.011,0.72,0.77,Alex Wood,L,MIA,Sandy Alcantara,R
+MIA,Home,6/2/2022,N,MIA44714,LoanDepot Park,1.011,0.72,0.77,Sandy Alcantara,R,SFG,Alex Wood,L
+SEA,Away,6/2/2022,N,SEA44714,Oriole Park,0.95,1.2,1.11,Chris Flexen,R,BAL,Jordan Lyles,R
+BAL,Home,6/2/2022,N,BAL44714,Oriole Park,0.95,1.2,1.11,Jordan Lyles,R,SEA,Chris Flexen,R
+TOR,Home,6/2/2022,D,TOR44714,Rogers Centre,0.989,1.1,1.15,Alek Manoah,R,CHW,Johnny Cueto,R
+CHW,Away,6/2/2022,D,CHW44714,Rogers Centre,0.989,1.1,1.15,Johnny Cueto,R,TOR,Alek Manoah,R
+STL,Away,6/2/2022,N,STL44714,Wrigley Field,0.96,0.98,0.83,Matthew Liberatore,L,CHC,Keegan Thompson,R
+CHC,Home,6/2/2022,N,CHC44714,Wrigley Field,0.96,0.98,0.83,Keegan Thompson,R,STL,Matthew Liberatore,L
+LAA,Away,6/2/2022,N,LAA44714,Yankee Stadium,1.035,1.02,1.1,Reid Detmers,L,NYY,Jameson Taillon,R
+NYY,Home,6/2/2022,N,NYY44714,Yankee Stadium,1.035,1.02,1.1,Jameson Taillon,R,LAA,Reid Detmers,L
+MIL,Home,6/3/2022,N,MIL44715,American Family Fld,0.988,1.14,1.08,Corbin Burnes,R,SDP,Joe Musgrove,R
+SDP,Away,6/3/2022,N,SDP44715,American Family Fld,0.988,1.14,1.08,Joe Musgrove,R,MIL,Corbin Burnes,R
+LAA,Away,6/3/2022,N,LAA44715,Citizens Bank Park,1.035,1.22,1.16,Chase Silseth,R,PHI,Zach Eflin,R
+PHI,Home,6/3/2022,N,PHI44715,Citizens Bank Park,1.035,1.22,1.16,Zach Eflin,R,LAA,Chase Silseth,R
+ATL,Away,6/3/2022,N,ATL44715,Coors Field,1.06,1.21,1.22,Max Fried,L,COL,Chad Kuhl,R
+COL,Home,6/3/2022,N,COL44715,Coors Field,1.06,1.21,1.22,Chad Kuhl,R,ATL,Max Fried,L
+LAD,Home,6/3/2022,N,LAD44715,Dodger Stadium,1.081,1.2,1.05,Tyler Anderson,L,NYM,Chris Bassitt,R
+NYM,Away,6/3/2022,N,NYM44715,Dodger Stadium,1.081,1.2,1.05,Chris Bassitt,R,LAD,Tyler Anderson,L
+SEA,Away,6/3/2022,N,SEA44715,Globe Life Field,0.981,0.96,0.95,Logan Gilbert,R,TEX,Dane Dunning,R
+TEX,Home,6/3/2022,N,TEX44715,Globe Life Field,0.981,0.96,0.95,Dane Dunning,R,SEA,Logan Gilbert,R
+WSN,Away,6/3/2022,N,WSN44715,Great American BP,1.001,1.3,1.36,Josiah Gray,R,CIN,Mike Minor,L
+CIN,Home,6/3/2022,N,CIN44715,Great American BP,1.001,1.3,1.36,Mike Minor,L,WSN,Josiah Gray,R
+HOU,Away,6/3/2022,N,HOU44715,Kauffman Stadium,1.106,0.84,0.76,Jose Urquidy,R,KCR,Brady Singer,R
+KCR,Home,6/3/2022,N,KCR44715,Kauffman Stadium,1.106,0.84,0.76,Brady Singer,R,HOU,Jose Urquidy,R
+SFG,Away,6/3/2022,N,SFG44715,LoanDepot Park,1.011,0.72,0.77,John Brebbia,R,MIA,Richard Bleier,L
+MIA,Home,6/3/2022,N,MIA44715,LoanDepot Park,1.011,0.72,0.77,Richard Bleier,L,SFG,John Brebbia,R
+OAK,Home,6/3/2022,N,OAK44715,Oakland Coliseum,1.027,0.82,0.73,James Kaprielian,R,BOS,Nathan Eovaldi,R
+BOS,Away,6/3/2022,N,BOS44715,Oakland Coliseum,1.027,0.82,0.73,Nathan Eovaldi,R,OAK,James Kaprielian,R
+CLE,Away,6/3/2022,N,CLE44715,Oriole Park,0.932,1.2,1.11,Shane Bieber,R,BAL,Bruce Zimmermann,L
+BAL,Home,6/3/2022,N,BAL44715,Oriole Park,0.932,1.2,1.11,Bruce Zimmermann,L,CLE,Shane Bieber,R
+ARI,Away,6/3/2022,N,ARI44715,PNC Park,0.999,0.8,0.93,Merrill Kelly,R,PIT,JT Brubaker,R
+PIT,Home,6/3/2022,N,PIT44715,PNC Park,0.999,0.8,0.93,JT Brubaker,R,ARI,Merrill Kelly,R
+TOR,Home,6/3/2022,N,TOR44715,Rogers Centre,0.989,1.1,1.15,Yusei Kikuchi,L,MIN,Chi Chi Gonzalez,R
+MIN,Away,6/3/2022,N,MIN44715,Rogers Centre,0.989,1.1,1.15,Chi Chi Gonzalez,R,TOR,Yusei Kikuchi,L
+TBR,Home,6/3/2022,N,TBR44715,Tropicana Field,0.995,0.91,0.96,Shane McClanahan,L,CHW,Davis Martin,R
+CHW,Away,6/3/2022,N,CHW44715,Tropicana Field,0.995,0.91,0.96,Davis Martin,R,TBR,Shane McClanahan,L
+STL,Away,6/3/2022,D,STL44715,Wrigley Field,0.96,0.98,0.83,Miles Mikolas,R,CHC,Marcus Stroman,R
+CHC,Home,6/3/2022,D,CHC44715,Wrigley Field,0.96,0.98,0.83,Marcus Stroman,R,STL,Miles Mikolas,R
+DET,Away,6/3/2022,N,DET44715,Yankee Stadium,1.009,1.02,1.1,Elvin Rodriguez,R,NYY,Gerrit Cole,R
+NYY,Home,6/3/2022,N,NYY44715,Yankee Stadium,1.009,1.02,1.1,Gerrit Cole,R,DET,Elvin Rodriguez,R
+MIL,Home,6/4/2022,D,MIL44716,American Family Fld,0.988,1.14,1.08,Aaron Ashby,L,SDP,MacKenzie Gore,L
+SDP,Away,6/4/2022,D,SDP44716,American Family Fld,0.988,1.14,1.08,MacKenzie Gore,L,MIL,Aaron Ashby,L
+LAA,Away,6/4/2022,N,LAA44716,Citizens Bank Park,0.973,1.22,1.16,Michael Lorenzen,R,PHI,Zack Wheeler,R
+PHI,Home,6/4/2022,N,PHI44716,Citizens Bank Park,0.973,1.22,1.16,Zack Wheeler,R,LAA,Michael Lorenzen,R
+ATL,Away,6/4/2022,N,ATL44716,Coors Field,0.994,1.21,1.22,Spencer Strider,R,COL,Kyle Freeland,L
+COL,Home,6/4/2022,N,COL44716,Coors Field,0.994,1.21,1.22,Kyle Freeland,L,ATL,Spencer Strider,R
+LAD,Home,6/4/2022,N,LAD44716,Dodger Stadium,1.081,1.2,1.05,Walker Buehler,R,NYM,David Peterson,L
+NYM,Away,6/4/2022,N,NYM44716,Dodger Stadium,1.081,1.2,1.05,David Peterson,L,LAD,Walker Buehler,R
+SEA,Away,6/4/2022,D,SEA44716,Globe Life Field,0.981,0.96,0.95,Marco Gonzales,L,TEX,Glenn Otto,R
+TEX,Home,6/4/2022,D,TEX44716,Globe Life Field,0.981,0.96,0.95,Glenn Otto,R,SEA,Marco Gonzales,L
+WSN,Away,6/4/2022,D,WSN44716,Great American BP,1.001,1.3,1.36,Erick Fedde,R,CIN,Tyler Mahle,R
+CIN,Home,6/4/2022,D,CIN44716,Great American BP,1.001,1.3,1.36,Tyler Mahle,R,WSN,Erick Fedde,R
+HOU,Away,6/4/2022,D,HOU44716,Kauffman Stadium,0.998,0.84,0.76,Luis Garcia,R,KCR,Kris Bubic,L
+KCR,Home,6/4/2022,D,KCR44716,Kauffman Stadium,0.998,0.84,0.76,Kris Bubic,L,HOU,Luis Garcia,R
+SFG,Away,6/4/2022,D,SFG44716,LoanDepot Park,1.011,0.72,0.77,Logan Webb,R,MIA,Pablo Lopez,R
+MIA,Home,6/4/2022,D,MIA44716,LoanDepot Park,1.011,0.72,0.77,Pablo Lopez,R,SFG,Logan Webb,R
+OAK,Home,6/4/2022,D,OAK44716,Oakland Coliseum,1.199,0.82,0.73,Paul Blackburn,R,BOS,Nick Pivetta,R
+BOS,Away,6/4/2022,D,BOS44716,Oakland Coliseum,1.199,0.82,0.73,Nick Pivetta,R,OAK,Paul Blackburn,R
+CLE,Away,6/4/2022,D,CLE44716,Oriole Park,0.854,1.2,1.11,Triston McKenzie,R,BAL,Tyler Wells,R
+BAL,Home,6/4/2022,D,BAL44716,Oriole Park,0.854,1.2,1.11,Tyler Wells,R,CLE,Triston McKenzie,R
+ARI,Away,6/4/2022,D,ARI44716,PNC Park,1.045,0.8,0.93,Zach Davies,R,PIT,Roansy Contreras,R
+PIT,Home,6/4/2022,D,PIT44716,PNC Park,1.045,0.8,0.93,Roansy Contreras,R,ARI,Zach Davies,R
+TOR,Home,6/4/2022,D,TOR44716,Rogers Centre,0.989,1.1,1.15,Jose Berrios,R,MIN,Dylan Bundy,R
+MIN,Away,6/4/2022,D,MIN44716,Rogers Centre,0.989,1.1,1.15,Dylan Bundy,R,TOR,Jose Berrios,R
+TBR,Home,6/4/2022,D,TBR44716,Tropicana Field,0.995,0.91,0.96,Drew Rasmussen,R,CHW,Dylan Cease,R
+CHW,Away,6/4/2022,D,CHW44716,Tropicana Field,0.995,0.91,0.96,Dylan Cease,R,TBR,Drew Rasmussen,R
+STL,Away,6/4/2022,D,STL44716,Wrigley Field,0.96,0.98,0.83,Neil Pallante,R,CHC,Caleb Kilian,R
+CHC,Home,6/4/2022,D,CHC44716,Wrigley Field,0.96,0.98,0.83,Caleb Kilian,R,STL,Neil Pallante,R
+DET,Away,6/4/2022,D,DET44716,Yankee Stadium,1.109,1.02,1.1,Beau Brieske,R,NYY,Luis Severino,R
+NYY,Home,6/4/2022,D,NYY44716,Yankee Stadium,1.109,1.02,1.1,Luis Severino,R,DET,Beau Brieske,R
+MIL,Home,6/5/2022,D,MIL44717,American Family Fld,0.988,1.14,1.08,Eric Lauer,L,SDP,Mike Clevinger,R
+SDP,Away,6/5/2022,D,SDP44717,American Family Fld,0.988,1.14,1.08,Mike Clevinger,R,MIL,Eric Lauer,L
+LAA,Away,6/5/2022,D,LAA44717,Citizens Bank Park,1.035,1.22,1.16,Patrick Sandoval,L,PHI,Kyle Gibson,R
+PHI,Home,6/5/2022,D,PHI44717,Citizens Bank Park,1.035,1.22,1.16,Kyle Gibson,R,LAA,Patrick Sandoval,L
+ATL,Away,6/5/2022,D,ATL44717,Coors Field,1.008,1.21,1.22,Charlie Morton,R,COL,Ryan Feltner,R
+COL,Home,6/5/2022,D,COL44717,Coors Field,1.008,1.21,1.22,Ryan Feltner,R,ATL,Charlie Morton,R
+LAD,Home,6/5/2022,D,LAD44717,Dodger Stadium,1.081,1.2,1.05,Julio Urias,L,NYM,Trevor Williams,R
+NYM,Away,6/5/2022,D,NYM44717,Dodger Stadium,1.081,1.2,1.05,Trevor Williams,R,LAD,Julio Urias,L
+SEA,Away,6/5/2022,D,SEA44717,Globe Life Field,0.981,0.96,0.95,George Kirby,R,TEX,Martin Perez,L
+TEX,Home,6/5/2022,D,TEX44717,Globe Life Field,0.981,0.96,0.95,Martin Perez,L,SEA,George Kirby,R
+WSN,Away,6/5/2022,D,WSN44717,Great American BP,1.001,1.3,1.36,Patrick Corbin,L,CIN,Luis Castillo,R
+CIN,Home,6/5/2022,D,CIN44717,Great American BP,1.001,1.3,1.36,Luis Castillo,R,WSN,Patrick Corbin,L
+HOU,Away,6/5/2022,D,HOU44717,Kauffman Stadium,1.106,0.84,0.76,Framber Valdez,L,KCR,Jon Heasley,R
+KCR,Home,6/5/2022,D,KCR44717,Kauffman Stadium,1.106,0.84,0.76,Jon Heasley,R,HOU,Framber Valdez,L
+SFG,Away,6/5/2022,D,SFG44717,LoanDepot Park,1.011,0.72,0.77,Jakob Junis,R,MIA,Braxton Garrett,L
+MIA,Home,6/5/2022,D,MIA44717,LoanDepot Park,1.011,0.72,0.77,Braxton Garrett,L,SFG,Jakob Junis,R
+OAK,Home,6/5/2022,D,OAK44717,Oakland Coliseum,1.027,0.82,0.73,Frankie Montas,R,BOS,Rich Hill,L
+BOS,Away,6/5/2022,D,BOS44717,Oakland Coliseum,1.027,0.82,0.73,Rich Hill,L,OAK,Frankie Montas,R
+CLE,Away,6/5/2022,D,CLE44717,Oriole Park,1.043,1.2,1.11,Zach Plesac,R,BAL,Dean Kremer,R
+BAL,Home,6/5/2022,D,BAL44717,Oriole Park,1.043,1.2,1.11,Dean Kremer,R,CLE,Zach Plesac,R
+ARI,Away,6/5/2022,D,ARI44717,PNC Park,1.045,0.8,0.93,Zac Gallen,R,PIT,Zach Thompson,R
+PIT,Home,6/5/2022,D,PIT44717,PNC Park,1.045,0.8,0.93,Zach Thompson,R,ARI,Zac Gallen,R
+TOR,Home,6/5/2022,D,TOR44717,Rogers Centre,0.989,1.1,1.15,Kevin Gausman,R,MIN,Devin Smeltzer,L
+MIN,Away,6/5/2022,D,MIN44717,Rogers Centre,0.989,1.1,1.15,Devin Smeltzer,L,TOR,Kevin Gausman,R
+TBR,Home,6/5/2022,D,TBR44717,Tropicana Field,0.995,0.91,0.96,Ryan Yarbrough,L,CHW,Lucas Giolito,R
+CHW,Away,6/5/2022,D,CHW44717,Tropicana Field,0.995,0.91,0.96,Lucas Giolito,R,TBR,Ryan Yarbrough,L
+STL,Away,6/5/2022,D,STL44717,Wrigley Field,0.96,0.98,0.83,Adam Wainwright,R,CHC,Justin Steele,L
+CHC,Home,6/5/2022,D,CHC44717,Wrigley Field,0.96,0.98,0.83,Justin Steele,L,STL,Adam Wainwright,R
+DET,Away,6/5/2022,D,DET44717,Yankee Stadium,0.921,1.02,1.1,Rony Garcia,R,NYY,Jordan Montgomery,L
+NYY,Home,6/5/2022,D,NYY44717,Yankee Stadium,0.921,1.02,1.1,Jordan Montgomery,L,DET,Rony Garcia,R
+LAA,Home,6/6/2022,N,LAA44718,Angel Stadium,0.987,1.04,1.29,Noah Syndergaard,R,BOS,Michael Wacha,R
+BOS,Away,6/6/2022,N,BOS44718,Angel Stadium,0.987,1.04,1.29,Michael Wacha,R,LAA,Noah Syndergaard,R
+ARI,Away,6/6/2022,N,ARI44718,Great American BP,1.001,1.3,1.36,Madison Bumgarner,L,CIN,Hunter Greene,R
+CIN,Home,6/6/2022,N,CIN44718,Great American BP,1.001,1.3,1.36,Hunter Greene,R,ARI,Madison Bumgarner,L
+TOR,Away,6/6/2022,N,TOR44718,Kauffman Stadium,1.106,0.84,0.76,Ross Stripling,R,KCR,Daniel Lynch,L
+KCR,Home,6/6/2022,N,KCR44718,Kauffman Stadium,1.106,0.84,0.76,Daniel Lynch,L,TOR,Ross Stripling,R
+HOU,Home,6/6/2022,N,HOU44718,Minute Maid Park,0.993,1.12,1.07,Cristian Javier,R,SEA,Robbie Ray,L
+SEA,Away,6/6/2022,N,SEA44718,Minute Maid Park,0.993,1.12,1.07,Robbie Ray,L,HOU,Cristian Javier,R
+NYM,Away,6/6/2022,N,NYM44718,Petco Park,1.035,0.98,0.92,Carlos Carrasco,R,SDP,Blake Snell,L
+SDP,Home,6/6/2022,N,SDP44718,Petco Park,1.035,0.98,0.92,Blake Snell,L,NYM,Carlos Carrasco,R
+MIL,Home,6/7/2022,N,MIL44719,American Family Fld,0.988,1.14,1.08,Jason Alexander,R,PHI,Ranger Suarez,L
+PHI,Away,6/7/2022,N,PHI44719,American Family Fld,0.988,1.14,1.08,Ranger Suarez,L,MIL,Jason Alexander,R
+LAA,Home,6/7/2022,N,LAA44719,Angel Stadium,0.987,1.04,1.29,Jose Suarez,L,BOS,Garrett Whitlock,R
+BOS,Away,6/7/2022,N,BOS44719,Angel Stadium,0.987,1.04,1.29,Garrett Whitlock,R,LAA,Jose Suarez,L
+ARI,Away,6/7/2022,N,ARI44719,Great American BP,1.001,1.3,1.36,Tyler Gilbert,L,CIN,Graham Ashcraft,R
+CIN,Home,6/7/2022,N,CIN44719,Great American BP,1.001,1.3,1.36,Graham Ashcraft,R,ARI,Tyler Gilbert,L
+LAD,Away,6/7/2022,N,LAD44719,Guaranteed Rate Fld,0.971,1.12,1.15,Mitch White,R,CHW,Michael Kopech,R
+CHW,Home,6/7/2022,N,CHW44719,Guaranteed Rate Fld,0.971,1.12,1.15,Michael Kopech,R,LAD,Mitch White,R
+TOR,Away,6/7/2022,N,TOR44719,Kauffman Stadium,0.998,0.84,0.76,Alek Manoah,R,KCR,Brad Keller,R
+KCR,Home,6/7/2022,N,KCR44719,Kauffman Stadium,0.998,0.84,0.76,Brad Keller,R,TOR,Alek Manoah,R
+MIA,Home,6/7/2022,N,MIA44719,LoanDepot Park,1.011,0.72,0.77,Edward Cabrera,R,WSN,Joan Adon,R
+WSN,Away,6/7/2022,N,WSN44719,LoanDepot Park,1.011,0.72,0.77,Joan Adon,R,MIA,Edward Cabrera,R
+HOU,Home,6/7/2022,N,HOU44719,Minute Maid Park,0.993,1.12,1.07,Justin Verlander,R,SEA,Chris Flexen,R
+SEA,Away,6/7/2022,N,SEA44719,Minute Maid Park,0.993,1.12,1.07,Chris Flexen,R,HOU,Justin Verlander,R
+SFG,Home,6/7/2022,N,SFG44719,Oracle Park,0.998,0.79,0.73,Carlos Rodon,L,COL,German Marquez,R
+COL,Away,6/7/2022,N,COL44719,Oracle Park,0.998,0.79,0.73,German Marquez,R,SFG,Carlos Rodon,L
+CHC,Away,6/7/2022,N,CHC44719,Oriole Park,1.123,1.2,1.11,Keegan Thompson,R,BAL,Kyle Bradish,R
+BAL,Home,6/7/2022,N,BAL44719,Oriole Park,1.123,1.2,1.11,Kyle Bradish,R,CHC,Keegan Thompson,R
+NYM,Away,6/7/2022,N,NYM44719,Petco Park,1.01,0.98,0.92,Taijuan Walker,R,SDP,Yu Darvish,R
+SDP,Home,6/7/2022,N,SDP44719,Petco Park,1.01,0.98,0.92,Yu Darvish,R,NYM,Taijuan Walker,R
+PIT,Home,6/7/2022,N,PIT44719,PNC Park,1.045,0.8,0.93,Jose Quintana,L,DET,Wily Peralta,R
+DET,Away,6/7/2022,N,DET44719,PNC Park,1.045,0.8,0.93,Wily Peralta,R,PIT,Jose Quintana,L
+CLE,Home,6/7/2022,N,CLE44719,Progressive Field,1.033,0.98,1.08,Cal Quantrill,R,TEX,Jon Gray,R
+TEX,Away,6/7/2022,N,TEX44719,Progressive Field,1.033,0.98,1.08,Jon Gray,R,CLE,Cal Quantrill,R
+MIN,Home,6/7/2022,N,MIN44719,Target Field,1.054,0.86,0.89,Cole Sands,R,NYY,Jameson Taillon,R
+NYY,Away,6/7/2022,N,NYY44719,Target Field,1.054,0.86,0.89,Jameson Taillon,R,MIN,Cole Sands,R
+STL,Away,6/7/2022,N,STL44719,Tropicana Field,0.995,0.91,0.96,Dakota Hudson,R,TBR,Jeffrey Springs,L
+TBR,Home,6/7/2022,N,TBR44719,Tropicana Field,0.995,0.91,0.96,Jeffrey Springs,L,STL,Dakota Hudson,R
+OAK,Away,6/7/2022,N,OAK44719,Truist Park,1.064,0.94,0.92,Cole Irvin,L,ATL,Kyle Wright,R
+ATL,Home,6/7/2022,N,ATL44719,Truist Park,1.064,0.94,0.92,Kyle Wright,R,OAK,Cole Irvin,L
+MIL,Home,6/8/2022,N,MIL44720,American Family Fld,0.988,1.14,1.08,Adrian Houser,R,PHI,Aaron Nola,R
+PHI,Away,6/8/2022,N,PHI44720,American Family Fld,0.988,1.14,1.08,Aaron Nola,R,MIL,Adrian Houser,R
+LAA,Home,6/8/2022,N,LAA44720,Angel Stadium,0.987,1.04,1.29,Reid Detmers,L,BOS,Nathan Eovaldi,R
+BOS,Away,6/8/2022,N,BOS44720,Angel Stadium,0.987,1.04,1.29,Nathan Eovaldi,R,LAA,Reid Detmers,L
+ARI,Away,6/8/2022,N,ARI44720,Great American BP,1.046,1.3,1.36,Merrill Kelly,R,CIN,Mike Minor,L
+CIN,Home,6/8/2022,N,CIN44720,Great American BP,1.046,1.3,1.36,Mike Minor,L,ARI,Merrill Kelly,R
+LAD,Away,6/8/2022,N,LAD44720,Guaranteed Rate Fld,1.048,1.12,1.15,Tony Gonsolin,R,CHW,Johnny Cueto,R
+CHW,Home,6/8/2022,N,CHW44720,Guaranteed Rate Fld,1.048,1.12,1.15,Johnny Cueto,R,LAD,Tony Gonsolin,R
+TOR,Away,6/8/2022,D,TOR44720,Kauffman Stadium,0.861,0.84,0.76,Yusei Kikuchi,L,KCR,Brady Singer,R
+KCR,Home,6/8/2022,D,KCR44720,Kauffman Stadium,0.861,0.84,0.76,Brady Singer,R,TOR,Yusei Kikuchi,L
+MIA,Home,6/8/2022,N,MIA44720,LoanDepot Park,1.011,0.72,0.77,Sandy Alcantara,R,WSN,Josiah Gray,R
+WSN,Away,6/8/2022,N,WSN44720,LoanDepot Park,1.011,0.72,0.77,Josiah Gray,R,MIA,Sandy Alcantara,R
+HOU,Home,6/8/2022,N,HOU44720,Minute Maid Park,0.993,1.12,1.07,Jose Urquidy,R,SEA,Logan Gilbert,R
+SEA,Away,6/8/2022,N,SEA44720,Minute Maid Park,0.993,1.12,1.07,Logan Gilbert,R,HOU,Jose Urquidy,R
+SFG,Home,6/8/2022,N,SFG44720,Oracle Park,1.04,0.79,0.73,Alex Wood,L,COL,Antonio Senzatela,R
+COL,Away,6/8/2022,N,COL44720,Oracle Park,1.04,0.79,0.73,Antonio Senzatela,R,SFG,Alex Wood,L
+NYM,Away,6/8/2022,N,NYM44720,Petco Park,1.035,0.98,0.92,Chris Bassitt,R,SDP,Sean Manaea,L
+SDP,Home,6/8/2022,N,SDP44720,Petco Park,1.035,0.98,0.92,Sean Manaea,L,NYM,Chris Bassitt,R
+PIT,Home,6/8/2022,D,PIT44720,PNC Park,0.841,0.8,0.93,Mitch Keller,R,DET,Alex Faedo,R
+DET,Away,6/8/2022,D,DET44720,PNC Park,0.841,0.8,0.93,Alex Faedo,R,PIT,Mitch Keller,R
+CLE,Home,6/8/2022,N,CLE44720,Progressive Field,0.89,0.98,1.08,Shane Bieber,R,TEX,Dane Dunning,R
+TEX,Away,6/8/2022,N,TEX44720,Progressive Field,0.89,0.98,1.08,Dane Dunning,R,CLE,Shane Bieber,R
+MIN,Home,6/8/2022,N,MIN44720,Target Field,0.955,0.86,0.89,Chris Archer,R,NYY,Nestor Cortes,L
+NYY,Away,6/8/2022,N,NYY44720,Target Field,0.955,0.86,0.89,Nestor Cortes,L,MIN,Chris Archer,R
+STL,Away,6/8/2022,N,STL44720,Tropicana Field,0.995,0.91,0.96,Packy Naughton,L,TBR,Corey Kluber,R
+TBR,Home,6/8/2022,N,TBR44720,Tropicana Field,0.995,0.91,0.96,Corey Kluber,R,STL,Packy Naughton,L
+OAK,Away,6/8/2022,N,OAK44720,Truist Park,1.064,0.94,0.92,Jared Koenig,L,ATL,Ian Anderson,R
+ATL,Home,6/8/2022,N,ATL44720,Truist Park,1.064,0.94,0.92,Ian Anderson,R,OAK,Jared Koenig,L
+MIL,Home,6/9/2022,D,MIL44721,American Family Fld,0.988,1.14,1.08,Corbin Burnes,R,PHI,Zach Eflin,R
+PHI,Away,6/9/2022,D,PHI44721,American Family Fld,0.988,1.14,1.08,Zach Eflin,R,MIL,Corbin Burnes,R
+LAA,Home,6/9/2022,N,LAA44721,Angel Stadium,0.987,1.04,1.29,Shohei Othani,R,BOS,Nick Pivetta,R
+BOS,Away,6/9/2022,N,BOS44721,Angel Stadium,0.987,1.04,1.29,Nick Pivetta,R,LAA,Shohei Othani,R
+ARI,Away,6/9/2022,D,ARI44721,Great American BP,1.01,1.3,1.36,Zach Davies,R,CIN,Tyler Mahle,R
+CIN,Home,6/9/2022,D,CIN44721,Great American BP,1.01,1.3,1.36,Tyler Mahle,R,ARI,Zach Davies,R
+LAD,Away,6/9/2022,D,LAD44721,Guaranteed Rate Fld,0.921,1.12,1.15,Tyler Anderson,L,CHW,Dylan Cease,R
+CHW,Home,6/9/2022,D,CHW44721,Guaranteed Rate Fld,0.921,1.12,1.15,Dylan Cease,R,LAD,Tyler Anderson,L
+BAL,Away,6/9/2022,N,BAL44721,Kauffman Stadium,0.998,0.84,0.76,Jordan Lyles,R,KCR,Kris Bubic,L
+KCR,Home,6/9/2022,N,KCR44721,Kauffman Stadium,0.998,0.84,0.76,Kris Bubic,L,BAL,Jordan Lyles,R
+MIA,Home,6/9/2022,N,MIA44721,LoanDepot Park,1.011,0.72,0.77,Trevor Rogers,L,WSN,Stephen Strasburg,R
+WSN,Away,6/9/2022,N,WSN44721,LoanDepot Park,1.011,0.72,0.77,Stephen Strasburg,R,MIA,Trevor Rogers,L
+SFG,Home,6/9/2022,D,SFG44721,Oracle Park,1.018,0.79,0.73,Logan Webb,R,COL,Austin Gomber,L
+COL,Away,6/9/2022,D,COL44721,Oracle Park,1.018,0.79,0.73,Austin Gomber,L,SFG,Logan Webb,R
+OAK,Away,6/9/2022,N,OAK44721,Progressive Field,1.019,0.98,1.08,James Kaprielian,R,CLE,Konnor Pilkington,L
+CLE,Home,6/9/2022,N,CLE44721,Progressive Field,1.019,0.98,1.08,Konnor Pilkington,L,OAK,James Kaprielian,R
+MIN,Home,6/9/2022,N,MIN44721,Target Field,1.173,0.86,0.89,Dylan Bundy,R,NYY,Gerrit Cole,R
+NYY,Away,6/9/2022,N,NYY44721,Target Field,1.173,0.86,0.89,Gerrit Cole,R,MIN,Dylan Bundy,R
+STL,Away,6/9/2022,D,STL44721,Tropicana Field,0.995,0.91,0.96,Miles Mikolas,R,TBR,Shane McClanahan,L
+TBR,Home,6/9/2022,D,TBR44721,Tropicana Field,0.995,0.91,0.96,Shane McClanahan,L,STL,Miles Mikolas,R
+ATL,Home,6/9/2022,N,ATL44721,Truist Park,1.064,0.94,0.92,Max Fried,L,PIT,JT Brubaker,R
+PIT,Away,6/9/2022,N,PIT44721,Truist Park,1.064,0.94,0.92,JT Brubaker,R,ATL,Max Fried,L
+LAA,Home,6/10/2022,N,LAA44722,Angel Stadium,0.987,1.04,1.29,Jhonathan Diaz,L,NYM,Tylor Megill,R
+NYM,Away,6/10/2022,N,NYM44722,Angel Stadium,0.987,1.04,1.29,Tylor Megill,R,LAA,Jhonathan Diaz,L
+STL,Home,6/10/2022,N,STL44722,Busch Stadium,0.936,0.84,0.93,Neil Pallante,R,CIN,Luis Castillo,R
+CIN,Away,6/10/2022,N,CIN44722,Busch Stadium,0.936,0.84,0.93,Luis Castillo,R,STL,Neil Pallante,R
+ARI,Away,6/10/2022,N,ARI44722,Citizens Bank Park,1.035,1.22,1.16,Zac Gallen,R,PHI,Kyle Gibson,R
+PHI,Home,6/10/2022,N,PHI44722,Citizens Bank Park,1.035,1.22,1.16,Kyle Gibson,R,ARI,Zac Gallen,R
+TOR,Away,6/10/2022,N,TOR44722,Comerica Park,1.051,0.96,0.88,Jose Berrios,R,DET,Elvin Rodriguez,R
+DET,Home,6/10/2022,N,DET44722,Comerica Park,1.051,0.96,0.88,Elvin Rodriguez,R,TOR,Jose Berrios,R
+TEX,Away,6/10/2022,N,TEX44722,Guaranteed Rate Fld,0.921,1.12,1.15,Matt Bush,R,CHW,Reynaldo Lopez,R
+CHW,Home,6/10/2022,N,CHW44722,Guaranteed Rate Fld,0.921,1.12,1.15,Reynaldo Lopez,R,TEX,Matt Bush,R
+BAL,Away,6/10/2022,N,BAL44722,Kauffman Stadium,0.893,0.84,0.76,Bruce Zimmermann,L,KCR,Jon Heasley,R
+KCR,Home,6/10/2022,N,KCR44722,Kauffman Stadium,0.893,0.84,0.76,Jon Heasley,R,BAL,Bruce Zimmermann,L
+HOU,Home,6/10/2022,N,HOU44722,Minute Maid Park,0.993,1.12,1.07,Luis Garcia,R,MIA,Pablo Lopez,R
+MIA,Away,6/10/2022,N,MIA44722,Minute Maid Park,0.993,1.12,1.07,Pablo Lopez,R,HOU,Luis Garcia,R
+MIL,Away,6/10/2022,N,MIL44722,Nationals Park,0.963,1.09,1.14,Aaron Ashby,L,WSN,Erick Fedde,R
+WSN,Home,6/10/2022,N,WSN44722,Nationals Park,0.963,1.09,1.14,Erick Fedde,R,MIL,Aaron Ashby,L
+LAD,Away,6/10/2022,N,LAD44722,Oracle Park,1.04,0.79,0.73,Walker Buehler,R,SFG,Jakob Junis,R
+SFG,Home,6/10/2022,N,SFG44722,Oracle Park,1.04,0.79,0.73,Jakob Junis,R,LAD,Walker Buehler,R
+SDP,Home,6/10/2022,N,SDP44722,Petco Park,1.035,0.98,0.92,Joe Musgrove,R,COL,Chad Kuhl,R
+COL,Away,6/10/2022,N,COL44722,Petco Park,1.035,0.98,0.92,Chad Kuhl,R,SDP,Joe Musgrove,R
+OAK,Away,6/10/2022,N,OAK44722,Progressive Field,1.033,0.98,1.08,Paul Blackburn,R,CLE,Triston McKenzie,R
+CLE,Home,6/10/2022,N,CLE44722,Progressive Field,1.033,0.98,1.08,Triston McKenzie,R,OAK,Paul Blackburn,R
+TBR,Away,6/10/2022,N,TBR44722,Target Field,1.054,0.86,0.89,Drew Rasmussen,R,MIN,Devin Smeltzer,L
+MIN,Home,6/10/2022,N,MIN44722,Target Field,1.054,0.86,0.89,Devin Smeltzer,L,TBR,Drew Rasmussen,R
+SEA,Home,6/10/2022,N,SEA44722,T-Mobile Park,1,1.04,0.89,Marco Gonzales,L,BOS,Rich Hill,L
+BOS,Away,6/10/2022,N,BOS44722,T-Mobile Park,1,1.04,0.89,Rich Hill,L,SEA,Marco Gonzales,L
+ATL,Home,6/10/2022,N,ATL44722,Truist Park,1.064,0.94,0.92,Spencer Strider,R,PIT,Roansy Contreras,R
+PIT,Away,6/10/2022,N,PIT44722,Truist Park,1.064,0.94,0.92,Roansy Contreras,R,ATL,Spencer Strider,R
+CHC,Away,6/10/2022,N,CHC44722,Yankee Stadium,1.109,1.02,1.1,Wade Miley,L,NYY,Luis Severino,R
+NYY,Home,6/10/2022,N,NYY44722,Yankee Stadium,1.109,1.02,1.1,Luis Severino,R,CHC,Wade Miley,L
+LAA,Home,6/11/2022,N,LAA44723,Angel Stadium,0.987,1.04,1.29,Michael Lorenzen,R,NYM,Carlos Carrasco,R
+NYM,Away,6/11/2022,N,NYM44723,Angel Stadium,0.987,1.04,1.29,Carlos Carrasco,R,LAA,Michael Lorenzen,R
+STL,Home,6/11/2022,D,STL44723,Busch Stadium,0.936,0.84,0.93,Adam Wainwright,R,CIN,Hunter Greene,R
+CIN,Away,6/11/2022,D,CIN44723,Busch Stadium,0.936,0.84,0.93,Hunter Greene,R,STL,Adam Wainwright,R
+ARI,Away,6/11/2022,D,ARI44723,Citizens Bank Park,1.035,1.22,1.16,Madison Bumgarner,L,PHI,Zack Wheeler,R
+PHI,Home,6/11/2022,D,PHI44723,Citizens Bank Park,1.035,1.22,1.16,Zack Wheeler,R,ARI,Madison Bumgarner,L
+TOR,Away,6/11/2022,D,TOR44723,Comerica Park,1.056,0.96,0.88,Kevin Gausman,R,DET,Beau Brieske,R
+DET,Home,6/11/2022,D,DET44723,Comerica Park,1.056,0.96,0.88,Beau Brieske,R,TOR,Kevin Gausman,R
+TEX,Away,6/11/2022,D,TEX44723,Guaranteed Rate Fld,0.921,1.12,1.15,Martin Perez,L,CHW,Lucas Giolito,R
+CHW,Home,6/11/2022,D,CHW44723,Guaranteed Rate Fld,0.921,1.12,1.15,Lucas Giolito,R,TEX,Martin Perez,L
+BAL,Away,6/11/2022,D,BAL44723,Kauffman Stadium,1.106,0.84,0.76,Tyler Wells,R,KCR,Daniel Lynch,L
+KCR,Home,6/11/2022,D,KCR44723,Kauffman Stadium,1.106,0.84,0.76,Daniel Lynch,L,BAL,Tyler Wells,R
+HOU,Home,6/11/2022,D,HOU44723,Minute Maid Park,0.993,1.12,1.07,Framber Valdez,L,MIA,Braxton Garrett,L
+MIA,Away,6/11/2022,D,MIA44723,Minute Maid Park,0.993,1.12,1.07,Braxton Garrett,L,HOU,Framber Valdez,L
+MIL,Away,6/11/2022,D,MIL44723,Nationals Park,0.963,1.09,1.14,Eric Lauer,L,WSN,Patrick Corbin,L
+WSN,Home,6/11/2022,D,WSN44723,Nationals Park,0.963,1.09,1.14,Patrick Corbin,L,MIL,Eric Lauer,L
+LAD,Away,6/11/2022,D,LAD44723,Oracle Park,1.04,0.79,0.73,Clayton Kershaw,L,SFG,Sam Long,L
+SFG,Home,6/11/2022,D,SFG44723,Oracle Park,1.04,0.79,0.73,Sam Long,L,LAD,Clayton Kershaw,L
+SDP,Home,6/11/2022,D,SDP44723,Petco Park,1.035,0.98,0.92,MacKenzie Gore,L,COL,Kyle Freeland,L
+COL,Away,6/11/2022,D,COL44723,Petco Park,1.035,0.98,0.92,Kyle Freeland,L,SDP,MacKenzie Gore,L
+OAK,Away,6/11/2022,D,OAK44723,Progressive Field,1.019,0.98,1.08,Frankie Montas,R,CLE,Zach Plesac,R
+CLE,Home,6/11/2022,D,CLE44723,Progressive Field,1.019,0.98,1.08,Zach Plesac,R,OAK,Frankie Montas,R
+TBR,Away,6/11/2022,D,TBR44723,Target Field,1.102,0.86,0.89,Shane Baz,R,MIN,Chi Chi Gonzalez,R
+MIN,Home,6/11/2022,D,MIN44723,Target Field,1.102,0.86,0.89,Chi Chi Gonzalez,R,TBR,Shane Baz,R
+SEA,Home,6/11/2022,N,SEA44723,T-Mobile Park,1,1.04,0.89,George Kirby,R,BOS,Michael Wacha,R
+BOS,Away,6/11/2022,N,BOS44723,T-Mobile Park,1,1.04,0.89,Michael Wacha,R,SEA,George Kirby,R
+ATL,Home,6/11/2022,D,ATL44723,Truist Park,1.064,0.94,0.92,Charlie Morton,R,PIT,Zach Thompson,R
+PIT,Away,6/11/2022,D,PIT44723,Truist Park,1.064,0.94,0.92,Zach Thompson,R,ATL,Charlie Morton,R
+CHC,Away,6/11/2022,N,CHC44723,Yankee Stadium,1.009,1.02,1.1,Matt Swarmer,R,NYY,Jordan Montgomery,L
+NYY,Home,6/11/2022,N,NYY44723,Yankee Stadium,1.009,1.02,1.1,Jordan Montgomery,L,CHC,Matt Swarmer,R
+LAA,Home,6/12/2022,D,LAA44724,Angel Stadium,0.987,1.04,1.29,Patrick Sandoval,L,NYM,Taijuan Walker,R
+NYM,Away,6/12/2022,D,NYM44724,Angel Stadium,0.987,1.04,1.29,Taijuan Walker,R,LAA,Patrick Sandoval,L
+STL,Home,6/12/2022,D,STL44724,Busch Stadium,1.104,0.84,0.93,Dakota Hudson,R,CIN,Graham Ashcraft,R
+CIN,Away,6/12/2022,D,CIN44724,Busch Stadium,1.104,0.84,0.93,Graham Ashcraft,R,STL,Dakota Hudson,R
+ARI,Away,6/12/2022,D,ARI44724,Citizens Bank Park,0.963,1.22,1.16,Kyle Nelson,L,PHI,Ranger Suarez,L
+PHI,Home,6/12/2022,D,PHI44724,Citizens Bank Park,0.963,1.22,1.16,Ranger Suarez,L,ARI,Kyle Nelson,L
+TOR,Away,6/12/2022,D,TOR44724,Comerica Park,1.051,0.96,0.88,Ross Stripling,R,DET,Tarik Skubal,L
+DET,Home,6/12/2022,D,DET44724,Comerica Park,1.051,0.96,0.88,Tarik Skubal,L,TOR,Ross Stripling,R
+TEX,Away,6/12/2022,D,TEX44724,Guaranteed Rate Fld,0.981,1.12,1.15,Jon Gray,R,CHW,Michael Kopech,R
+CHW,Home,6/12/2022,D,CHW44724,Guaranteed Rate Fld,0.981,1.12,1.15,Michael Kopech,R,TEX,Jon Gray,R
+BAL,Away,6/12/2022,D,BAL44724,Kauffman Stadium,0.998,0.84,0.76,Dean Kremer,R,KCR,Brad Keller,R
+KCR,Home,6/12/2022,D,KCR44724,Kauffman Stadium,0.998,0.84,0.76,Brad Keller,R,BAL,Dean Kremer,R
+HOU,Home,6/12/2022,D,HOU44724,Minute Maid Park,0.993,1.12,1.07,Justin Verlander,R,MIA,Edward Cabrera,R
+MIA,Away,6/12/2022,D,MIA44724,Minute Maid Park,0.993,1.12,1.07,Edward Cabrera,R,HOU,Justin Verlander,R
+MIL,Away,6/12/2022,D,MIL44724,Nationals Park,1.069,1.09,1.14,Jason Alexander,R,WSN,Paolo Espino,R
+WSN,Home,6/12/2022,D,WSN44724,Nationals Park,1.069,1.09,1.14,Paolo Espino,R,MIL,Jason Alexander,R
+LAD,Away,6/12/2022,D,LAD44724,Oracle Park,1.04,0.79,0.73,Julio Urias,L,SFG,Carlos Rodon,L
+SFG,Home,6/12/2022,D,SFG44724,Oracle Park,1.04,0.79,0.73,Carlos Rodon,L,LAD,Julio Urias,L
+SDP,Home,6/12/2022,D,SDP44724,Petco Park,1.01,0.98,0.92,Blake Snell,L,COL,German Marquez,R
+COL,Away,6/12/2022,D,COL44724,Petco Park,1.01,0.98,0.92,German Marquez,R,SDP,Blake Snell,L
+OAK,Away,6/12/2022,D,OAK44724,Progressive Field,1.019,0.98,1.08,Cole Irvin,L,CLE,Cal Quantrill,R
+CLE,Home,6/12/2022,D,CLE44724,Progressive Field,1.019,0.98,1.08,Cal Quantrill,R,OAK,Cole Irvin,L
+TBR,Away,6/12/2022,D,TBR44724,Target Field,0.882,0.86,0.89,Jeffrey Springs,L,MIN,Cole Sands,R
+MIN,Home,6/12/2022,D,MIN44724,Target Field,0.882,0.86,0.89,Cole Sands,R,TBR,Jeffrey Springs,L
+SEA,Home,6/12/2022,D,SEA44724,T-Mobile Park,1,1.04,0.89,Robbie Ray,L,BOS,Kutter Crawford,R
+BOS,Away,6/12/2022,D,BOS44724,T-Mobile Park,1,1.04,0.89,Kutter Crawford,R,SEA,Robbie Ray,L
+ATL,Home,6/12/2022,D,ATL44724,Truist Park,1.064,0.94,0.92,Kyle Wright,R,PIT,Jose Quintana,L
+PIT,Away,6/12/2022,D,PIT44724,Truist Park,1.064,0.94,0.92,Jose Quintana,L,ATL,Kyle Wright,R
+CHC,Away,6/12/2022,D,CHC44724,Yankee Stadium,1.009,1.02,1.1,Keegan Thompson,R,NYY,Jameson Taillon,R
+NYY,Home,6/12/2022,D,NYY44724,Yankee Stadium,1.009,1.02,1.1,Jameson Taillon,R,CHC,Keegan Thompson,R
+STL,Home,6/13/2022,N,STL44725,Busch Stadium,1.104,0.84,0.93,Zack Thompson,L,PIT,Mitch Keller,R
+PIT,Away,6/13/2022,N,PIT44725,Busch Stadium,1.104,0.84,0.93,Mitch Keller,R,STL,Zack Thompson,L
+ARI,Home,6/13/2022,N,ARI44725,Chase Field,0.983,0.87,0.97,Merrill Kelly,R,CIN,Mike Minor,L
+CIN,Away,6/13/2022,N,CIN44725,Chase Field,0.983,0.87,0.97,Mike Minor,L,ARI,Merrill Kelly,R
+MIA,Away,6/13/2022,N,MIA44725,Citizens Bank Park,0.973,1.22,1.16,Sandy Alcantara,R,PHI,Aaron Nola,R
+PHI,Home,6/13/2022,N,PHI44725,Citizens Bank Park,0.973,1.22,1.16,Aaron Nola,R,MIA,Sandy Alcantara,R
+DET,Home,6/13/2022,N,DET44725,Comerica Park,1,0.96,0.88,Rony Garcia,R,CHW,Lance Lynn,R
+CHW,Away,6/13/2022,N,CHW44725,Comerica Park,1,0.96,0.88,Lance Lynn,R,DET,Rony Garcia,R
+HOU,Away,6/13/2022,N,HOU44725,Globe Life Field,0.981,0.96,0.95,Cristian Javier,R,TEX,Taylor Hearn,L
+TEX,Home,6/13/2022,N,TEX44725,Globe Life Field,0.981,0.96,0.95,Taylor Hearn,L,HOU,Cristian Javier,R
+ATL,Away,6/13/2022,N,ATL44725,Nationals Park,0.963,1.09,1.14,Ian Anderson,R,WSN,Erasmo Ramirez,R
+WSN,Home,6/13/2022,N,WSN44725,Nationals Park,0.963,1.09,1.14,Erasmo Ramirez,R,ATL,Ian Anderson,R
+SFG,Home,6/13/2022,N,SFG44725,Oracle Park,1.04,0.79,0.73,Alex Wood,L,KCR,Brady Singer,R
+KCR,Away,6/13/2022,N,KCR44725,Oracle Park,1.04,0.79,0.73,Brady Singer,R,SFG,Alex Wood,L
+TOR,Home,6/13/2022,N,TOR44725,Rogers Centre,0.989,1.1,1.15,Alek Manoah,R,BAL,Kyle Bradish,R
+BAL,Away,6/13/2022,N,BAL44725,Rogers Centre,0.989,1.1,1.15,Kyle Bradish,R,TOR,Alek Manoah,R
+SEA,Home,6/13/2022,N,SEA44725,T-Mobile Park,1,1.04,0.89,Chris Flexen,R,MIN,Chris Archer,R
+MIN,Away,6/13/2022,N,MIN44725,T-Mobile Park,1,1.04,0.89,Chris Archer,R,SEA,Chris Flexen,R
+CHC,Home,6/13/2022,N,CHC44725,Wrigley Field,1.062,0.98,0.83,Justin Steele,L,SDP,Yu Darvish,R
+SDP,Away,6/13/2022,N,SDP44725,Wrigley Field,1.062,0.98,0.83,Yu Darvish,R,CHC,Justin Steele,L
+STL,Home,6/14/2022,N,STL44726,Busch Stadium,1.056,0.84,0.93,Miles Mikolas,R,PIT,Bryse Wilson,R
+PIT,Away,6/14/2022,N,PIT44726,Busch Stadium,1.056,0.84,0.93,Bryse Wilson,R,STL,Miles Mikolas,R
+ARI,Home,6/14/2022,N,ARI44726,Chase Field,0.983,0.87,0.97,Zach Davies,R,CIN,Tyler Mahle,R
+CIN,Away,6/14/2022,N,CIN44726,Chase Field,0.983,0.87,0.97,Tyler Mahle,R,ARI,Zach Davies,R
+MIL,Away,6/14/2022,N,MIL44726,Citi Field,0.974,1.07,0.98,Adrian Houser,R,NYM,Chris Bassitt,R
+NYM,Home,6/14/2022,N,NYM44726,Citi Field,0.974,1.07,0.98,Chris Bassitt,R,MIL,Adrian Houser,R
+MIA,Away,6/14/2022,N,MIA44726,Citizens Bank Park,1.035,1.22,1.16,Trevor Rogers,L,PHI,Zach Eflin,R
+PHI,Home,6/14/2022,N,PHI44726,Citizens Bank Park,1.035,1.22,1.16,Zach Eflin,R,MIA,Trevor Rogers,L
+DET,Home,6/14/2022,N,DET44726,Comerica Park,0.925,0.96,0.88,Drew Hutchison,R,CHW,Dylan Cease,R
+CHW,Away,6/14/2022,N,CHW44726,Comerica Park,0.925,0.96,0.88,Dylan Cease,R,DET,Drew Hutchison,R
+CLE,Away,6/14/2022,N,CLE44726,Coors Field,1.918,1.21,1.22,Shane Bieber,R,COL,Antonio Senzatela,R
+COL,Home,6/14/2022,N,COL44726,Coors Field,0.918,1.21,1.22,Antonio Senzatela,R,CLE,Shane Bieber,R
+LAA,Away,6/14/2022,N,LAA44726,Dodger Stadium,1.081,1.2,1.05,Noah Syndergaard,R,LAD,Tony Gonsolin,R
+LAD,Home,6/14/2022,N,LAD44726,Dodger Stadium,1.081,1.2,1.05,Tony Gonsolin,R,LAA,Noah Syndergaard,R
+OAK,Away,6/14/2022,N,OAK44726,Fenway Park,0.895,0.98,0.84,Jared Koenig,L,BOS,Nick Pivetta,R
+BOS,Home,6/14/2022,N,BOS44726,Fenway Park,0.895,0.98,0.84,Nick Pivetta,R,OAK,Jared Koenig,L
+HOU,Away,6/14/2022,N,HOU44726,Globe Life Field,0.981,0.96,0.95,Jose Urquidy,R,TEX,Dane Dunning,R
+TEX,Home,6/14/2022,N,TEX44726,Globe Life Field,0.981,0.96,0.95,Dane Dunning,R,HOU,Jose Urquidy,R
+ATL,Away,6/14/2022,N,ATL44726,Nationals Park,1.021,1.09,1.14,Jackson Tetreault,R,WSN,Max Fried,L
+WSN,Home,6/14/2022,N,WSN44726,Nationals Park,1.021,1.09,1.14,Max Fried,L,ATL,Jackson Tetreault,R
+SFG,Home,6/14/2022,N,SFG44726,Oracle Park,1.04,0.79,0.73,Logan Webb,R,KCR,Kris Bubic,L
+KCR,Away,6/14/2022,N,KCR44726,Oracle Park,1.04,0.79,0.73,Kris Bubic,L,SFG,Logan Webb,R
+TOR,Home,6/14/2022,N,TOR44726,Rogers Centre,0.989,1.1,1.15,Yusei Kikuchi,L,BAL,Jordan Lyles,R
+BAL,Away,6/14/2022,N,BAL44726,Rogers Centre,0.989,1.1,1.15,Jordan Lyles,R,TOR,Yusei Kikuchi,L
+SEA,Home,6/14/2022,N,SEA44726,T-Mobile Park,1,1.04,0.89,Logan Gilbert,R,MIN,Joe Ryan,R
+MIN,Away,6/14/2022,N,MIN44726,T-Mobile Park,1,1.04,0.89,Joe Ryan,R,SEA,Logan Gilbert,R
+CHC,Home,6/14/2022,N,CHC44726,Wrigley Field,1.603,0.98,0.83,Kyle Hendricks,R,SDP,Sean Manaea,L
+SDP,Away,6/14/2022,N,SDP44726,Wrigley Field,1.603,0.98,0.83,Sean Manaea,L,CHC,Kyle Hendricks,R
+TBR,Away,6/14/2022,N,TBR44726,Yankee Stadium,1.032,1.02,1.1,Corey Kluber,R,NYY,Gerrit Cole,R
+NYY,Home,6/14/2022,N,NYY44726,Yankee Stadium,1.032,1.02,1.1,Gerrit Cole,R,TBR,Corey Kluber,R
+STL,Home,6/15/2022,N,STL44727,Busch Stadium,1.036,0.84,0.93,Jack Flaherty,R,PIT,Roansy Contreras,R
+PIT,Away,6/15/2022,N,PIT44727,Busch Stadium,1.036,0.84,0.93,Roansy Contreras,R,STL,Jack Flaherty,R
+ARI,Home,6/15/2022,D,ARI44727,Chase Field,0.983,0.87,0.97,Zac Gallen,R,CIN,Luis Castillo,R
+CIN,Away,6/15/2022,D,CIN44727,Chase Field,0.983,0.87,0.97,Luis Castillo,R,ARI,Zac Gallen,R
+MIL,Away,6/15/2022,N,MIL44727,Citi Field,1.071,1.07,0.98,Corbin Burnes,R,NYM,David Peterson,L
+NYM,Home,6/15/2022,N,NYM44727,Citi Field,1.071,1.07,0.98,David Peterson,L,MIL,Corbin Burnes,R
+MIA,Away,6/15/2022,D,MIA44727,Citizens Bank Park,1.035,1.22,1.16,Daniel Castano,L,PHI,Kyle Gibson,R
+PHI,Home,6/15/2022,D,PHI44727,Citizens Bank Park,1.035,1.22,1.16,Kyle Gibson,R,MIA,Daniel Castano,L
+DET,Home,6/15/2022,D,DET44727,Comerica Park,0.97,0.96,0.88,Alex Faedo,R,CHW,Vince Velaszquez,R
+CHW,Away,6/15/2022,D,CHW44727,Comerica Park,0.97,0.96,0.88,Vince Velaszquez,R,DET,Alex Faedo,R
+CLE,Away,6/15/2022,N,CLE44727,Coors Field,1.06,1.21,1.22,Konnor Pilkington,L,COL,Austin Gomber,L
+COL,Home,6/15/2022,N,COL44727,Coors Field,1.06,1.21,1.22,Austin Gomber,L,CLE,Konnor Pilkington,L
+LAA,Away,6/15/2022,N,LAA44727,Dodger Stadium,1.081,1.2,1.05,Reid Detmers,L,LAD,Tyler Anderson,L
+LAD,Home,6/15/2022,N,LAD44727,Dodger Stadium,1.081,1.2,1.05,Tyler Anderson,L,LAA,Reid Detmers,L
+OAK,Away,6/15/2022,N,OAK44727,Fenway Park,1,0.98,0.84,James Kaprielian,R,BOS,Josh Winckowski,R
+BOS,Home,6/15/2022,N,BOS44727,Fenway Park,1,0.98,0.84,Josh Winckowski,R,OAK,James Kaprielian,R
+HOU,Away,6/15/2022,D,HOU44727,Globe Life Field,0.981,0.96,0.95,Luis Garcia,R,TEX,Tyson Miller,R
+TEX,Home,6/15/2022,D,TEX44727,Globe Life Field,0.981,0.96,0.95,Tyson Miller,R,HOU,Luis Garcia,R
+ATL,Away,6/15/2022,N,ATL44727,Nationals Park,1.069,1.09,1.14,Spencer Strider,R,WSN,Erick Fedde,R
+WSN,Home,6/15/2022,N,WSN44727,Nationals Park,1.069,1.09,1.14,Erick Fedde,R,ATL,Spencer Strider,R
+SFG,Home,6/15/2022,D,SFG44727,Oracle Park,1.04,0.79,0.73,Sam Long,L,KCR,Jon Heasley,R
+KCR,Away,6/15/2022,D,KCR44727,Oracle Park,1.04,0.79,0.73,Jon Heasley,R,SFG,Sam Long,L
+TOR,Home,6/15/2022,N,TOR44727,Rogers Centre,0.989,1.1,1.15,Jose Berrios,R,BAL,Bruce Zimmermann,L
+BAL,Away,6/15/2022,N,BAL44727,Rogers Centre,0.989,1.1,1.15,Bruce Zimmermann,L,TOR,Jose Berrios,R
+SEA,Home,6/15/2022,D,SEA44727,T-Mobile Park,1,1.04,0.89,Marco Gonzales,L,MIN,Sonny Gray,R
+MIN,Away,6/15/2022,D,MIN44727,T-Mobile Park,1,1.04,0.89,Sonny Gray,R,SEA,Marco Gonzales,L
+CHC,Home,6/15/2022,N,CHC44727,Wrigley Field,1.603,0.98,0.83,Caleb Kilian,R,SDP,Ryan Weathers,L
+SDP,Away,6/15/2022,N,SDP44727,Wrigley Field,1.603,0.98,0.83,Ryan Weathers,L,CHC,Caleb Kilian,R
+TBR,Away,6/15/2022,N,TBR44727,Yankee Stadium,1.009,1.02,1.1,Shane McClanahan,L,NYY,Nestor Cortes,L
+NYY,Home,6/15/2022,N,NYY44727,Yankee Stadium,1.009,1.02,1.1,Nestor Cortes,L,TBR,Shane McClanahan,L
+MIL,Away,6/16/2022,N,MIL44728,Citi Field,1.071,1.07,0.98,Aaron Ashby,L,NYM,Tylor Megill,R
+NYM,Home,6/16/2022,N,NYM44728,Citi Field,1.071,1.07,0.98,Tylor Megill,R,MIL,Aaron Ashby,L
+TEX,Away,6/16/2022,N,TEX44728,Comerica Park,1.056,0.96,0.88,Martin Perez,L,DET,Beau Brieske,R
+DET,Home,6/16/2022,N,DET44728,Comerica Park,1.056,0.96,0.88,Beau Brieske,R,TEX,Martin Perez,L
+CLE,Away,6/16/2022,D,CLE44728,Coors Field,1.008,1.21,1.22,Triston McKenzie,R,COL,Chad Kuhl,R
+COL,Home,6/16/2022,D,COL44728,Coors Field,1.008,1.21,1.22,Chad Kuhl,R,CLE,Triston McKenzie,R
+OAK,Away,6/16/2022,D,OAK44728,Fenway Park,1,0.98,0.84,Paul Blackburn,R,BOS,Rich Hill,L
+BOS,Home,6/16/2022,D,BOS44728,Fenway Park,1,0.98,0.84,Rich Hill,L,OAK,Paul Blackburn,R
+WSN,Home,6/16/2022,N,WSN44728,Nationals Park,1.069,1.09,1.14,Patrick Corbin,L,PHI,Zack Wheeler,R
+PHI,Away,6/16/2022,N,PHI44728,Nationals Park,1.069,1.09,1.14,Zack Wheeler,R,WSN,Patrick Corbin,L
+TOR,Home,6/16/2022,D,TOR44728,Rogers Centre,0.989,1.1,1.15,Kevin Gausman,R,BAL,Tyler Wells,R
+BAL,Away,6/16/2022,D,BAL44728,Rogers Centre,0.989,1.1,1.15,Tyler Wells,R,TOR,Kevin Gausman,R
+LAA,Away,6/16/2022,N,LAA44728,T-Mobile Park,1,1.04,0.89,Shohei Othani,R,SEA,George Kirby,R
+SEA,Home,6/16/2022,N,SEA44728,T-Mobile Park,1,1.04,0.89,George Kirby,R,LAA,Shohei Othani,R
+CHC,Home,6/16/2022,D,CHC44728,Wrigley Field,1.603,0.98,0.83,Matt Swarmer,R,SDP,Joe Musgrove,R
+SDP,Away,6/16/2022,D,SDP44728,Wrigley Field,1.603,0.98,0.83,Joe Musgrove,R,CHC,Matt Swarmer,R
+TBR,Away,6/16/2022,N,TBR44728,Yankee Stadium,1.033,1.02,1.1,Jalen Beeks,L,NYY,Clarke Schmidt,R
+NYY,Home,6/16/2022,N,NYY44728,Yankee Stadium,1.033,1.02,1.1,Clarke Schmidt,R,TBR,Jalen Beeks,L
+ARI,Home,6/17/2022,N,ARI44729,Chase Field,0.983,0.87,0.97,Madison Bumgarner,L,MIN,Devin Smeltzer,L
+MIN,Away,6/17/2022,N,MIN44729,Chase Field,0.983,0.87,0.97,Devin Smeltzer,L,ARI,Madison Bumgarner,L
+MIA,Away,6/17/2022,N,MIA44729,Citi Field,1.113,1.07,0.98,Pablo Lopez,R,NYM,Carlos Carrasco,R
+NYM,Home,6/17/2022,N,NYM44729,Citi Field,1.113,1.07,0.98,Carlos Carrasco,R,MIA,Pablo Lopez,R
+TEX,Away,6/17/2022,N,TEX44729,Comerica Park,0.97,0.96,0.88,Jon Gray,R,DET,Tarik Skubal,L
+DET,Home,6/17/2022,N,DET44729,Comerica Park,0.97,0.96,0.88,Tarik Skubal,L,TEX,Jon Gray,R
+SDP,Away,6/17/2022,N,SDP44729,Coors Field,1.163,1.21,1.22,MacKenzie Gore,L,COL,Kyle Freeland,L
+COL,Home,6/17/2022,N,COL44729,Coors Field,1.163,1.21,1.22,Kyle Freeland,L,SDP,MacKenzie Gore,L
+LAD,Home,6/17/2022,N,LAD44729,Dodger Stadium,1.081,1.2,1.05,Clayton Kershaw,L,CLE,Zach Plesac,R
+CLE,Away,6/17/2022,N,CLE44729,Dodger Stadium,1.081,1.2,1.05,Zach Plesac,R,LAD,Clayton Kershaw,L
+STL,Away,6/17/2022,N,STL44729,Fenway Park,0.816,0.98,0.84,Adam Wainwright,R,BOS,Michael Wacha,R
+BOS,Home,6/17/2022,N,BOS44729,Fenway Park,0.816,0.98,0.84,Michael Wacha,R,STL,Adam Wainwright,R
+MIL,Away,6/17/2022,N,MIL44729,Great American BP,1.01,1.3,1.36,Eric Lauer,L,CIN,Hunter Greene,R
+CIN,Home,6/17/2022,N,CIN44729,Great American BP,1.01,1.3,1.36,Hunter Greene,R,MIL,Eric Lauer,L
+HOU,Home,6/17/2022,N,HOU44729,Minute Maid Park,0.993,1.12,1.07,Framber Valdez,L,CHW,Lucas Giolito,R
+CHW,Away,6/17/2022,N,CHW44729,Minute Maid Park,0.993,1.12,1.07,Lucas Giolito,R,HOU,Framber Valdez,L
+WSN,Home,6/17/2022,N,WSN44729,Nationals Park,0.926,1.09,1.14,Joan Adon,R,PHI,Ranger Suarez,L
+PHI,Away,6/17/2022,N,PHI44729,Nationals Park,0.926,1.09,1.14,Ranger Suarez,L,WSN,Joan Adon,R
+OAK,Home,6/17/2022,N,OAK44729,Oakland Coliseum,1.027,0.82,0.73,Frankie Montas,R,KCR,Daniel Lynch,L
+KCR,Away,6/17/2022,N,KCR44729,Oakland Coliseum,1.027,0.82,0.73,Daniel Lynch,L,OAK,Frankie Montas,R
+BAL,Home,6/17/2022,N,BAL44729,Oriole Park,0.854,1.2,1.11,Dean Kremer,R,TBR,Shane Baz,R
+TBR,Away,6/17/2022,N,TBR44729,Oriole Park,0.854,1.2,1.11,Shane Baz,R,BAL,Dean Kremer,R
+SFG,Away,6/17/2022,N,SFG44729,PNC Park,1.045,0.8,0.93,Carlos Rodon,L,PIT,Zach Thompson,R
+PIT,Home,6/17/2022,N,PIT44729,PNC Park,1.045,0.8,0.93,Zach Thompson,R,SFG,Carlos Rodon,L
+TOR,Home,6/17/2022,N,TOR44729,Rogers Centre,0.989,1.1,1.15,Ross Stripling,R,NYY,Jordan Montgomery,L
+NYY,Away,6/17/2022,N,NYY44729,Rogers Centre,0.989,1.1,1.15,Jordan Montgomery,L,TOR,Ross Stripling,R
+LAA,Away,6/17/2022,N,LAA44729,T-Mobile Park,1,1.04,0.89,Michael Lorenzen,R,SEA,Robbie Ray,L
+SEA,Home,6/17/2022,N,SEA44729,T-Mobile Park,1,1.04,0.89,Robbie Ray,L,LAA,Michael Lorenzen,R
+ATL,Away,6/17/2022,D,ATL44729,Wrigley Field,0.973,0.98,0.83,Charlie Morton,R,CHC,Keegan Thompson,R
+CHC,Home,6/17/2022,D,CHC44729,Wrigley Field,0.973,0.98,0.83,Keegan Thompson,R,ATL,Charlie Morton,R
+ARI,Home,6/18/2022,N,ARI44730,Chase Field,0.983,0.87,0.97,Luke Weaver,R,MIN,Dylan Bundy,R
+MIN,Away,6/18/2022,N,MIN44730,Chase Field,0.983,0.87,0.97,Dylan Bundy,R,ARI,Luke Weaver,R
+MIA,Away,6/18/2022,D,MIA44730,Citi Field,1.113,1.07,0.98,Braxton Garrett,L,NYM,Taijuan Walker,R
+NYM,Home,6/18/2022,D,NYM44730,Citi Field,1.113,1.07,0.98,Taijuan Walker,R,MIA,Braxton Garrett,L
+TEX,Away,6/18/2022,D,TEX44730,Comerica Park,0.97,0.96,0.88,Taylor Hearn,L,DET,Rony Garcia,R
+DET,Home,6/18/2022,D,DET44730,Comerica Park,0.97,0.96,0.88,Rony Garcia,R,TEX,Taylor Hearn,L
+SDP,Away,6/18/2022,N,SDP44730,Coors Field,1.06,1.21,1.22,Nick Martinez,R,COL,German Marquez,R
+COL,Home,6/18/2022,N,COL44730,Coors Field,1.06,1.21,1.22,German Marquez,R,SDP,Nick Martinez,R
+LAD,Home,6/18/2022,D,LAD44730,Dodger Stadium,0.951,1.2,1.05,Julio Urias,L,CLE,Cal Quantrill,R
+CLE,Away,6/18/2022,D,CLE44730,Dodger Stadium,0.951,1.2,1.05,Cal Quantrill,R,LAD,Julio Urias,L
+STL,Away,6/18/2022,N,STL44730,Fenway Park,0.816,0.98,0.84,Dakota Hudson,R,BOS,Kutter Crawford,R
+BOS,Home,6/18/2022,N,BOS44730,Fenway Park,0.816,0.98,0.84,Kutter Crawford,R,STL,Dakota Hudson,R
+MIL,Away,6/18/2022,D,MIL44730,Great American BP,1.025,1.3,1.36,Jason Alexander,R,CIN,Graham Ashcraft,R
+CIN,Home,6/18/2022,D,CIN44730,Great American BP,1.025,1.3,1.36,Graham Ashcraft,R,MIL,Jason Alexander,R
+HOU,Home,6/18/2022,D,HOU44730,Minute Maid Park,0.993,1.12,1.07,Justin Verlander,R,CHW,Johnny Cueto,R
+CHW,Away,6/18/2022,D,CHW44730,Minute Maid Park,0.993,1.12,1.07,Johnny Cueto,R,HOU,Justin Verlander,R
+WSN,Home,6/18/2022,D,WSN44730,Nationals Park,0.96,1.09,1.14,Josiah Gray,R,PHI,Aaron Nola,R
+PHI,Away,6/18/2022,D,PHI44730,Nationals Park,0.96,1.09,1.14,Aaron Nola,R,WSN,Josiah Gray,R
+OAK,Home,6/18/2022,D,OAK44730,Oakland Coliseum,1.027,0.82,0.73,Cole Irvin,L,KCR,Brad Keller,R
+KCR,Away,6/18/2022,D,KCR44730,Oakland Coliseum,1.027,0.82,0.73,Brad Keller,R,OAK,Cole Irvin,L
+BAL,Home,6/18/2022,D,BAL44730,Oriole Park,0.854,1.2,1.11,Kyle Bradish,R,TBR,Jeffrey Springs,L
+TBR,Away,6/18/2022,D,TBR44730,Oriole Park,0.854,1.2,1.11,Jeffrey Springs,L,BAL,Kyle Bradish,R
+SFG,Away,6/18/2022,D,SFG44730,PNC Park,0.841,0.8,0.93,Alex Wood,L,PIT,Jose Quintana,L
+PIT,Home,6/18/2022,D,PIT44730,PNC Park,0.841,0.8,0.93,Jose Quintana,L,SFG,Alex Wood,L
+TOR,Home,6/18/2022,D,TOR44730,Rogers Centre,0.989,1.1,1.15,Alek Manoah,R,NYY,Jameson Taillon,R
+NYY,Away,6/18/2022,D,NYY44730,Rogers Centre,0.989,1.1,1.15,Jameson Taillon,R,TOR,Alek Manoah,R
+LAA,Away,6/18/2022,D,LAA44730,T-Mobile Park,1,1.04,0.89,Patrick Sandoval,L,SEA,Chris Flexen,R
+SEA,Home,6/18/2022,D,SEA44730,T-Mobile Park,1,1.04,0.89,Chris Flexen,R,LAA,Patrick Sandoval,L
+ATL,Away,6/18/2022,D,ATL44730,Wrigley Field,0.62,0.98,0.83,Kyle Wright,R,CHC,Justin Steele,L
+CHC,Home,6/18/2022,D,CHC44730,Wrigley Field,0.62,0.98,0.83,Justin Steele,L,ATL,Kyle Wright,R
+ARI,Home,6/19/2022,D,ARI44731,Chase Field,0.983,0.87,0.97,Merrill Kelly,R,MIN,Chris Archer,R
+MIN,Away,6/19/2022,D,MIN44731,Chase Field,0.983,0.87,0.97,Chris Archer,R,ARI,Merrill Kelly,R
+MIA,Away,6/19/2022,D,MIA44731,Citi Field,1.113,1.07,0.98,Sandy Alcantara,R,NYM,Chris Bassitt,R
+NYM,Home,6/19/2022,D,NYM44731,Citi Field,1.113,1.07,0.98,Chris Bassitt,R,MIA,Sandy Alcantara,R
+TEX,Away,6/19/2022,D,TEX44731,Comerica Park,1.004,0.96,0.88,Dane Dunning,R,DET,Drew Hutchison,R
+DET,Home,6/19/2022,D,DET44731,Comerica Park,1.004,0.96,0.88,Drew Hutchison,R,TEX,Dane Dunning,R
+SDP,Away,6/19/2022,D,SDP44731,Coors Field,1.06,1.21,1.22,Blake Snell,L,COL,Antonio Senzatela,R
+COL,Home,6/19/2022,D,COL44731,Coors Field,1.06,1.21,1.22,Antonio Senzatela,R,SDP,Blake Snell,L
+LAD,Home,6/19/2022,D,LAD44731,Dodger Stadium,0.951,1.2,1.05,Andrew Heaney,L,CLE,Shane Bieber,R
+CLE,Away,6/19/2022,D,CLE44731,Dodger Stadium,0.951,1.2,1.05,Shane Bieber,R,LAD,Andrew Heaney,L
+STL,Away,6/19/2022,N,STL44731,Fenway Park,1.028,0.98,0.84,Neil Pallante,R,BOS,Nick Pivetta,R
+BOS,Home,6/19/2022,N,BOS44731,Fenway Park,1.028,0.98,0.84,Nick Pivetta,R,STL,Neil Pallante,R
+MIL,Away,6/19/2022,D,MIL44731,Great American BP,1.001,1.3,1.36,Adrian Houser,R,CIN,Mike Minor,L
+CIN,Home,6/19/2022,D,CIN44731,Great American BP,1.001,1.3,1.36,Mike Minor,L,MIL,Adrian Houser,R
+HOU,Home,6/19/2022,D,HOU44731,Minute Maid Park,0.993,1.12,1.07,Cristian Javier,R,CHW,Michael Kopech,R
+CHW,Away,6/19/2022,D,CHW44731,Minute Maid Park,0.993,1.12,1.07,Michael Kopech,R,HOU,Cristian Javier,R
+WSN,Home,6/19/2022,D,WSN44731,Nationals Park,0.926,1.09,1.14,Jackson Tetreault,R,PHI,Zach Eflin,R
+PHI,Away,6/19/2022,D,PHI44731,Nationals Park,0.926,1.09,1.14,Zach Eflin,R,WSN,Jackson Tetreault,R
+OAK,Home,6/19/2022,D,OAK44731,Oakland Coliseum,1.027,0.82,0.73,Jared Koenig,L,KCR,Brady Singer,R
+KCR,Away,6/19/2022,D,KCR44731,Oakland Coliseum,1.027,0.82,0.73,Brady Singer,R,OAK,Jared Koenig,L
+BAL,Home,6/19/2022,D,BAL44731,Oriole Park,0.854,1.2,1.11,Austin Voth,R,TBR,Corey Kluber,R
+TBR,Away,6/19/2022,D,TBR44731,Oriole Park,0.854,1.2,1.11,Corey Kluber,R,BAL,Austin Voth,R
+SFG,Away,6/19/2022,D,SFG44731,PNC Park,0.841,0.8,0.93,Alex Cobb,R,PIT,Mitch Keller,R
+PIT,Home,6/19/2022,D,PIT44731,PNC Park,0.841,0.8,0.93,Mitch Keller,R,SFG,Alex Cobb,R
+TOR,Home,6/19/2022,D,TOR44731,Rogers Centre,0.989,1.1,1.15,Yusei Kikuchi,L,NYY,Luis Severino,R
+NYY,Away,6/19/2022,D,NYY44731,Rogers Centre,0.989,1.1,1.15,Luis Severino,R,TOR,Yusei Kikuchi,L
+LAA,Away,6/19/2022,D,LAA44731,T-Mobile Park,1,1.04,0.89,Kenny Rosenberg,L,SEA,Logan Gilbert,R
+SEA,Home,6/19/2022,D,SEA44731,T-Mobile Park,1,1.04,0.89,Logan Gilbert,R,LAA,Kenny Rosenberg,L
+ATL,Away,6/19/2022,D,ATL44731,Wrigley Field,0.921,0.98,0.83,Ian Anderson,R,CHC,Kyle Hendricks,R
+CHC,Home,6/19/2022,D,CHC44731,Wrigley Field,0.921,0.98,0.83,Kyle Hendricks,R,ATL,Ian Anderson,R
+MIL,Home,6/20/2022,N,MIL44732,American Family Fld,0.988,1.14,1.08,Corbin Burnes,R,STL,Miles Mikolas,R
+STL,Away,6/20/2022,N,STL44732,American Family Fld,0.988,1.14,1.08,Miles Mikolas,R,MIL,Corbin Burnes,R
+LAA,Home,6/20/2022,N,LAA44732,Angel Stadium,0.987,1.04,1.29,Noah Syndergaard,R,KCR,Kris Bubic,L
+KCR,Away,6/20/2022,N,KCR44732,Angel Stadium,0.987,1.04,1.29,Kris Bubic,L,LAA,Noah Syndergaard,R
+MIA,Away,6/20/2022,D,MIA44732,Citi Field,1,1.07,0.98,Trevor Rogers,L,NYM,David Peterson,L
+NYM,Home,6/20/2022,D,NYM44732,Citi Field,1,1.07,0.98,David Peterson,L,MIA,Trevor Rogers,L
+BOS,Home,6/20/2022,N,BOS44732,Fenway Park,0.895,0.98,0.84,Josh Winckowski,R,DET,Alex Faedo,R
+DET,Away,6/20/2022,N,DET44732,Fenway Park,0.895,0.98,0.84,Alex Faedo,R,BOS,Josh Winckowski,R
+TOR,Away,6/20/2022,N,TOR44732,Guaranteed Rate Fld,1.096,1.12,1.15,Jose Berrios,R,CHW,Lance Lynn,R
+CHW,Home,6/20/2022,N,CHW44732,Guaranteed Rate Fld,1.096,1.12,1.15,Lance Lynn,R,TOR,Jose Berrios,R
+ARI,Away,6/20/2022,N,ARI44732,Petco Park,1.035,0.98,0.92,Zach Davies,R,SDP,Yu Darvish,R
+SDP,Home,6/20/2022,N,SDP44732,Petco Park,1.035,0.98,0.92,Yu Darvish,R,ARI,Zach Davies,R
+CHC,Away,6/20/2022,N,CHC44732,PNC Park,0.89,0.8,0.93,Caleb Kilian,R,PIT,JT Brubaker,R
+PIT,Home,6/20/2022,N,PIT44732,PNC Park,0.89,0.8,0.93,JT Brubaker,R,CHC,Caleb Kilian,R
+TBR,Home,6/20/2022,N,TBR44732,Tropicana Field,0.995,0.91,0.96,Shane McClanahan,L,NYY,Gerrit Cole,R
+NYY,Away,6/20/2022,N,NYY44732,Tropicana Field,0.995,0.91,0.96,Gerrit Cole,R,TBR,Shane McClanahan,L
+ATL,Home,6/20/2022,N,ATL44732,Truist Park,1.064,0.94,0.92,Max Fried,L,SFG,Logan Webb,R
+SFG,Away,6/20/2022,N,SFG44732,Truist Park,1.064,0.94,0.92,Logan Webb,R,ATL,Max Fried,L
+MIL,Home,6/21/2022,N,MIL44733,American Family Fld,0.988,1.14,1.08,Chi Chi Gonzalez,R,STL,Jack Flaherty,R
+STL,Away,6/21/2022,N,STL44733,American Family Fld,0.988,1.14,1.08,Jack Flaherty,R,MIL,Chi Chi Gonzalez,R
+LAA,Home,6/21/2022,N,LAA44733,Angel Stadium,0.987,1.04,1.29,Reid Detmers,L,KCR,Jon Heasley,R
+KCR,Away,6/21/2022,N,KCR44733,Angel Stadium,0.987,1.04,1.29,Jon Heasley,R,LAA,Reid Detmers,L
+BOS,Home,6/21/2022,N,BOS44733,Fenway Park,0.895,0.98,0.84,Rich Hill,L,DET,Beau Brieske,R
+DET,Away,6/21/2022,N,DET44733,Fenway Park,0.895,0.98,0.84,Beau Brieske,R,BOS,Rich Hill,L
+PHI,Away,6/21/2022,N,PHI44733,Globe Life Field,0.981,0.96,0.95,Kyle Gibson,R,TEX,Martin Perez,L
+TEX,Home,6/21/2022,N,TEX44733,Globe Life Field,0.981,0.96,0.95,Martin Perez,L,PHI,Kyle Gibson,R
+LAD,Away,6/21/2022,N,LAD44733,Great American BP,1.046,1.3,1.36,Tony Gonsolin,R,CIN,Tyler Mahle,R
+CIN,Home,6/21/2022,N,CIN44733,Great American BP,1.046,1.3,1.36,Tyler Mahle,R,LAD,Tony Gonsolin,R
+TOR,Away,6/21/2022,N,TOR44733,Guaranteed Rate Fld,1.096,1.12,1.15,Kevin Gausman,R,CHW,Dylan Cease,R
+CHW,Home,6/21/2022,N,CHW44733,Guaranteed Rate Fld,1.096,1.12,1.15,Dylan Cease,R,TOR,Kevin Gausman,R
+MIA,Home,6/21/2022,N,MIA44733,LoanDepot Park,1.011,0.72,0.77,Daniel Castano,L,COL,Ryan Feltner,R
+COL,Away,6/21/2022,N,COL44733,LoanDepot Park,1.011,0.72,0.77,Ryan Feltner,R,MIA,Daniel Castano,L
+HOU,Home,6/21/2022,N,HOU44733,Minute Maid Park,0.993,1.12,1.07,Jose Urquidy,R,NYM,Trevor Williams,R
+NYM,Away,6/21/2022,N,NYM44733,Minute Maid Park,0.993,1.12,1.07,Trevor Williams,R,HOU,Jose Urquidy,R
+OAK,Home,6/21/2022,N,OAK44733,Oakland Coliseum,1.124,0.82,0.73,James Kaprielian,R,SEA,Marco Gonzales,L
+SEA,Away,6/21/2022,N,SEA44733,Oakland Coliseum,1.124,0.82,0.73,Marco Gonzales,L,OAK,James Kaprielian,R
+WSN,Away,6/21/2022,N,WSN44733,Oriole Park,1.123,1.2,1.11,Erick Fedde,R,BAL,Jordan Lyles,R
+BAL,Home,6/21/2022,N,BAL44733,Oriole Park,1.123,1.2,1.11,Jordan Lyles,R,WSN,Erick Fedde,R
+ARI,Away,6/21/2022,N,ARI44733,Petco Park,1.01,0.98,0.92,Zac Gallen,R,SDP,Sean Manaea,L
+SDP,Home,6/21/2022,N,SDP44733,Petco Park,1.01,0.98,0.92,Sean Manaea,L,ARI,Zac Gallen,R
+CHC,Away,6/21/2022,N,CHC44733,PNC Park,0.841,0.8,0.93,Matt Swarmer,R,PIT,Roansy Contreras,R
+PIT,Home,6/21/2022,N,PIT44733,PNC Park,0.841,0.8,0.93,Roansy Contreras,R,CHC,Matt Swarmer,R
+CLE,Away,6/21/2022,N,CLE44733,Target Field,0.955,0.86,0.89,Aaron Civale,R,MIN,Joe Ryan,R
+MIN,Home,6/21/2022,N,MIN44733,Target Field,0.955,0.86,0.89,Joe Ryan,R,CLE,Aaron Civale,R
+TBR,Home,6/21/2022,N,TBR44733,Tropicana Field,0.995,0.91,0.96,Jalen Beeks,L,NYY,Nestor Cortes,L
+NYY,Away,6/21/2022,N,NYY44733,Tropicana Field,0.995,0.91,0.96,Nestor Cortes,L,TBR,Jalen Beeks,L
+ATL,Home,6/21/2022,N,ATL44733,Truist Park,1.064,0.94,0.92,Spencer Strider,R,SFG,Anthony DeSclafani,R
+SFG,Away,6/21/2022,N,SFG44733,Truist Park,1.064,0.94,0.92,Anthony DeSclafani,R,ATL,Spencer Strider,R
+MIL,Home,6/22/2022,N,MIL44734,American Family Fld,0.988,1.14,1.08,Eric Lauer,L,STL,Adam Wainwright,R
+STL,Away,6/22/2022,N,STL44734,American Family Fld,0.988,1.14,1.08,Adam Wainwright,R,MIL,Eric Lauer,L
+LAA,Home,6/22/2022,N,LAA44734,Angel Stadium,0.987,1.04,1.29,Shohei Othani,R,KCR,Daniel Lynch,L
+KCR,Away,6/22/2022,N,KCR44734,Angel Stadium,0.987,1.04,1.29,Daniel Lynch,L,LAA,Shohei Othani,R
+BOS,Home,6/22/2022,N,BOS44734,Fenway Park,1.272,0.98,0.84,Michael Wacha,R,DET,Tarik Skubal,L
+DET,Away,6/22/2022,N,DET44734,Fenway Park,1.272,0.98,0.84,Tarik Skubal,L,BOS,Michael Wacha,R
+PHI,Away,6/22/2022,D,PHI44734,Globe Life Field,0.981,0.96,0.95,Zack Wheeler,R,TEX,Jon Gray,R
+TEX,Home,6/22/2022,D,TEX44734,Globe Life Field,0.981,0.96,0.95,Jon Gray,R,PHI,Zack Wheeler,R
+LAD,Away,6/22/2022,N,LAD44734,Great American BP,1.01,1.3,1.36,Tyler Anderson,L,CIN,Luis Castillo,R
+CIN,Home,6/22/2022,N,CIN44734,Great American BP,1.01,1.3,1.36,Luis Castillo,R,LAD,Tyler Anderson,L
+TOR,Away,6/22/2022,D,TOR44734,Guaranteed Rate Fld,1.048,1.12,1.15,Ross Stripling,R,CHW,Lucas Giolito,R
+CHW,Home,6/22/2022,D,CHW44734,Guaranteed Rate Fld,1.048,1.12,1.15,Lucas Giolito,R,TOR,Ross Stripling,R
+MIA,Home,6/22/2022,N,MIA44734,LoanDepot Park,1.011,0.72,0.77,Pablo Lopez,R,COL,Chad Kuhl,R
+COL,Away,6/22/2022,N,COL44734,LoanDepot Park,1.011,0.72,0.77,Chad Kuhl,R,MIA,Pablo Lopez,R
+HOU,Home,6/22/2022,D,HOU44734,Minute Maid Park,0.993,1.12,1.07,Luis Garcia,R,NYM,Carlos Carrasco,R
+NYM,Away,6/22/2022,D,NYM44734,Minute Maid Park,0.993,1.12,1.07,Carlos Carrasco,R,HOU,Luis Garcia,R
+OAK,Home,6/22/2022,N,OAK44734,Oakland Coliseum,1.124,0.82,0.73,Paul Blackburn,R,SEA,George Kirby,R
+SEA,Away,6/22/2022,N,SEA44734,Oakland Coliseum,1.124,0.82,0.73,George Kirby,R,OAK,Paul Blackburn,R
+WSN,Away,6/22/2022,N,WSN44734,Oriole Park,1.043,1.2,1.11,Patrick Corbin,L,BAL,Tyler Wells,R
+BAL,Home,6/22/2022,N,BAL44734,Oriole Park,1.043,1.2,1.11,Tyler Wells,R,WSN,Patrick Corbin,L
+ARI,Away,6/22/2022,D,ARI44734,Petco Park,0.93,0.98,0.92,Madison Bumgarner,L,SDP,Mike Clevinger,R
+SDP,Home,6/22/2022,D,SDP44734,Petco Park,0.93,0.98,0.92,Mike Clevinger,R,ARI,Madison Bumgarner,L
+CHC,Away,6/22/2022,N,CHC44734,PNC Park,1.045,0.8,0.93,Jerad Eickhoff,R,PIT,Jerad Eickhoff,R
+PIT,Home,6/22/2022,N,PIT44734,PNC Park,1.045,0.8,0.93,Keegan Thompson,R,CHC,Keegan Thompson,R
+CLE,Away,6/22/2022,N,CLE44734,Target Field,1.173,0.86,0.89,Triston McKenzie,R,MIN,Sonny Gray,R
+MIN,Home,6/22/2022,N,MIN44734,Target Field,1.173,0.86,0.89,Sonny Gray,R,CLE,Triston McKenzie,R
+TBR,Home,6/22/2022,N,TBR44734,Tropicana Field,0.995,0.91,0.96,Shane Baz,R,NYY,Jordan Montgomery,L
+NYY,Away,6/22/2022,N,NYY44734,Tropicana Field,0.995,0.91,0.96,Jordan Montgomery,L,TBR,Shane Baz,R
+ATL,Home,6/22/2022,N,ATL44734,Truist Park,1.033,0.94,0.92,Charlie Morton,R,SFG,Carlos Rodon,L
+SFG,Away,6/22/2022,N,SFG44734,Truist Park,1.033,0.94,0.92,Carlos Rodon,L,ATL,Charlie Morton,R
+MIL,Home,6/23/2022,D,MIL44735,American Family Fld,0.988,1.14,1.08,Jason Alexander,R,STL,Dakota Hudson,R
+STL,Away,6/23/2022,D,STL44735,American Family Fld,0.988,1.14,1.08,Dakota Hudson,R,MIL,Jason Alexander,R
+LAD,Away,6/23/2022,D,LAD44735,Great American BP,1.025,1.3,1.36,Clayton Kershaw,L,CIN,Hunter Greene,R
+CIN,Home,6/23/2022,D,CIN44735,Great American BP,1.025,1.3,1.36,Hunter Greene,R,LAD,Clayton Kershaw,L
+BAL,Away,6/23/2022,N,BAL44735,Guaranteed Rate Fld,0.971,1.12,1.15,Dean Kremer,R,CHW,Johnny Cueto,R
+CHW,Home,6/23/2022,N,CHW44735,Guaranteed Rate Fld,0.971,1.12,1.15,Johnny Cueto,R,BAL,Dean Kremer,R
+MIA,Home,6/23/2022,D,MIA44735,LoanDepot Park,1.011,0.72,0.77,Braxton Garrett,L,COL,Kyle Freeland,L
+COL,Away,6/23/2022,D,COL44735,LoanDepot Park,1.011,0.72,0.77,Kyle Freeland,L,MIA,Braxton Garrett,L
+OAK,Home,6/23/2022,D,OAK44735,Oakland Coliseum,1.124,0.82,0.73,Frankie Montas,R,SEA,Robbie Ray,L
+SEA,Away,6/23/2022,D,SEA44735,Oakland Coliseum,1.124,0.82,0.73,Robbie Ray,L,OAK,Frankie Montas,R
+SDP,Home,6/23/2022,N,SDP44735,Petco Park,1.035,0.98,0.92,Joe Musgrove,R,PHI,Ranger Suarez,L
+PHI,Away,6/23/2022,N,PHI44735,Petco Park,1.035,0.98,0.92,Ranger Suarez,L,SDP,Joe Musgrove,R
+CHC,Away,6/23/2022,D,CHC44735,PNC Park,0.999,0.8,0.93,Justin Steele,L,PIT,Jose Quintana,L
+PIT,Home,6/23/2022,D,PIT44735,PNC Park,0.999,0.8,0.93,Jose Quintana,L,CHC,Justin Steele,L
+CLE,Away,6/23/2022,D,CLE44735,Target Field,0.941,0.86,0.89,Zach Plesac,R,MIN,Devin Smeltzer,L
+MIN,Home,6/23/2022,D,MIN44735,Target Field,0.941,0.86,0.89,Devin Smeltzer,L,CLE,Zach Plesac,R
+ATL,Home,6/23/2022,D,ATL44735,Truist Park,1.064,0.94,0.92,Kyle Wright,R,SFG,Alex Wood,L
+SFG,Away,6/23/2022,D,SFG44735,Truist Park,1.064,0.94,0.92,Alex Wood,L,ATL,Kyle Wright,R
+HOU,Away,6/23/2022,N,HOU44735,Yankee Stadium,1.009,1.02,1.1,Framber Valdez,L,NYY,Jameson Taillon,R
+NYY,Home,6/23/2022,N,NYY44735,Yankee Stadium,1.009,1.02,1.1,Jameson Taillon,R,HOU,Framber Valdez,L
+TOR,Away,6/24/2022,N,TOR44736,American Family Fld,0.988,1.14,1.08,Alek Manoah,R,MIL,Adrian Houser,R
+MIL,Home,6/24/2022,N,MIL44736,American Family Fld,0.988,1.14,1.08,Adrian Houser,R,TOR,Alek Manoah,R
+LAA,Home,6/24/2022,N,LAA44736,Angel Stadium,0.987,1.04,1.29,Michael Lorenzen,R,SEA,Chris Flexen,R
+SEA,Away,6/24/2022,N,SEA44736,Angel Stadium,0.987,1.04,1.29,Chris Flexen,R,LAA,Michael Lorenzen,R
+STL,Home,6/24/2022,N,STL44736,Busch Stadium,0.936,0.84,0.93,Neil Pallante,R,CHC,Kyle Hendricks,R
+CHC,Away,6/24/2022,N,CHC44736,Busch Stadium,0.936,0.84,0.93,Kyle Hendricks,R,STL,Neil Pallante,R
+ARI,Home,6/24/2022,N,ARI44736,Chase Field,0.983,0.87,0.97,Merrill Kelly,R,DET,Rony Garcia,R
+DET,Away,6/24/2022,N,DET44736,Chase Field,0.983,0.87,0.97,Rony Garcia,R,ARI,Merrill Kelly,R
+WSN,Away,6/24/2022,N,WSN44736,Globe Life Field,0.981,0.96,0.95,Paolo Espino,R,TEX,Dane Dunning,R
+TEX,Home,6/24/2022,N,TEX44736,Globe Life Field,0.981,0.96,0.95,Dane Dunning,R,WSN,Paolo Espino,R
+BAL,Away,6/24/2022,N,BAL44736,Guaranteed Rate Fld,0.971,1.12,1.15,Austin Voth,R,CHW,Michael Kopech,R
+CHW,Home,6/24/2022,N,CHW44736,Guaranteed Rate Fld,0.971,1.12,1.15,Michael Kopech,R,BAL,Austin Voth,R
+OAK,Away,6/24/2022,N,OAK44736,Kauffman Stadium,1.158,0.84,0.76,Cole Irvin,L,KCR,Zack Greinke,R
+KCR,Home,6/24/2022,N,KCR44736,Kauffman Stadium,1.158,0.84,0.76,Zack Greinke,R,OAK,Cole Irvin,L
+MIA,Home,6/24/2022,N,MIA44736,LoanDepot Park,1.011,0.72,0.77,Sandy Alcantara,R,NYM,Taijuan Walker,R
+NYM,Away,6/24/2022,N,NYM44736,LoanDepot Park,1.011,0.72,0.77,Taijuan Walker,R,MIA,Sandy Alcantara,R
+SFG,Home,6/24/2022,N,SFG44736,Oracle Park,1.04,0.79,0.73,Alex Cobb,R,CIN,Graham Ashcraft,R
+CIN,Away,6/24/2022,N,CIN44736,Oracle Park,1.04,0.79,0.73,Graham Ashcraft,R,SFG,Alex Cobb,R
+SDP,Home,6/24/2022,N,SDP44736,Petco Park,1.035,0.98,0.92,MacKenzie Gore,L,PHI,Aaron Nola,R
+PHI,Away,6/24/2022,N,PHI44736,Petco Park,1.035,0.98,0.92,Aaron Nola,R,SDP,MacKenzie Gore,L
+CLE,Home,6/24/2022,N,CLE44736,Progressive Field,1.033,0.98,1.08,Cal Quantrill,R,BOS,Nick Pivetta,R
+BOS,Away,6/24/2022,N,BOS44736,Progressive Field,1.033,0.98,1.08,Nick Pivetta,R,CLE,Cal Quantrill,R
+COL,Away,6/24/2022,N,COL44736,Target Field,0.941,0.86,0.89,German Marquez,R,MIN,Dylan Bundy,R
+MIN,Home,6/24/2022,N,MIN44736,Target Field,0.941,0.86,0.89,Dylan Bundy,R,COL,German Marquez,R
+PIT,Away,6/24/2022,N,PIT44736,Tropicana Field,0.995,0.91,0.96,Mitch Keller,R,TBR,Jeffrey Springs,L
+TBR,Home,6/24/2022,N,TBR44736,Tropicana Field,0.995,0.91,0.96,Jeffrey Springs,L,PIT,Mitch Keller,R
+ATL,Home,6/24/2022,N,ATL44736,Truist Park,1.064,0.94,0.92,Ian Anderson,R,LAD,Julio Urias,L
+LAD,Away,6/24/2022,N,LAD44736,Truist Park,1.064,0.94,0.92,Julio Urias,L,ATL,Ian Anderson,R
+HOU,Away,6/24/2022,N,HOU44736,Yankee Stadium,1.009,1.02,1.1,Justin Verlander,R,NYY,Luis Severino,R
+NYY,Home,6/24/2022,N,NYY44736,Yankee Stadium,1.009,1.02,1.1,Luis Severino,R,HOU,Justin Verlander,R
+TOR,Away,6/25/2022,D,TOR44737,American Family Fld,0.988,1.14,1.08,Yusei Kikuchi,L,MIL,Corbin Burnes,R
+MIL,Home,6/25/2022,D,MIL44737,American Family Fld,0.988,1.14,1.08,Corbin Burnes,R,TOR,Yusei Kikuchi,L
+LAA,Home,6/25/2022,N,LAA44737,Angel Stadium,0.987,1.04,1.29,Patrick Sandoval,L,SEA,Logan Gilbert,R
+SEA,Away,6/25/2022,N,SEA44737,Angel Stadium,0.987,1.04,1.29,Logan Gilbert,R,LAA,Patrick Sandoval,L
+STL,Home,6/25/2022,D,STL44737,Busch Stadium,1.056,0.84,0.93,Miles Mikolas,R,CHC,Adrian Sampson,R
+CHC,Away,6/25/2022,D,CHC44737,Busch Stadium,1.056,0.84,0.93,Adrian Sampson,R,STL,Miles Mikolas,R
+ARI,Home,6/25/2022,N,ARI44737,Chase Field,0.983,0.87,0.97,Zach Davies,R,DET,Alex Faedo,R
+DET,Away,6/25/2022,N,DET44737,Chase Field,0.983,0.87,0.97,Alex Faedo,R,ARI,Zach Davies,R
+WSN,Away,6/25/2022,D,WSN44737,Globe Life Field,0.981,0.96,0.95,Josiah Gray,R,TEX,Brett Martin,L
+TEX,Home,6/25/2022,D,TEX44737,Globe Life Field,0.981,0.96,0.95,Brett Martin,L,WSN,Josiah Gray,R
+BAL,Away,6/25/2022,D,BAL44737,Guaranteed Rate Fld,0.893,1.12,1.15,Spenser Watkins,R,CHW,Lance Lynn,R
+CHW,Home,6/25/2022,D,CHW44737,Guaranteed Rate Fld,0.893,1.12,1.15,Lance Lynn,R,BAL,Spenser Watkins,R
+OAK,Away,6/25/2022,D,OAK44737,Kauffman Stadium,1.106,0.84,0.76,Jared Koenig,L,KCR,Brad Keller,R
+KCR,Home,6/25/2022,D,KCR44737,Kauffman Stadium,1.106,0.84,0.76,Brad Keller,R,OAK,Jared Koenig,L
+MIA,Home,6/25/2022,D,MIA44737,LoanDepot Park,1.011,0.72,0.77,Trevor Rogers,L,NYM,Chris Bassitt,R
+NYM,Away,6/25/2022,D,NYM44737,LoanDepot Park,1.011,0.72,0.77,Chris Bassitt,R,MIA,Trevor Rogers,L
+SFG,Home,6/25/2022,D,SFG44737,Oracle Park,0.998,0.79,0.73,Logan Webb,R,CIN,Mike Minor,L
+CIN,Away,6/25/2022,D,CIN44737,Oracle Park,0.998,0.79,0.73,Mike Minor,L,SFG,Logan Webb,R
+SDP,Home,6/25/2022,N,SDP44737,Petco Park,1.035,0.98,0.92,Blake Snell,L,PHI,Zach Eflin,R
+PHI,Away,6/25/2022,N,PHI44737,Petco Park,1.035,0.98,0.92,Zach Eflin,R,SDP,Blake Snell,L
+CLE,Home,6/25/2022,N,CLE44737,Progressive Field,0.89,0.98,1.08,Shane Bieber,R,BOS,Josh Winckowski,R
+BOS,Away,6/25/2022,N,BOS44737,Progressive Field,0.89,0.98,1.08,Josh Winckowski,R,CLE,Shane Bieber,R
+COL,Away,6/25/2022,D,COL44737,Target Field,0.955,0.86,0.89,Antonio Senzatela,R,MIN,Chris Archer,R
+MIN,Home,6/25/2022,D,MIN44737,Target Field,0.955,0.86,0.89,Chris Archer,R,COL,Antonio Senzatela,R
+PIT,Away,6/25/2022,D,PIT44737,Tropicana Field,0.995,0.91,0.96,JT Brubaker,R,TBR,Corey Kluber,R
+TBR,Home,6/25/2022,D,TBR44737,Tropicana Field,0.995,0.91,0.96,Corey Kluber,R,PIT,JT Brubaker,R
+ATL,Home,6/25/2022,N,ATL44737,Truist Park,1.064,0.94,0.92,Max Fried,L,LAD,Mitch White,R
+LAD,Away,6/25/2022,N,LAD44737,Truist Park,1.064,0.94,0.92,Mitch White,R,ATL,Max Fried,L
+HOU,Away,6/25/2022,D,HOU44737,Yankee Stadium,1.032,1.02,1.1,Cristian Javier,R,NYY,Gerrit Cole,R
+NYY,Home,6/25/2022,D,NYY44737,Yankee Stadium,1.032,1.02,1.1,Gerrit Cole,R,HOU,Cristian Javier,R
+TOR,Away,6/26/2022,D,TOR44738,American Family Fld,0.988,1.14,1.08,Jose Berrios,R,MIL,Chi Chi Gonzalez,R
+MIL,Home,6/26/2022,D,MIL44738,American Family Fld,0.988,1.14,1.08,Chi Chi Gonzalez,R,TOR,Jose Berrios,R
+LAA,Home,6/26/2022,D,LAA44738,Angel Stadium,0.987,1.04,1.29,Jose Suarez,L,SEA,Marco Gonzales,L
+SEA,Away,6/26/2022,D,SEA44738,Angel Stadium,0.987,1.04,1.29,Marco Gonzales,L,LAA,Jose Suarez,L
+STL,Home,6/26/2022,D,STL44738,Busch Stadium,0.916,0.84,0.93,Jack Flaherty,R,CHC,Alec Mills,R
+CHC,Away,6/26/2022,D,CHC44738,Busch Stadium,0.916,0.84,0.93,Alec Mills,R,STL,Jack Flaherty,R
+ARI,Home,6/26/2022,D,ARI44738,Chase Field,0.983,0.87,0.97,Dallas Keuchel,L,DET,Beau Brieske,R
+DET,Away,6/26/2022,D,DET44738,Chase Field,0.983,0.87,0.97,Beau Brieske,R,ARI,Dallas Keuchel,L
+WSN,Away,6/26/2022,D,WSN44738,Globe Life Field,0.981,0.96,0.95,Jackson Tetreault,R,TEX,Glenn Otto,R
+TEX,Home,6/26/2022,D,TEX44738,Globe Life Field,0.981,0.96,0.95,Glenn Otto,R,WSN,Jackson Tetreault,R
+BAL,Away,6/26/2022,D,BAL44738,Guaranteed Rate Fld,1.013,1.12,1.15,Jordan Lyles,R,CHW,Dylan Cease,R
+CHW,Home,6/26/2022,D,CHW44738,Guaranteed Rate Fld,1.013,1.12,1.15,Dylan Cease,R,BAL,Jordan Lyles,R
+OAK,Away,6/26/2022,D,OAK44738,Kauffman Stadium,0.861,0.84,0.76,James Kaprielian,R,KCR,Brady Singer,R
+KCR,Home,6/26/2022,D,KCR44738,Kauffman Stadium,0.861,0.84,0.76,Brady Singer,R,OAK,James Kaprielian,R
+MIA,Home,6/26/2022,D,MIA44738,LoanDepot Park,1.011,0.72,0.77,Daniel Castano,L,NYM,David Peterson,L
+NYM,Away,6/26/2022,D,NYM44738,LoanDepot Park,1.011,0.72,0.77,David Peterson,L,MIA,Daniel Castano,L
+SFG,Home,6/26/2022,D,SFG44738,Oracle Park,1.04,0.79,0.73,Anthony DeSclafani,R,CIN,Tyler Mahle,R
+CIN,Away,6/26/2022,D,CIN44738,Oracle Park,1.04,0.79,0.73,Tyler Mahle,R,SFG,Anthony DeSclafani,R
+SDP,Home,6/26/2022,D,SDP44738,Petco Park,1.035,0.98,0.92,Yu Darvish,R,PHI,Kyle Gibson,R
+PHI,Away,6/26/2022,D,PHI44738,Petco Park,1.035,0.98,0.92,Kyle Gibson,R,SDP,Yu Darvish,R
+CLE,Home,6/26/2022,D,CLE44738,Progressive Field,1.216,0.98,1.08,Aaron Civale,R,BOS,Rich Hill,L
+BOS,Away,6/26/2022,D,BOS44738,Progressive Field,1.216,0.98,1.08,Rich Hill,L,CLE,Aaron Civale,R
+COL,Away,6/26/2022,D,COL44738,Target Field,0.955,0.86,0.89,Ryan Feltner,R,MIN,Joe Ryan,R
+MIN,Home,6/26/2022,D,MIN44738,Target Field,0.955,0.86,0.89,Joe Ryan,R,COL,Ryan Feltner,R
+PIT,Away,6/26/2022,D,PIT44738,Tropicana Field,0.995,0.91,0.96,Roansy Contreras,R,TBR,Shane McClanahan,L
+TBR,Home,6/26/2022,D,TBR44738,Tropicana Field,0.995,0.91,0.96,Shane McClanahan,L,PIT,Roansy Contreras,R
+ATL,Home,6/26/2022,D,ATL44738,Truist Park,1.064,0.94,0.92,Spencer Strider,R,LAD,Tony Gonsolin,R
+LAD,Away,6/26/2022,D,LAD44738,Truist Park,1.064,0.94,0.92,Tony Gonsolin,R,ATL,Spencer Strider,R
+HOU,Away,6/26/2022,D,HOU44738,Yankee Stadium,1.009,1.02,1.1,Jose Urquidy,R,NYY,Nestor Cortes,L
+NYY,Home,6/26/2022,D,NYY44738,Yankee Stadium,1.009,1.02,1.1,Nestor Cortes,L,HOU,Jose Urquidy,R
+DET,Home,6/2/2022,D,DET44714,Comerica Park,1.004,0.96,0.88,Alex Faedo,R,MIN,Chris Archer,R
+MIN,Away,6/2/2022,D,MIN44714,Comerica Park,1.004,0.96,0.88,Chris Archer,R,DET,Alex Faedo,R
