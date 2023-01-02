@@ -1,395 +1,1481 @@
-Team,Ballpark,Date,Count,Starter HR,BP HR,Top 6 Profit,Lineup Profit,Weather,Time,Series Game,Opp,Starter,Starter Stats,HR1,Odds,HR2,Odds,HR3,Odds,HR4,Odds,HR5,Odds,HR6,Odds,HR7,Odds,HR8,Odds,HR9,Odds
-HOU,Angel Stadium,4/7/2022,2,0,2, $42.00 , $12.00 ,93,N,1,LAA,Shohei Ohtani,,,,,,Alex Bregman,5,Yordan Alvarez,3.2,,,,,,,,,,
-STL,Busch Stadium,4/7/2022,3,1,2, $31.00 , $101.00 ,50,D,1,PIT,JT Brubaker,,,,,,Tyler O'Neill,3.1,Nolan Arenado,4,,,,,,,,,Tommy Edman,9
-HOU,Angel Stadium,4/8/2022,6,2,4, $119.00 , $154.00 ,93,N,2,LAA,Reid Detmers,,Jose Altuve,3.1,,,Alex Bregman,2.6,,,Aledmys Diaz,5,Kyle Tucker,3.2,Jeremy Pena,5.5,,,,
-OAK,Citizens Bank Park,4/8/2022,2,2,0, $61.00 , $31.00 ,64,D,1,PHI,Aaron Nola,,,,,,,,Chad Pinder,6,Seth Brown,4.1,,,,,,,,
-MIA,Oracle Park,4/8/2022,2,0,2, $(60.00), $110.00 ,69,d,1,SF,Logan Webb,,,,,,,,,,,,,,,,Jacob Stallings,9,Jazz Chisholm,9
-SF,Oracle Park,4/8/2022,3,1,2, $(4.00), $136.00 ,69,d,1,MIA,Sandy Alcantara,,,,Brandon Belt,4.6,,,,,,,,,Thairo Estrada,6,,,Joey Bart,9
-TEX,Rogers Centre,4/8/2022,3,1,2, $83.00 , $53.00 ,68,Dome,1,TOR,Jose Berrios,,Brad Miller,2.8,,,,,Mitch Garver,3.5,,,Adolis Garcia,5,,,,,,
-TOR,Rogers Centre,4/8/2022,2,0,2, $(15.00), $15.00 ,68,Dome,1,TEX,Jon Gray,,,,,,,,Teoscar Hernandez,3.5,,,,,,,Danny Jansen,5,,
-NYY,Yankee Stadium,4/8/2022,3,2,1, $116.00 , $86.00 ,59,D,1,BOS,Nathan Eovaldi,,,,,,Anthony Rizzo,4.5,Giancarlo Stanton,2.6,DJ LeMahieu,7.5,,,,,,,,
-LAA,Angel Stadium,4/9/2022,2,1,1, $13.00 , $(17.00),72,N,3,HOU,Justin Verlander,,,,Mike Trout,2,,,Jared Walsh,3.3,,,,,,,,,,
-PHI,Citizens Bank Park,4/9/2022,3,3,0, $87.00 , $57.00 ,54,N,2,OAK,Cole Irvin,,,,,,,,Nick Castellanos,3.2,Rhys Hoskins,2.5,Jean Segura,6,,,,,,
-MIN,Target Field,4/9/2022,2,1,1, $49.00 , $19.00 ,48,D,2,SEA,Logan Gilbert,,Byron Buxton,2.4,Luiz Arraez,6.5,,,,,,,,,,,,,,
-NYY,Yankee Stadium,4/9/2022,2,2,0, $24.00 , $(6.00),54,D,2,BOS,Nick Pivetta,,,,,,Anthony Rizzo,4,Giancarlo Stanton,2.4,,,,,,,,,,
-ARI,Chase Field,4/10/2022,2,0,2, $65.00 , $35.00 ,83,D,4,SDP,Blake Snell,,Cooper Hummel,5,,,,,Christian Walker,5.5,,,,,,,,,,
-SD,Chase Field,4/10/2022,2,2,0, $(60.00), $60.00 ,83,D,4,ARI,Caleb Smith,,,,,,,,,,,,,,Jurickson Profar,7,Jorge Alfaro,6,,
-COL,Coors Field,4/10/2022,2,1,1, $(15.00), $25.00 ,55,D,3,LAD,Julio Urias,,,,,,,,CJ Cron,3.5,,,,,Elias Diaz,6,,,,
-CLE,Kauffman Stadium,4/10/2022,2,0,2, $(16.00), $34.00 ,75,D,3,KCR,Kris Bubic,,,,,,Jose Ramirez,3.4,,,,,,,,,Oscar Mercado,7,,
-TEX,Rogers Centre,4/10/2022,2,1,1, $20.00 , $75.00 ,68,Dome,3,TOR,Hyun-Jin Ryu,,,,,,,,,,,,Nick Solak,7,,,Jonah Heim,7.5,,
-TOR,Rogers Centre,4/10/2022,4,4,0, $68.00 , $84.00 ,68,Dome,3,TEX,Spencer Howard,,George Springer,3,,,Vladimir Guerrero Jr,2.3,,,,,Matt Chapman,4.5,,,,,Danny Jansen,3.6
-MIN,Target Field,4/10/2022,6,3,3, $76.00 , $143.00 ,53,D,3,SEA,Marco Gonzales,,Byron Buxton,3.1,Carlos Correa,3.2,Jorge Polanco,4.3,,,,,,,Gary Sanchez,3.5,,,Max Kepler,4.2
-ATL,Truist Park,4/10/2022,2,2,0, $(26.00), $14.00 ,68,D,4,CIN,Hunter Greene,,,,Matt Olson,2.4,,,,,,,,,,,Travis d'Arnaud,6,,
-MIL,Wrigley Field,4/10/2022,2,1,1, $57.00 , $27.00 ,54,D,3,CHC,Marcus Stroman,,,,Willy Adames,5,,,,,Rowdy Tellez,4.7,,,,,,,,
-LAA,Angel Stadium,4/11/2022,2,2,0, $14.00 , $26.00 ,65,N,1,MIA,Elieser Hernandez,,,,,,,,,,,,Brandon Marsh,6.4,Jo Adell,3.2,,,,
-COL,Globe Life Field,4/11/2022,2,0,2, $22.00 , $(8.00),87,D,1,TEX,Taylor Hearn,,Connor Joe,3.6,,,,,CJ Cron,2.6,,,,,,,,,,
-OAK,Tropicana Field,4/11/2022,4,0,4, $123.00 , $167.00 ,72,Dome,1,TBR,Luis Patino,,,,Elvis Andrus,6,,,,,Seth Brown,3.8,Chad Pinder,5.5,,,Sheldon Neuse,6.4,,
-KC,Busch Stadium,4/12/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-STL,Busch Stadium,4/12/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-CLE,Great American Ball Park,4/12/2022,2,,, $(60.00), $(90.00),66,,,,,,,,,,,,,,,,,,,,,,,
-SF,Oracle Park,4/12/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-CHC,PNC Park,4/12/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TB,Tropicana Field,4/12/2022,3,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-ATL,Truist Park,4/12/2022,3,,, $(60.00), $(90.00),77,,,,,,,,,,,,,,,,,,,,,,,
-CIN,Great American Ball Park,4/13/2022,2,,, $(60.00), $(90.00),67,,,,,,,,,,,,,,,,,,,,,,,
-NYM,Citizens Bank Park,4/13/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-DET,Comerica Park,4/13/2022,3,,, $(60.00), $(90.00),69,,,,,,,,,,,,,,,,,,,,,,,
-CIN,Dodger Stadium,4/14/2022,2,,, $(60.00), $(90.00),63,,,,,,,,,,,,,,,,,,,,,,,
-CLE,Great American Ball Park,4/13/2022,4,,, $(60.00), $(90.00),67,,,,,,,,,,,,,,,,,,,,,,,
-CWS,Guaranteed Rate Field,4/13/2022,3,,, $(60.00), $(90.00),62,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Target Field,4/13/2022,4,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Yankee Stadium,4/13/2022,3,,, $(60.00), $(90.00),65,,,,,,,,,,,,,,,,,,,,,,,
-TOR,Yankee Stadium,4/13/2022,3,,, $(60.00), $(90.00),65,,,,,,,,,,,,,,,,,,,,,,,
-CIN,Great American Ball Park,4/27/2022,2,,, $(60.00), $(90.00),56,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Globe Life Field,4/14/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Globe Life Field,4/14/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SEA,Guaranteed Rate Field,4/14/2022,3,,, $(60.00), $(90.00),48,,,,,,,,,,,,,,,,,,,,,,,
-SD,Petco Park,4/14/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-PIT,PNC Park,4/14/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-STL,American Family Field,4/15/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-NYM,Citi Field,4/15/2022,4,,, $(60.00), $(90.00),63,,,,,,,,,,,,,,,,,,,,,,,
-COL,Coors Field,4/15/2022,2,,, $(60.00), $(90.00),60,,,,,,,,,,,,,,,,,,,,,,,
-BOS,Fenway Park,4/15/2022,2,,, $(60.00), $(90.00),65,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Globe Life Field,4/15/2022,5,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SF,Progressive Field,4/15/2022,3,,, $(60.00), $(90.00),54,,,,,,,,,,,,,,,,,,,,,,,
-COL,Coors Field,4/16/2022,2,,, $(60.00), $(90.00),55,,,,,,,,,,,,,,,,,,,,,,,
-BOS,Fenway Park,4/16/2022,2,,, $(60.00), $(90.00),71,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Globe Life Field,4/16/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIA,Marlins Park,4/16/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-ATL,Petco Park,4/16/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SD,Petco Park,4/16/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-OAK,Rogers Centre,4/16/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TOR,Rogers Centre,4/16/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-CHC,Coors Field,4/17/2022,2,,, $(60.00), $(90.00),64,,,,,,,,,,,,,,,,,,,,,,,
-PHI,Marlins Park,4/17/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-SF,Progressive Field,4/17/2022,2,,, $(60.00), $(90.00),35,,,,,,,,,,,,,,,,,,,,,,,
-ATL,Dodger Stadium,4/18/2022,2,,, $(60.00), $(90.00),65,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Dodger Stadium,4/18/2022,2,,, $(60.00), $(90.00),65,,,,,,,,,,,,,,,,,,,,,,,
-MIN,Fenway Park,4/18/2022,2,,, $(60.00), $(90.00),48,,,,,,,,,,,,,,,,,,,,,,,
-HOU,Minute Maid Park,4/18/2022,2,,, $(60.00), $(90.00),73,,,,,,,,,,,,,,,,,,,,,,,
-CHC,Wrigley Field,4/18/2022,2,,, $(60.00), $(90.00),40,,,,,,,,,,,,,,,,,,,,,,,
-MIL,American Family Field,4/19/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-PIT,American Family Field,4/19/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-KC,Kauffman Stadium,4/19/2022,3,,, $(60.00), $(90.00),55,,,,,,,,,,,,,,,,,,,,,,,
-SEA,T-Mobile Park,4/19/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIL,American Family Field,4/20/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-PHI,Coors Field,4/20/2022,4,,, $(60.00), $(90.00),65,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Dodger Stadium,4/20/2022,2,,, $(60.00), $(90.00),67,,,,,,,,,,,,,,,,,,,,,,,
-SD,Petco Park,4/20/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-NYM,Citi Field,4/21/2022,2,,, $(60.00), $(90.00),57,,,,,,,,,,,,,,,,,,,,,,,
-MIA,Marlins Park,4/21/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-ARI,Nationals Park,4/21/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-OAK,Oakland Coliseum,4/21/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SEA,T-Mobile Park,4/21/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-ARI,Chase Field,4/22/2022,2,,, $(60.00), $(90.00),75,,,,,,,,,,,,,,,,,,,,,,,
-TOR,Minute Maid Park,4/22/2022,2,,, $(60.00), $(90.00),77,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Oakland Coliseum,4/22/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Petco Park,4/22/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TB,Tropicana Field,4/22/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-PIT,Wrigley Field,4/22/2022,2,,, $(60.00), $(90.00),54,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Yankee Stadium,4/22/2022,2,,, $(60.00), $(90.00),66,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Angel Stadium,4/23/2022,3,,, $(60.00), $(90.00),73,,,,,,,,,,,,,,,,,,,,,,,
-COL,Comerica Park,4/23/2022,2,,, $(60.00), $(90.00),141,,,,,,,,,,,,,,,,,,,,,,,
-TOR,Minute Maid Park,4/23/2022,2,,, $(60.00), $(90.00),73,,,,,,,,,,,,,,,,,,,,,,,
-MIN,Target Field,4/23/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SEA,T-Mobile Park,4/23/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-ATL,Truist Park,4/23/2022,3,,, $(60.00), $(90.00),77,,,,,,,,,,,,,,,,,,,,,,,
-CLE,Yankee Stadium,4/23/2022,2,,, $(60.00), $(90.00),60,,,,,,,,,,,,,,,,,,,,,,,
-BAL,Angel Stadium,4/24/2022,2,,, $(60.00), $(90.00),88,,,,,,,,,,,,,,,,,,,,,,,
-HOU,Minute Maid Park,4/24/2022,2,,, $(60.00), $(90.00),73,,,,,,,,,,,,,,,,,,,,,,,
-TOR,Minute Maid Park,4/24/2022,2,,, $(60.00), $(90.00),73,,,,,,,,,,,,,,,,,,,,,,,
-SF,Nationals Park,4/24/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Petco Park,4/24/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-CWS,Target Field,4/24/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIN,Target Field,4/24/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Yankee Stadium,4/24/2022,3,,, $(60.00), $(90.00),58,,,,,,,,,,,,,,,,,,,,,,,
-SF,American Family Field,4/25/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Angel Stadium,4/25/2022,2,,, $(60.00), $(90.00),82,,,,,,,,,,,,,,,,,,,,,,,
-COL,Citizens Bank Park,4/25/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TOR,Rogers Centre,4/25/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-COL,Citizens Bank Park,4/26/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SD,Great American Ball Park,4/26/2022,2,,, $(60.00), $(90.00),57,,,,,,,,,,,,,,,,,,,,,,,
-SF,Oracle Park,4/26/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIL,PNC Park,4/26/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TB,Tropicana Field,4/26/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-BAL,Yankee Stadium,4/26/2022,2,,, $(60.00), $(90.00),56,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Yankee Stadium,4/26/2022,5,,, $(60.00), $(90.00),56,,,,,,,,,,,,,,,,,,,,,,,
-CLE,Angel Stadium,4/27/2022,2,,, $(60.00), $(90.00),65,,,,,,,,,,,,,,,,,,,,,,,
-CIN,Coors Field,4/30/2022,2,,, $(60.00), $(90.00),64,,,,,,,,,,,,,,,,,,,,,,,
-SD,Great American Ball Park,4/27/2022,2,,, $(60.00), $(90.00),56,,,,,,,,,,,,,,,,,,,,,,,
-CWS,Guaranteed Rate Field,4/27/2022,2,,, $(60.00), $(90.00),39,,,,,,,,,,,,,,,,,,,,,,,
-MIN,Target Field,4/27/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SEA,Tropicana Field,4/27/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Yankee Stadium,4/27/2022,2,,, $(60.00), $(90.00),49,,,,,,,,,,,,,,,,,,,,,,,
-ATL,Truist Park,4/28/2022,3,,, $(60.00), $(90.00),74,,,,,,,,,,,,,,,,,,,,,,,
-MIL,American Family Field,4/29/2022,6,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-COL,Coors Field,4/29/2022,2,,, $(60.00), $(90.00),54,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Dodger Stadium,4/29/2022,2,,, $(60.00), $(90.00),64,,,,,,,,,,,,,,,,,,,,,,,
-ATL,Globe Life Field,4/29/2022,4,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Globe Life Field,4/29/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Guaranteed Rate Field,4/29/2022,2,,, $(60.00), $(90.00),60,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Kauffman Stadium,4/29/2022,4,,, $(60.00), $(90.00),74,,,,,,,,,,,,,,,,,,,,,,,
-MIA,Marlins Park,4/29/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-CLE,Oakland Coliseum,4/29/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SF,Oracle Park,4/29/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SD,PNC Park,4/29/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-HOU,Rogers Centre,4/29/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TOR,Rogers Centre,4/29/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TB,Tropicana Field,4/29/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-MIL,American Family Field,4/30/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-ARI,Busch Stadium,4/30/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-PHI,Citi Field,4/30/2022,2,,, $(60.00), $(90.00),62,,,,,,,,,,,,,,,,,,,,,,,
-CIN,American Family Field,5/3/2022,2,,, $(60.00), $(90.00),63,,,,,,,,,,,,,,,,,,,,,,,
-CWS,Guaranteed Rate Field,4/30/2022,2,,, $(60.00), $(90.00),61,,,,,,,,,,,,,,,,,,,,,,,
-SD,PNC Park,4/30/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TOR,Rogers Centre,4/30/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIN,Tropicana Field,4/30/2022,3,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-ARI,Busch Stadium,5/1/2022,4,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-STL,Busch Stadium,5/1/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-PHI,Citi Field,5/1/2022,4,,, $(60.00), $(90.00),57,,,,,,,,,,,,,,,,,,,,,,,
-COL,Coors Field,5/1/2022,2,,, $(60.00), $(90.00),58,,,,,,,,,,,,,,,,,,,,,,,
-DET,Dodger Stadium,5/1/2022,2,,, $(60.00), $(90.00),73,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Kauffman Stadium,5/1/2022,2,,, $(60.00), $(90.00),66,,,,,,,,,,,,,,,,,,,,,,,
-MIA,Marlins Park,5/1/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-SEA,Marlins Park,5/1/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-HOU,Minute Maid Park,5/2/2022,2,,, $(60.00), $(90.00),73,,,,,,,,,,,,,,,,,,,,,,,
-CIN,Great American Ball Park,5/8/2022,2,,, $(60.00), $(90.00),66,,,,,,,,,,,,,,,,,,,,,,,
-MIL,American Family Field,5/3/2022,2,,, $(60.00), $(90.00),63,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Citizens Bank Park,5/3/2022,2,,, $(60.00), $(90.00),65,,,,,,,,,,,,,,,,,,,,,,,
-CIN,Great American Ball Park,5/9/2022,3,,, $(60.00), $(90.00),78,,,,,,,,,,,,,,,,,,,,,,,
-BOS,Fenway Park,5/3/2022,2,,, $(60.00), $(90.00),50,,,,,,,,,,,,,,,,,,,,,,,
-ARI,Marlins Park,5/3/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-HOU,Minute Maid Park,5/3/2022,2,,, $(60.00), $(90.00),73,,,,,,,,,,,,,,,,,,,,,,,
-TB,Oakland Coliseum,5/3/2022,2,,, $(60.00), $(90.00),68,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Rogers Centre,5/3/2022,2,,, $(60.00), $(90.00),68,,,,,,,,,,,,,,,,,,,,,,,
-MIL,American Family Field,5/4/2022,3,,, $(60.00), $(90.00),65,,,,,,,,,,,,,,,,,,,,,,,
-PIT,Comerica Park,5/4/2022,2,,, $(60.00), $(90.00),59,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Dodger Stadium,5/4/2022,2,,, $(60.00), $(90.00),67,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Fenway Park,5/4/2022,4,,, $(60.00), $(90.00),52,,,,,,,,,,,,,,,,,,,,,,,
-STL,Kauffman Stadium,5/4/2022,2,,, $(60.00), $(90.00),54,,,,,,,,,,,,,,,,,,,,,,,
-ARI,Marlins Park,5/4/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-MIA,Marlins Park,5/4/2022,3,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-BAL,Oriole Park at Camden Yards,5/4/2022,2,,, $(60.00), $(90.00),68,,,,,,,,,,,,,,,,,,,,,,,
-CHC,Wrigley Field,5/4/2022,2,,, $(60.00), $(90.00),52,,,,,,,,,,,,,,,,,,,,,,,
-CWS,Wrigley Field,5/4/2022,2,,, $(60.00), $(90.00),52,,,,,,,,,,,,,,,,,,,,,,,
-MIL,American Family Field,5/5/2022,6,,, $(60.00), $(90.00),66,,,,,,,,,,,,,,,,,,,,,,,
-NYM,Citizens Bank Park,5/5/2022,2,,, $(60.00), $(90.00),73,,,,,,,,,,,,,,,,,,,,,,,
-PHI,Citizens Bank Park,5/5/2022,2,,, $(60.00), $(90.00),73,,,,,,,,,,,,,,,,,,,,,,,
-COL,Coors Field,5/5/2022,3,,, $(60.00), $(90.00),63,,,,,,,,,,,,,,,,,,,,,,,
-CIN,PNC Park,5/13/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Fenway Park,5/5/2022,2,,, $(60.00), $(90.00),57,,,,,,,,,,,,,,,,,,,,,,,
-HOU,Minute Maid Park,5/5/2022,2,,, $(60.00), $(90.00),73,,,,,,,,,,,,,,,,,,,,,,,
-BAL,Oriole Park at Camden Yards,5/5/2022,5,,, $(60.00), $(90.00),67,,,,,,,,,,,,,,,,,,,,,,,
-SD,Petco Park,5/5/2022,2,,, $(60.00), $(90.00),63,,,,,,,,,,,,,,,,,,,,,,,
-TOR,Progressive Field,5/5/2022,2,,, $(60.00), $(90.00),52,,,,,,,,,,,,,,,,,,,,,,,
-SEA,T-Mobile Park,5/5/2022,2,,, $(60.00), $(90.00),52,,,,,,,,,,,,,,,,,,,,,,,
-ARI,Chase Field,5/6/2022,2,,, $(60.00), $(90.00),96,,,,,,,,,,,,,,,,,,,,,,,
-HOU,Minute Maid Park,5/6/2022,2,,, $(60.00), $(90.00),73,,,,,,,,,,,,,,,,,,,,,,,
-MIN,Target Field,5/6/2022,2,,, $(60.00), $(90.00),68,,,,,,,,,,,,,,,,,,,,,,,
-SEA,T-Mobile Park,5/6/2022,3,,, $(60.00), $(90.00),50,,,,,,,,,,,,,,,,,,,,,,,
-ATL,Truist Park,5/6/2022,2,,, $(60.00), $(90.00),75,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Angel Stadium,5/7/2022,2,,, $(60.00), $(90.00),70,,,,,,,,,,,,,,,,,,,,,,,
-CIN,Great American Ball Park,5/23/2022,3,,, $(60.00), $(90.00),65,,,,,,,,,,,,,,,,,,,,,,,
-PIT,Great American Ball Park,5/7/2022,4,,, $(60.00), $(90.00),117,,,,,,,,,,,,,,,,,,,,,,,
-SF,Oracle Park,5/7/2022,3,,, $(60.00), $(90.00),61,,,,,,,,,,,,,,,,,,,,,,,
-MIA,Petco Park,5/7/2022,2,,, $(60.00), $(90.00),63,,,,,,,,,,,,,,,,,,,,,,,
-TB,T-Mobile Park,5/7/2022,3,,, $(60.00), $(90.00),47,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Wrigley Field,5/7/2022,2,,, $(60.00), $(90.00),113,,,,,,,,,,,,,,,,,,,,,,,
-NYM,Citizens Bank Park,5/8/2022,2,,, $(60.00), $(90.00),57,,,,,,,,,,,,,,,,,,,,,,,
-PHI,Citizens Bank Park,5/8/2022,2,,, $(60.00), $(90.00),57,,,,,,,,,,,,,,,,,,,,,,,
-CIN,Great American Ball Park,5/26/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-PIT,Great American Ball Park,5/8/2022,2,,, $(60.00), $(90.00),66,,,,,,,,,,,,,,,,,,,,,,,
-HOU,Minute Maid Park,5/8/2022,2,,, $(60.00), $(90.00),73,,,,,,,,,,,,,,,,,,,,,,,
-SF,Oracle Park,5/8/2022,2,,, $(60.00), $(90.00),56,,,,,,,,,,,,,,,,,,,,,,,
-ATL,Truist Park,5/8/2022,2,,, $(60.00), $(90.00),61,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Yankee Stadium,5/8/2022,2,,, $(60.00), $(90.00),57,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Yankee Stadium,5/8/2022,3,,, $(60.00), $(90.00),57,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Angel Stadium,5/9/2022,4,,, $(60.00), $(90.00),66,,,,,,,,,,,,,,,,,,,,,,,
-WSH,Truist Park,4/12/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-CLE,Guaranteed Rate Field,5/9/2022,3,,, $(60.00), $(90.00),78,,,,,,,,,,,,,,,,,,,,,,,
-CWS,Guaranteed Rate Field,5/9/2022,2,,, $(60.00), $(90.00),78,,,,,,,,,,,,,,,,,,,,,,,
-PIT,PNC Park,5/9/2022,2,,, $(60.00), $(90.00),73,,,,,,,,,,,,,,,,,,,,,,,
-PHI,T-Mobile Park,5/9/2022,2,,, $(60.00), $(90.00),50,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Angel Stadium,5/10/2022,4,,, $(60.00), $(90.00),65,,,,,,,,,,,,,,,,,,,,,,,
-BAL,Busch Stadium,5/10/2022,2,,, $(60.00), $(90.00),90,,,,,,,,,,,,,,,,,,,,,,,
-STL,Busch Stadium,5/10/2022,2,,, $(60.00), $(90.00),90,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Globe Life Field,5/10/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-PHI,T-Mobile Park,5/10/2022,3,,, $(60.00), $(90.00),58,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Yankee Stadium,5/10/2022,2,,, $(60.00), $(90.00),65,,,,,,,,,,,,,,,,,,,,,,,
-ARI,Chase Field,5/11/2022,2,,, $(60.00), $(90.00),85,,,,,,,,,,,,,,,,,,,,,,,
-MIA,Chase Field,5/11/2022,3,,, $(60.00), $(90.00),85,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Globe Life Field,5/11/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-MIL,Great American Ball Park,5/11/2022,5,,, $(60.00), $(90.00),83,,,,,,,,,,,,,,,,,,,,,,,
-WSH,Coors Field,5/3/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SD,Petco Park,5/11/2022,3,,, $(60.00), $(90.00),65,,,,,,,,,,,,,,,,,,,,,,,
-PIT,PNC Park,5/11/2022,3,,, $(60.00), $(90.00),75,,,,,,,,,,,,,,,,,,,,,,,
-ATL,Truist Park,5/11/2022,2,,, $(60.00), $(90.00),82,,,,,,,,,,,,,,,,,,,,,,,
-BAL,Busch Stadium,5/12/2022,2,,, $(60.00), $(90.00),90,,,,,,,,,,,,,,,,,,,,,,,
-PHI,Dodger Stadium,5/12/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Guaranteed Rate Field,5/12/2022,4,,, $(60.00), $(90.00),88,,,,,,,,,,,,,,,,,,,,,,,
-HOU,Target Field,5/12/2022,3,,, $(60.00), $(90.00),77,,,,,,,,,,,,,,,,,,,,,,,
-BAL,Comerica Park,5/13/2022,2,,, $(60.00), $(90.00),82,,,,,,,,,,,,,,,,,,,,,,,
-COL,Coors Field,5/13/2022,2,,, $(60.00), $(90.00),75,,,,,,,,,,,,,,,,,,,,,,,
-KC,Coors Field,5/13/2022,2,,, $(60.00), $(90.00),75,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Dodger Stadium,5/13/2022,2,,, $(60.00), $(90.00),75,,,,,,,,,,,,,,,,,,,,,,,
-PHI,Dodger Stadium,5/13/2022,2,,, $(60.00), $(90.00),75,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Guaranteed Rate Field,5/13/2022,4,,, $(60.00), $(90.00),85,,,,,,,,,,,,,,,,,,,,,,,
-HOU,Nationals Park,5/13/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-WSH,Coors Field,5/5/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-CLE,Target Field,5/13/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIN,Target Field,5/13/2022,4,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-ATL,Truist Park,5/13/2022,2,,, $(60.00), $(90.00),77,,,,,,,,,,,,,,,,,,,,,,,
-SD,Truist Park,5/13/2022,2,,, $(60.00), $(90.00),77,,,,,,,,,,,,,,,,,,,,,,,
-DET,Comerica Park,5/14/2022,2,,, $(60.00), $(90.00),82,,,,,,,,,,,,,,,,,,,,,,,
-COL,Coors Field,5/14/2022,3,,, $(60.00), $(90.00),81,,,,,,,,,,,,,,,,,,,,,,,
-KC,Coors Field,5/14/2022,2,,, $(60.00), $(90.00),81,,,,,,,,,,,,,,,,,,,,,,,
-PHI,Dodger Stadium,5/14/2022,4,,, $(60.00), $(90.00),81,,,,,,,,,,,,,,,,,,,,,,,
-BOS,Globe Life Field,5/14/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIA,Marlins Park,5/14/2022,3,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-MIL,Marlins Park,5/14/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-WSH,Angel Stadium,5/7/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Oakland Coliseum,5/14/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TOR,Tropicana Field,5/14/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-ATL,Truist Park,5/14/2022,2,,, $(60.00), $(90.00),82,,,,,,,,,,,,,,,,,,,,,,,
-SF,Busch Stadium,5/15/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-STL,Busch Stadium,5/15/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-CHC,Chase Field,5/15/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-SEA,Citi Field,5/15/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-KC,Coors Field,5/15/2022,3,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Globe Life Field,5/15/2022,4,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIL,Marlins Park,5/15/2022,3,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-HOU,Nationals Park,5/15/2022,4,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIN,Target Field,5/15/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SF,Coors Field,5/16/2022,3,,, $(60.00), $(90.00),78,,,,,,,,,,,,,,,,,,,,,,,
-ARI,Dodger Stadium,5/16/2022,2,,, $(60.00), $(90.00),66,,,,,,,,,,,,,,,,,,,,,,,
-BOS,Fenway Park,5/16/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-CWS,Kauffman Stadium,5/16/2022,2,,, $(60.00), $(90.00),78,,,,,,,,,,,,,,,,,,,,,,,
-BAL,Oriole Park at Camden Yards,5/16/2022,2,,, $(60.00), $(90.00),75,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Oriole Park at Camden Yards,5/16/2022,3,,, $(60.00), $(90.00),75,,,,,,,,,,,,,,,,,,,,,,,
-TOR,Rogers Centre,5/16/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-DET,Tropicana Field,5/16/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-NYM,Citi Field,5/17/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-ARI,Dodger Stadium,5/17/2022,4,,, $(60.00), $(90.00),133,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Dodger Stadium,5/17/2022,5,,, $(60.00), $(90.00),133,,,,,,,,,,,,,,,,,,,,,,,
-BOS,Fenway Park,5/17/2022,2,,, $(60.00), $(90.00),68,,,,,,,,,,,,,,,,,,,,,,,
-HOU,Fenway Park,5/17/2022,6,,, $(60.00), $(90.00),68,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Globe Life Field,5/17/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Globe Life Field,5/17/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIA,Marlins Park,5/17/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-MIN,Oakland Coliseum,5/17/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Oriole Park at Camden Yards,5/17/2022,2,,, $(60.00), $(90.00),81,,,,,,,,,,,,,,,,,,,,,,,
-TB,Tropicana Field,5/17/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-CHC,Wrigley Field,5/17/2022,2,,, $(60.00), $(90.00),56,,,,,,,,,,,,,,,,,,,,,,,
-ATL,American Family Field,5/18/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-COL,Coors Field,5/18/2022,2,,, $(60.00), $(90.00),79,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Globe Life Field,5/18/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Globe Life Field,5/18/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-KC,Kauffman Stadium,5/18/2022,2,,, $(60.00), $(90.00),82,,,,,,,,,,,,,,,,,,,,,,,
-SEA,Rogers Centre,5/18/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TB,Tropicana Field,5/18/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-STL,Citi Field,5/19/2022,2,,, $(60.00), $(90.00),57,,,,,,,,,,,,,,,,,,,,,,,
-BOS,Fenway Park,5/19/2022,3,,, $(60.00), $(90.00),53,,,,,,,,,,,,,,,,,,,,,,,
-SEA,Fenway Park,5/19/2022,2,,, $(60.00), $(90.00),53,,,,,,,,,,,,,,,,,,,,,,,
-BAL,Oriole Park at Camden Yards,5/19/2022,2,,, $(60.00), $(90.00),75,,,,,,,,,,,,,,,,,,,,,,,
-MIL,American Family Field,5/20/2022,2,,, $(60.00), $(90.00),71,,,,,,,,,,,,,,,,,,,,,,,
-OAK,Angel Stadium,5/20/2022,2,,, $(60.00), $(90.00),65,,,,,,,,,,,,,,,,,,,,,,,
-BOS,Fenway Park,5/20/2022,2,,, $(60.00), $(90.00),61,,,,,,,,,,,,,,,,,,,,,,,
-KC,Kauffman Stadium,5/20/2022,2,,, $(60.00), $(90.00),67,,,,,,,,,,,,,,,,,,,,,,,
-ATL,Marlins Park,5/20/2022,3,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-SF,Oracle Park,5/20/2022,2,,, $(60.00), $(90.00),63,,,,,,,,,,,,,,,,,,,,,,,
-ARI,Wrigley Field,5/20/2022,7,,, $(60.00), $(90.00),85,,,,,,,,,,,,,,,,,,,,,,,
-CHC,Wrigley Field,5/20/2022,4,,, $(60.00), $(90.00),85,,,,,,,,,,,,,,,,,,,,,,,
-MIL,American Family Field,5/21/2022,2,,, $(60.00), $(90.00),71,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Angel Stadium,5/21/2022,2,,, $(60.00), $(90.00),66,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Citizens Bank Park,5/21/2022,3,,, $(60.00), $(90.00),93,,,,,,,,,,,,,,,,,,,,,,,
-PHI,Citizens Bank Park,5/21/2022,2,,, $(60.00), $(90.00),93,,,,,,,,,,,,,,,,,,,,,,,
-COL,Coors Field,5/21/2022,3,,, $(60.00), $(90.00),93,,,,,,,,,,,,,,,,,,,,,,,
-BOS,Fenway Park,5/21/2022,2,,, $(60.00), $(90.00),85,,,,,,,,,,,,,,,,,,,,,,,
-ATL,Marlins Park,5/21/2022,2,,, $(60.00), $(90.00),72,,,,,,,,,,,,,,,,,,,,,,,
-TB,Oriole Park at Camden Yards,5/21/2022,3,,, $(60.00), $(90.00),87,,,,,,,,,,,,,,,,,,,,,,,
-TOR,Rogers Centre,5/21/2022,2,,, $(60.00), $(90.00),68,,,,,,,,,,,,,,,,,,,,,,,
-CHC,Wrigley Field,5/21/2022,2,,, $(60.00), $(90.00),60,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Angel Stadium,5/22/2022,2,,, $(60.00), $(90.00),73,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Citizens Bank Park,5/22/2022,2,,, $(60.00), $(90.00),88,,,,,,,,,,,,,,,,,,,,,,,
-BOS,Fenway Park,5/22/2022,3,,, $(60.00), $(90.00),66,,,,,,,,,,,,,,,,,,,,,,,
-SEA,Fenway Park,5/22/2022,2,,, $(60.00), $(90.00),66,,,,,,,,,,,,,,,,,,,,,,,
-PIT,PNC Park,5/22/2022,3,,, $(60.00), $(90.00),78,,,,,,,,,,,,,,,,,,,,,,,
-STL,PNC Park,5/22/2022,3,,, $(60.00), $(90.00),78,,,,,,,,,,,,,,,,,,,,,,,
-CHC,Wrigley Field,5/22/2022,2,,, $(60.00), $(90.00),61,,,,,,,,,,,,,,,,,,,,,,,
-CWS,Yankee Stadium,5/22/2022,2,,, $(60.00), $(90.00),86,,,,,,,,,,,,,,,,,,,,,,,
-STL,Busch Stadium,5/23/2022,2,,, $(60.00), $(90.00),68,,,,,,,,,,,,,,,,,,,,,,,
-ARI,Chase Field,5/23/2022,2,,, $(60.00), $(90.00),94,,,,,,,,,,,,,,,,,,,,,,,
-KC,Chase Field,5/23/2022,3,,, $(60.00), $(90.00),94,,,,,,,,,,,,,,,,,,,,,,,
-CHC,Great American Ball Park,5/23/2022,2,,, $(60.00), $(90.00),65,,,,,,,,,,,,,,,,,,,,,,,
-WSH,Nationals Park,5/11/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-NYM,Oracle Park,5/23/2022,3,,, $(60.00), $(90.00),61,,,,,,,,,,,,,,,,,,,,,,,
-SEA,T-Mobile Park,5/23/2022,3,,, $(60.00), $(90.00),63,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Yankee Stadium,5/23/2022,2,,, $(60.00), $(90.00),71,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Angel Stadium,5/24/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TOR,Busch Stadium,5/24/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-ARI,Chase Field,5/24/2022,4,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-CHC,Great American Ball Park,5/24/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-BOS,Guaranteed Rate Field,5/24/2022,4,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Nationals Park,5/24/2022,4,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SF,Oracle Park,5/24/2022,4,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIL,Petco Park,5/24/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-OAK,T-Mobile Park,5/24/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TB,Tropicana Field,5/24/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-BAL,Yankee Stadium,5/24/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Yankee Stadium,5/24/2022,4,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Angel Stadium,5/25/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SF,Oracle Park,5/25/2022,4,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-PIT,PNC Park,5/25/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-DET,Target Field,5/25/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-OAK,T-Mobile Park,5/25/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-ATL,Truist Park,5/25/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TOR,Angel Stadium,5/26/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Chase Field,5/26/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-CHC,Great American Ball Park,5/26/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-WSH,Nationals Park,5/14/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-BOS,Guaranteed Rate Field,5/26/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Angel Stadium,5/27/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Chase Field,5/27/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-BAL,Fenway Park,5/27/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-OAK,Oakland Coliseum,5/27/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-KC,Target Field,5/27/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIN,Target Field,5/27/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SEA,T-Mobile Park,5/27/2022,4,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Tropicana Field,5/27/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIA,Truist Park,5/27/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIL,Busch Stadium,5/28/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-STL,Busch Stadium,5/28/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-BAL,Fenway Park,5/28/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-WSH,Nationals Park,5/28/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Oakland Coliseum,5/28/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-LAA,Angel Stadium,5/29/2022,4,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIL,Busch Stadium,5/29/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-DET,Comerica Park,5/29/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-BOS,Fenway Park,5/29/2022,5,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-WSH,Nationals Park,5/29/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Oakland Coliseum,5/29/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SD,Petco Park,5/29/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIN,Target Field,5/29/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Tropicana Field,5/29/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TB,Tropicana Field,5/29/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-ATL,Truist Park,5/29/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIA,Truist Park,5/29/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-STL,Busch Stadium,5/30/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-NYM,Citi Field,5/30/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-PHI,Citizens Bank Park,5/30/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-SF,Citizens Bank Park,5/30/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIN,Comerica Park,5/30/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-LAD,Dodger Stadium,5/30/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-PIT,Dodger Stadium,5/30/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-BAL,Fenway Park,5/30/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Globe Life Field,5/30/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-HOU,Oakland Coliseum,5/30/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-CLE,Progressive Field,5/30/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-CHC,Wrigley Field,5/30/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-MIL,Wrigley Field,5/30/2022,5,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-NYM,Citi Field,5/31/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-PIT,Dodger Stadium,5/31/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TEX,Globe Life Field,5/31/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-TOR,Rogers Centre,5/31/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-CHC,Wrigley Field,5/31/2022,3,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
-NYY,Yankee Stadium,5/31/2022,2,,, $(60.00), $(90.00),0,,,,,,,,,,,,,,,,,,,,,,,
+Team,Ballpark,Date,Batter
+MIN,Target Field,4/24/2022,Byron Buxton
+CLE,Minute Maid Park,5/24/2022,Jose Ramirez
+TOR,Rogers Centre,5/1/2022,Bo Bichette
+KC,Kauffman Stadium,4/11/2022,Andrew Benintendi
+SF,Oracle Park,4/8/2022,Brandon Belt
+TOR,Busch Stadium,5/24/2022,Danny Jansen
+ARI,Busch Stadium,5/1/2022,Jordan Luplow
+ARI,Busch Stadium,5/1/2022,Christian Walker
+SF,Busch Stadium,5/13/2022,Curt Casali
+NYM,Busch Stadium,4/25/2022,Brandon Nimmo
+MIL,Busch Stadium,5/28/2022,Victor Caratini
+NYM,Citi Field,5/18/2022,Pete Alonso
+SF,Oracle Park,4/29/2022,Joey Bart
+NYY,Yankee Stadium,5/8/2022,Gleyber Torres
+MIA,Chase Field,5/11/2022,Jazz Chisholm Jr.
+PIT,PNC Park,5/25/2022,Josh VanMeter
+LAA,Angel Stadium,5/21/2022,Luis Rengifo
+HOU,T-Mobile Park,4/17/2022,Michael Brantley
+CWS,Guaranteed Rate Field,4/12/2022,Luis Robert
+MIA,Marlins Park,4/29/2022,Jorge Soler
+COL,Coors Field,5/18/2022,Charlie Blackmon
+WSH,Nationals Park,4/24/2022,Yadiel Hernandez
+PHI,Citizens Bank Park,5/30/2022,Nick Castellanos
+PHI,Citizens Bank Park,5/30/2022,Rhys Hoskins
+PHI,Citizens Bank Park,5/30/2022,Kyle Schwarber
+ARI,Chase Field,4/26/2022,David Peralta
+COL,Coors Field,5/21/2022,Brian Serven
+KC,Busch Stadium,4/12/2022,Michael A. Taylor
+KC,Kauffman Stadium,5/3/2022,Bobby Witt Jr.
+SF,Oracle Park,5/8/2022,LaMonte Wade Jr.
+KC,Busch Stadium,4/12/2022,Salvador Perez
+CIN,American Family Field,5/5/2022,Tyler Stephenson
+STL,Busch Stadium,5/28/2022,Paul Goldschmidt
+NYM,Citi Field,4/17/2022,Pete Alonso
+STL,Busch Stadium,5/28/2022,Nolan Gorman
+STL,American Family Field,4/17/2022,Albert Pujols
+CHC,Wrigley Field,5/30/2022,Willson Contreras
+ATL,Truist Park,5/8/2022,Adam Duvall
+BAL,Busch Stadium,5/10/2022,Cedric Mullins II
+BAL,Busch Stadium,5/10/2022,Tyler Nevin
+NYY,Yankee Stadium,5/21/2022,DJ LeMahieu
+SEA,Guaranteed Rate Field,4/13/2022,Ty France
+BOS,Guaranteed Rate Field,5/26/2022,Enrique Hernandez
+CLE,Progressive Field,4/20/2022,Jose Ramirez
+BOS,Guaranteed Rate Field,5/26/2022,Trevor Story
+LAA,Guaranteed Rate Field,5/1/2022,Mike Trout
+NYY,Yankee Stadium,4/28/2022,Aaron Judge
+MIN,Tropicana Field,5/1/2022,Byron Buxton
+CHC,Wrigley Field,4/19/2022,Patrick Wisdom
+MIL,Marlins Park,5/15/2022,Rowdy Tellez
+PHI,Citizens Bank Park,4/11/2022,J.T. Realmuto
+STL,Busch Stadium,5/10/2022,Brendan Donovan
+TEX,Rogers Centre,4/10/2022,Jonah Heim
+NYM,Citi Field,5/2/2022,Mark Canha
+SD,Truist Park,5/13/2022,Wil Myers
+TEX,Rogers Centre,4/8/2022,Mitch Garver
+CHC,Truist Park,4/26/2022,Ian Happ
+TEX,Rogers Centre,4/10/2022,Brad Miller
+MIL,Truist Park,5/7/2022,Hunter Renfroe
+MIA,Truist Park,5/29/2022,Jorge Soler
+LAA,Angel Stadium,4/12/2022,Anthony Rendon
+ATL,Truist Park,4/24/2022,Austin Riley
+TB,Wrigley Field,4/20/2022,Francisco Mejia
+ATL,Truist Park,4/26/2022,Travis Demeritte
+COL,Coors Field,4/15/2022,Alan Trejo
+ARI,Wrigley Field,5/19/2022,Daulton Varsho
+MIL,Wrigley Field,4/10/2022,Willy Adames
+LAA,Globe Life Field,5/17/2022,Mike Trout
+HOU,Angel Stadium,4/8/2022,Alex Bregman
+MIL,Citizens Bank Park,4/23/2022,Hunter Renfroe
+NYM,Citizens Bank Park,5/8/2022,Pete Alonso
+ATL,Truist Park,5/25/2022,Austin Riley
+CLE,Progressive Field,5/8/2022,Owen Miller
+LAA,Angel Stadium,5/29/2022,Max Stassi
+TEX,Rogers Centre,4/8/2022,Adolis Garcia
+SF,Citizens Bank Park,5/30/2022,Wilmer Flores
+CIN,Great American Ball Park,5/11/2022,Colin Moran
+COL,Citizens Bank Park,4/25/2022,Connor Joe
+LAD,Dodger Stadium,5/13/2022,Chris Taylor
+COL,Citizens Bank Park,4/25/2022,Randal Grichuk
+MIA,Marlins Park,4/14/2022,Garrett Cooper
+SF,Oracle Park,4/8/2022,Thairo Estrada
+STL,Marlins Park,4/20/2022,Nolan Arenado
+ARI,Marlins Park,5/4/2022,Pavin Smith
+STL,Oracle Park,5/6/2022,Harrison Bader
+BAL,Yankee Stadium,4/26/2022,Austin Hays
+CWS,Guaranteed Rate Field,5/12/2022,Yoan Moncada
+COL,Coors Field,5/17/2022,Randal Grichuk
+TOR,Yankee Stadium,4/13/2022,Vladimir Guerrero Jr.
+NYM,Oracle Park,5/23/2022,Pete Alonso
+NYY,Yankee Stadium,5/22/2022,Aaron Judge
+TEX,Citizens Bank Park,5/3/2022,Jonah Heim
+COL,Coors Field,4/9/2022,Connor Joe
+LAD,Dodger Stadium,5/14/2022,Mookie Betts
+TEX,Citizens Bank Park,5/3/2022,Mitch Garver
+COL,Citizens Bank Park,4/27/2022,C.J. Cron
+ATL,Truist Park,5/25/2022,William Contreras
+MIA,Marlins Park,4/16/2022,Jorge Soler
+TOR,Rogers Centre,4/9/2022,Bo Bichette
+LAA,Globe Life Field,5/18/2022,Jared Walsh
+LAA,Angel Stadium,5/24/2022,Jared Walsh
+HOU,Globe Life Field,4/25/2022,Yordan Alvarez
+LAA,Globe Life Field,4/14/2022,Mike Trout
+LAA,Globe Life Field,5/18/2022,Mike Trout
+MIL,Great American Ball Park,5/9/2022,Omar Narvaez
+PIT,PNC Park,5/14/2022,Daniel Vogelbach
+DET,Comerica Park,4/23/2022,Spencer Torkelson
+WSH,Coors Field,5/5/2022,Juan Soto
+MIL,Marlins Park,5/14/2022,Hunter Renfroe
+SD,Great American Ball Park,4/26/2022,Ha-Seong Kim
+SD,Great American Ball Park,4/26/2022,Eric Hosmer
+SD,Petco Park,4/19/2022,Manny Machado
+COL,Coors Field,5/1/2022,C.J. Cron
+CLE,Great American Ball Park,4/13/2022,Owen Miller
+HOU,Oakland Coliseum,5/30/2022,Jose Altuve
+OAK,Angel Stadium,5/20/2022,Jed Lowrie
+DET,Minute Maid Park,5/5/2022,Jeimer Candelario
+TB,Oakland Coliseum,5/3/2022,Brett Phillips
+CLE,Great American Ball Park,4/13/2022,Jose Ramirez
+SD,Petco Park,4/18/2022,Manny Machado
+OAK,Angel Stadium,5/20/2022,Seth Brown
+HOU,Oakland Coliseum,5/30/2022,Yordan Alvarez
+CLE,Kauffman Stadium,4/10/2022,Jose Ramirez
+MIN,Target Field,5/28/2022,Trevor Larnach
+MIA,Coors Field,6/1/2022,Miguel Rojas
+LAD,Coors Field,4/9/2022,Austin Barnes
+SF,Coors Field,5/16/2022,Curt Casali
+SF,Coors Field,5/16/2022,Curt Casali
+NYM,Coors Field,5/21/2022,Starling Marte
+PHI,Coors Field,4/20/2022,Alec Bohm
+WSH,Coors Field,5/3/2022,Josh Bell
+PHI,Coors Field,4/20/2022,Nick Castellanos
+WSH,Coors Field,5/3/2022,Juan Soto
+KC,Coors Field,5/14/2022,Salvador Perez
+PHI,Coors Field,4/19/2022,Kyle Schwarber
+PHI,Coors Field,4/20/2022,Kyle Schwarber
+HOU,Oakland Coliseum,5/30/2022,Yordan Alvarez
+LAA,Angel Stadium,4/23/2022,Brandon Marsh
+CWS,Guaranteed Rate Field,4/28/2022,Leury Garcia
+DET,Tropicana Field,5/16/2022,Harold Castro
+MIN,Target Field,5/27/2022,Jorge Polanco
+SEA,Tropicana Field,4/27/2022,Abraham Toro
+SEA,T-Mobile Park,5/8/2022,Abraham Toro
+DET,Tropicana Field,5/17/2022,Jeimer Candelario
+SEA,T-Mobile Park,5/5/2022,Jesse Winker
+NYY,Tropicana Field,5/29/2022,Gleyber Torres
+MIN,Target Field,5/27/2022,Carlos Correa
+DET,Kauffman Stadium,4/15/2022,Spencer Torkelson
+TEX,Globe Life Field,5/10/2022,Corey Seager
+TEX,Globe Life Field,5/10/2022,Corey Seager
+LAA,Angel Stadium,5/11/2022,Taylor Ward
+CWS,Kauffman Stadium,5/16/2022,Yasmani Grandal
+OAK,Tropicana Field,4/13/2022,Sean Murphy
+MIN,Tropicana Field,4/30/2022,Kyle Garlick
+MIN,Tropicana Field,4/30/2022,Kyle Garlick
+CHC,Wrigley Field,4/18/2022,Patrick Wisdom
+SD,Oracle Park,4/11/2022,Austin Nola
+CIN,Great American Ball Park,5/28/2022,Kyle Farmer
+LAD,Dodger Stadium,5/4/2022,Mookie Betts
+HOU,Globe Life Field,4/27/2022,Chas McCormick
+BOS,Globe Life Field,5/14/2022,Rafael Devers
+WSH,Oracle Park,4/29/2022,Juan Soto
+BOS,Globe Life Field,5/14/2022,J.D. Martinez
+WSH,Nationals Park,4/23/2022,Riley Adams
+NYY,Yankee Stadium,5/8/2022,Giancarlo Stanton
+BOS,Fenway Park,5/4/2022,Xander Bogaerts
+TEX,Angel Stadium,5/24/2022,Mitch Garver
+TEX,Globe Life Field,5/30/2022,Eli White
+TEX,Globe Life Field,5/30/2022,Jonah Heim
+BAL,Tropicana Field,4/9/2022,Ryan Mountcastle
+CWS,Guaranteed Rate Field,4/15/2022,Jake Burger
+MIA,Tropicana Field,5/25/2022,Jorge Soler
+CIN,Great American Ball Park,5/29/2022,Albert Almora Jr.
+MIA,Oracle Park,4/8/2022,Jazz Chisholm Jr.
+ARI,Chase Field,4/7/2022,Seth Beer
+NYM,Citi Field,5/30/2022,Starling Marte
+NYM,Nationals Park,4/10/2022,Francisco Lindor
+ARI,Nationals Park,4/20/2022,Daulton Varsho
+MIL,Petco Park,5/24/2022,Tyrone Taylor
+MIA,Nationals Park,4/27/2022,Jesus Aguilar
+LAD,Petco Park,4/22/2022,Mookie Betts
+HOU,Nationals Park,5/14/2022,Jose Siri
+MIL,American Family Field,5/20/2022,Rowdy Tellez
+LAD,Dodger Stadium,4/18/2022,Cody Bellinger
+MIA,Truist Park,5/29/2022,Jorge Soler
+ARI,Busch Stadium,4/30/2022,Nick Ahmed
+MIL,Busch Stadium,5/29/2022,Jace Peterson
+ARI,Busch Stadium,4/30/2022,Ketel Marte
+TOR,Busch Stadium,5/23/2022,George Springer
+MIL,Busch Stadium,5/29/2022,Rowdy Tellez
+CIN,Great American Ball Park,5/26/2022,Kyle Farmer
+TB,Wrigley Field,4/19/2022,Wander Franco
+CLE,Target Field,5/13/2022,Austin Hedges
+BOS,Fenway Park,4/16/2022,Alex Verdugo
+SEA,Target Field,4/9/2022,Tom Murphy
+COL,Coors Field,5/18/2022,C.J. Cron
+TEX,Angel Stadium,5/24/2022,Jonah Heim
+TB,Angel Stadium,5/9/2022,Randy Arozarena
+NYY,Yankee Stadium,5/31/2022,Matt Carpenter
+BOS,Fenway Park,5/3/2022,Rafael Devers
+HOU,Nationals Park,5/15/2022,Yuli Gurriel
+HOU,Nationals Park,5/15/2022,Martin Maldonado
+TEX,Rogers Centre,4/10/2022,Nick Solak
+TB,Tropicana Field,5/14/2022,Yandy Diaz
+MIL,American Family Field,5/21/2022,Luis Urias
+NYM,Citi Field,5/31/2022,Starling Marte
+MIL,American Family Field,5/21/2022,Andrew McCutchen
+SF,Nationals Park,4/22/2022,Austin Slater
+HOU,Nationals Park,5/15/2022,Chas McCormick
+OAK,Rogers Centre,4/16/2022,Sean Murphy
+WSH,Truist Park,4/11/2022,Maikel Franco
+WSH,Angel Stadium,5/7/2022,Yadiel Hernandez
+WSH,Angel Stadium,5/7/2022,Josh Bell
+LAD,Dodger Stadium,4/18/2022,Freddie Freeman
+MIA,Angel Stadium,4/11/2022,Jesus Sanchez
+HOU,Minute Maid Park,4/18/2022,Yordan Alvarez
+STL,American Family Field,4/15/2022,Tommy Edman
+MIL,Marlins Park,5/13/2022,Kolten Wong
+TB,Tropicana Field,5/24/2022,Kevin Kiermaier
+MIN,Target Field,5/13/2022,Royce Lewis
+TB,Tropicana Field,5/24/2022,Harold Ramirez
+ARI,Marlins Park,5/2/2022,David Peralta
+TB,Tropicana Field,5/24/2022,Ji-Man Choi
+DET,Progressive Field,5/22/2022,Javier Baez
+CIN,Great American Ball Park,5/23/2022,Aristides Aquino
+COL,Coors Field,4/15/2022,C.J. Cron
+MIN,Target Field,5/13/2022,Gary Sanchez
+HOU,Minute Maid Park,4/18/2022,Yordan Alvarez
+LAD,Citizens Bank Park,5/21/2022,Austin Barnes
+PIT,Petco Park,5/28/2022,Ke'Bryan Hayes
+LAD,Dodger Stadium,5/13/2022,Justin Turner
+COL,Coors Field,4/19/2022,C.J. Cron
+COL,Coors Field,5/5/2022,Garrett Hampson
+SF,Oracle Park,4/29/2022,Jason Vosler
+MIL,American Family Field,5/22/2022,Tyrone Taylor
+MIA,Marlins Park,5/16/2022,Avisail Garcia
+COL,Nationals Park,5/28/2022,C.J. Cron
+NYM,Nationals Park,5/11/2022,Pete Alonso
+SD,Petco Park,4/14/2022,CJ Abrams
+PHI,Truist Park,5/25/2022,Odubel Herrera
+SF,Oracle Park,5/23/2022,Brandon Crawford
+ARI,Chase Field,5/31/2022,Christian Walker
+TOR,Rogers Centre,4/25/2022,Bo Bichette
+HOU,Fenway Park,5/17/2022,Kyle Tucker
+TEX,Globe Life Field,5/15/2022,Adolis Garcia
+LAD,Dodger Stadium,4/20/2022,Freddie Freeman
+ATL,Citi Field,5/3/2022,Matt Olson
+MIA,Marlins Park,5/20/2022,Jorge Soler
+LAD,Dodger Stadium,4/20/2022,Edwin Rios
+SD,Petco Park,4/16/2022,Jurickson Profar
+MIL,American Family Field,4/14/2022,Omar Narvaez
+MIA,Marlins Park,4/19/2022,Bryan De La Cruz
+MIL,Busch Stadium,5/26/2022,Luis Urias
+PIT,PNC Park,5/20/2022,Michael Chavis
+MIA,Truist Park,5/27/2022,Jesus Aguilar
+MIA,Truist Park,5/27/2022,Garrett Cooper
+MIA,Truist Park,4/23/2022,Jazz Chisholm Jr.
+BOS,Truist Park,5/11/2022,Trevor Story
+SF,Busch Stadium,5/15/2022,Joc Pederson
+TEX,Globe Life Field,4/29/2022,Adolis Garcia
+SEA,T-Mobile Park,4/19/2022,Jarred Kelenic
+OAK,Oakland Coliseum,5/27/2022,Sean Murphy
+OAK,Oakland Coliseum,5/27/2022,Chad Pinder
+SEA,T-Mobile Park,4/19/2022,Eugenio Suarez
+NYM,Citizens Bank Park,5/8/2022,Pete Alonso
+LAA,Angel Stadium,5/9/2022,Shohei Ohtani
+LAA,Angel Stadium,5/9/2022,Mike Trout
+NYM,Citizens Bank Park,4/12/2022,Brandon Nimmo
+LAD,Dodger Stadium,5/12/2022,Cody Bellinger
+TEX,Globe Life Field,5/15/2022,Kole Calhoun
+LAA,Fenway Park,5/5/2022,Jared Walsh
+CLE,Guaranteed Rate Field,5/9/2022,Josh Naylor
+TOR,Tropicana Field,5/14/2022,Danny Jansen
+SF,Great American Ball Park,5/28/2022,Evan Longoria
+COL,Coors Field,5/5/2022,Randal Grichuk
+TOR,Rogers Centre,5/21/2022,Bo Bichette
+SEA,T-Mobile Park,5/6/2022,Jarred Kelenic
+CHC,Great American Ball Park,5/23/2022,Ian Happ
+KC,Kauffman Stadium,5/18/2022,MJ Melendez
+SEA,T-Mobile Park,5/6/2022,Eugenio Suarez
+ATL,Truist Park,4/13/2022,Austin Riley
+TOR,Tropicana Field,5/14/2022,Teoscar Hernandez
+PHI,Marlins Park,4/17/2022,Kyle Schwarber
+NYY,Guaranteed Rate Field,5/12/2022,Aaron Judge
+MIA,Marlins Park,5/17/2022,Miguel Rojas
+COL,Coors Field,5/14/2022,Ryan McMahon
+PIT,PNC Park,4/14/2022,Bryan Reynolds
+PIT,PNC Park,4/14/2022,Daniel Vogelbach
+SF,Nationals Park,4/24/2022,Joc Pederson
+NYM,Nationals Park,4/9/2022,Pete Alonso
+STL,Kauffman Stadium,5/4/2022,Tyler O'Neill
+ATL,Dodger Stadium,4/18/2022,Guillermo Heredia
+ATL,Dodger Stadium,4/18/2022,Ozzie Albies
+KC,Target Field,5/27/2022,Bobby Witt Jr.
+STL,Busch Stadium,4/7/2022,Tommy Edman
+STL,Busch Stadium,4/7/2022,Nolan Arenado
+TB,Tropicana Field,5/18/2022,Isaac Paredes
+KC,Kauffman Stadium,5/20/2022,Carlos Santana
+LAD,Dodger Stadium,5/16/2022,Chris Taylor
+KC,Kauffman Stadium,4/19/2022,Hunter Dozier
+ARI,Chase Field,4/12/2022,Christian Walker
+KC,Kauffman Stadium,4/19/2022,Salvador Perez
+BOS,Fenway Park,4/18/2022,Christian Vazquez
+BAL,Oriole Park at Camden Yards,5/5/2022,Austin Hays
+BOS,Fenway Park,4/15/2022,Rafael Devers
+BAL,Oriole Park at Camden Yards,5/5/2022,Ryan Mountcastle
+SEA,Marlins Park,5/1/2022,J.P. Crawford
+SF,Oracle Park,4/8/2022,Joey Bart
+ARI,Chase Field,5/11/2022,Alek Thomas
+SEA,Marlins Park,5/1/2022,Julio Rodriguez
+CHC,Wrigley Field,4/7/2022,Nico Hoerner
+PIT,American Family Field,4/19/2022,Josh VanMeter
+PIT,PNC Park,5/11/2022,Josh VanMeter
+BAL,Comerica Park,5/13/2022,Anthony Santander
+CLE,Progressive Field,5/20/2022,Jose Ramirez
+MIA,Marlins Park,5/13/2022,Jesus Aguilar
+PIT,American Family Field,4/19/2022,Daniel Vogelbach
+BAL,Comerica Park,5/13/2022,Trey Mancini
+ATL,American Family Field,5/18/2022,Marcell Ozuna
+PIT,PNC Park,5/11/2022,Jack Suwinski
+ATL,American Family Field,5/18/2022,Austin Riley
+ATL,Truist Park,5/7/2022,Ronald Acuna Jr.
+CHC,American Family Field,5/1/2022,Patrick Wisdom
+TEX,Globe Life Field,4/11/2022,Willie Calhoun
+SF,Coors Field,5/16/2022,Mike Yastrzemski
+SEA,T-Mobile Park,4/23/2022,J.P. Crawford
+STL,American Family Field,4/14/2022,Tommy Edman
+CHC,Coors Field,4/14/2022,Frank Schwindel
+STL,Kauffman Stadium,5/4/2022,Nolan Arenado
+KC,Coors Field,5/13/2022,Andrew Benintendi
+NYY,Kauffman Stadium,4/29/2022,Anthony Rizzo
+TB,Tropicana Field,5/17/2022,Randy Arozarena
+MIL,PNC Park,4/28/2022,Andrew McCutchen
+CIN,Coors Field,5/1/2022,Brandon Drury
+ATL,Truist Park,5/6/2022,Dansby Swanson
+KC,Kauffman Stadium,4/16/2022,Hunter Dozier
+TEX,Globe Life Field,5/11/2022,Corey Seager
+WSH,Nationals Park,5/29/2022,Juan Soto
+ATL,Truist Park,5/8/2022,William Contreras
+CHC,PNC Park,4/12/2022,Seiya Suzuki
+PHI,Citizens Bank Park,4/25/2022,Bryce Harper
+NYY,Kauffman Stadium,4/29/2022,Giancarlo Stanton
+CWS,Yankee Stadium,5/22/2022,Tim Anderson
+LAA,Globe Life Field,4/14/2022,Max Stassi
+ATL,Globe Life Field,4/29/2022,Austin Riley
+TB,Tropicana Field,4/22/2022,Wander Franco
+TB,Tropicana Field,4/22/2022,Wander Franco
+SEA,Fenway Park,5/20/2022,Abraham Toro
+CIN,Great American Ball Park,5/24/2022,Tyler Naquin
+ARI,Wrigley Field,5/20/2022,Christian Walker
+CWS,Guaranteed Rate Field,5/26/2022,Andrew Vaughn
+HOU,Minute Maid Park,4/24/2022,Michael Brantley
+HOU,Rogers Centre,4/29/2022,Alex Bregman
+NYY,Yankee Stadium,4/12/2022,Aaron Hicks
+PHI,Truist Park,5/26/2022,J.T. Realmuto
+BOS,Truist Park,5/10/2022,Rafael Devers
+NYM,Citi Field,5/3/2022,Pete Alonso
+NYY,Rogers Centre,5/4/2022,Joey Gallo
+TB,T-Mobile Park,5/7/2022,Manuel Margot
+PHI,Citi Field,5/1/2022,Johan Camargo
+NYY,Yankee Stadium,4/8/2022,DJ LeMahieu
+BAL,Fenway Park,5/27/2022,Anthony Santander
+ATL,Truist Park,5/10/2022,Travis d'Arnaud
+LAA,Fenway Park,5/4/2022,Max Stassi
+HOU,Fenway Park,5/16/2022,Chas McCormick
+NYM,Citizens Bank Park,4/13/2022,Brandon Nimmo
+COL,Coors Field,4/18/2022,Charlie Blackmon
+NYM,Citizens Bank Park,5/5/2022,Starling Marte
+BAL,Yankee Stadium,5/24/2022,Rougned Odor
+LAD,Dodger Stadium,5/15/2022,Mookie Betts
+LAD,Citizens Bank Park,5/21/2022,Mookie Betts
+LAD,Citizens Bank Park,5/21/2022,Will Smith
+OAK,Citizens Bank Park,4/8/2022,Chad Pinder
+TEX,Yankee Stadium,5/8/2022,Brad Miller
+OAK,Citizens Bank Park,4/8/2022,Seth Brown
+NYM,Citi Field,4/29/2022,Pete Alonso
+TB,Oriole Park at Camden Yards,5/22/2022,Isaac Paredes
+OAK,Oakland Coliseum,4/30/2022,Sheldon Neuse
+STL,American Family Field,4/15/2022,Nolan Arenado
+MIN,Target Field,5/14/2022,Gio Urshela
+MIN,Target Field,5/29/2022,Gio Urshela
+ARI,Chase Field,5/23/2022,Pavin Smith
+MIN,Target Field,5/29/2022,Nick Gordon
+ARI,Chase Field,5/23/2022,Christian Walker
+MIN,Target Field,5/29/2022,Trevor Larnach
+LAA,Angel Stadium,4/25/2022,Taylor Ward
+LAA,Angel Stadium,4/25/2022,Taylor Ward
+CWS,Guaranteed Rate Field,4/27/2022,Jake Burger
+PIT,PNC Park,5/9/2022,Jack Suwinski
+STL,Busch Stadium,5/2/2022,Paul Goldschmidt
+LAD,Dodger Stadium,5/4/2022,Max Muncy
+MIN,Oriole Park at Camden Yards,5/3/2022,Ryan Jeffers
+NYY,Oriole Park at Camden Yards,5/17/2022,Aaron Judge
+PIT,Wrigley Field,4/21/2022,Daniel Vogelbach
+COL,Coors Field,4/16/2022,C.J. Cron
+ATL,Globe Life Field,4/29/2022,William Contreras
+CLE,Oakland Coliseum,4/29/2022,Andres Gimenez
+DET,Comerica Park,5/10/2022,Jonathan Schoop
+CLE,Oakland Coliseum,4/29/2022,Jose Ramirez
+TB,Tropicana Field,4/13/2022,Ji-Man Choi
+HOU,Oakland Coliseum,6/2/2022,Chas McCormick
+BOS,Comerica Park,4/11/2022,J.D. Martinez
+PHI,Citizens Bank Park,4/8/2022,Kyle Schwarber
+LAA,Oakland Coliseum,5/15/2022,Shohei Ohtani
+OAK,Rogers Centre,4/16/2022,Cristian Pache
+LAA,Angel Stadium,5/28/2022,Mike Trout
+CIN,Great American Ball Park,5/9/2022,Colin Moran
+WSH,American Family Field,5/21/2022,Lane Thomas
+CIN,American Family Field,5/3/2022,Mike Moustakas
+NYY,Kauffman Stadium,4/29/2022,Gleyber Torres
+CIN,Great American Ball Park,5/9/2022,Brandon Drury
+CIN,American Family Field,5/3/2022,Tommy Pham
+STL,Busch Stadium,5/27/2022,Paul Goldschmidt
+MIA,Marlins Park,5/15/2022,Jorge Soler
+CWS,Wrigley Field,5/4/2022,Leury Garcia
+ARI,Wrigley Field,5/20/2022,Josh Rojas
+ARI,Wrigley Field,5/20/2022,Josh Rojas
+MIL,American Family Field,4/29/2022,Jace Peterson
+PIT,PNC Park,4/13/2022,Ben Gamel
+ARI,Wrigley Field,5/20/2022,David Peralta
+ARI,Wrigley Field,5/20/2022,David Peralta
+MIL,American Family Field,4/29/2022,Andrew McCutchen
+CIN,Great American Ball Park,5/25/2022,Joey Votto
+SF,Citi Field,4/21/2022,Mike Yastrzemski
+CWS,Wrigley Field,5/4/2022,Jose Abreu
+MIL,American Family Field,4/29/2022,Christian Yelich
+WSH,Nationals Park,5/10/2022,Riley Adams
+WSH,Nationals Park,4/10/2022,Nelson Cruz
+BOS,Yankee Stadium,4/10/2022,Bobby Dalbec
+STL,Busch Stadium,5/12/2022,Dylan Carlson
+SD,Petco Park,5/29/2022,Trent Grisham
+TEX,Oakland Coliseum,5/26/2022,Nathaniel Lowe
+BAL,Busch Stadium,5/12/2022,Anthony Bemboom
+SF,Oracle Park,5/7/2022,Mauricio Dubon
+SF,Oracle Park,5/7/2022,Wilmer Flores
+BAL,Busch Stadium,5/12/2022,Jorge Mateo
+ARI,Wrigley Field,5/21/2022,Pavin Smith
+NYM,Citi Field,5/17/2022,Eduardo Escobar
+NYM,Citi Field,5/17/2022,Mark Canha
+PIT,Busch Stadium,4/10/2022,Michael Chavis
+SF,Oracle Park,5/7/2022,Darin Ruf
+PHI,Citizens Bank Park,4/10/2022,Jean Segura
+BAL,Fenway Park,5/27/2022,Austin Hays
+WSH,Nationals Park,5/28/2022,Victor Robles
+ARI,Chase Field,4/9/2022,David Peralta
+KC,Coors Field,5/14/2022,Bobby Witt Jr.
+ATL,Truist Park,5/15/2022,Dansby Swanson
+CIN,Petco Park,4/19/2022,Tommy Pham
+MIA,Petco Park,5/8/2022,Jazz Chisholm Jr.
+CHC,Coors Field,4/17/2022,Seiya Suzuki
+KC,Chase Field,5/23/2022,Whit Merrifield
+COL,Coors Field,4/10/2022,Elias Diaz
+NYM,Citi Field,4/15/2022,Robinson Cano
+KC,Chase Field,5/23/2022,Bobby Witt Jr.
+NYM,Citi Field,4/15/2022,Francisco Lindor
+LAD,Dodger Stadium,5/18/2022,Justin Turner
+KC,Chase Field,5/23/2022,Hunter Dozier
+ARI,Chase Field,5/26/2022,Christian Walker
+LAA,Angel Stadium,5/29/2022,Taylor Ward
+LAD,Chase Field,5/29/2022,Will Smith
+STL,Busch Stadium,5/23/2022,Paul Goldschmidt
+WSH,Nationals Park,4/21/2022,Nelson Cruz
+PIT,Dodger Stadium,5/30/2022,Tucupita Marcano
+ATL,Petco Park,4/16/2022,Ozzie Albies
+ATL,Dodger Stadium,4/19/2022,Travis d'Arnaud
+PIT,Dodger Stadium,5/30/2022,Bryan Reynolds
+CHC,Petco Park,5/11/2022,Willson Contreras
+LAD,Petco Park,4/22/2022,Mookie Betts
+ATL,Petco Park,4/16/2022,Marcell Ozuna
+CIN,Dodger Stadium,4/14/2022,Aristides Aquino
+ATL,Petco Park,4/16/2022,Matt Olson
+LAD,Petco Park,4/22/2022,Max Muncy
+PHI,Dodger Stadium,5/13/2022,Kyle Schwarber
+STL,Busch Stadium,5/30/2022,Nolan Gorman
+OAK,Comerica Park,5/12/2022,Seth Brown
+ARI,Citi Field,4/16/2022,Sergio Alcantara
+CWS,Wrigley Field,5/3/2022,Tim Anderson
+STL,Citi Field,5/18/2022,Nolan Arenado
+TEX,Globe Life Field,4/28/2022,Corey Seager
+CWS,Guaranteed Rate Field,5/28/2022,Jake Burger
+SD,Petco Park,5/11/2022,Luke Voit
+SF,Oracle Park,5/9/2022,Mauricio Dubon
+KC,Coors Field,5/15/2022,Whit Merrifield
+WSH,Coors Field,5/4/2022,Lane Thomas
+PHI,Citizens Bank Park,4/28/2022,Alec Bohm
+KC,Coors Field,5/15/2022,Emmanuel Rivera
+COL,Coors Field,4/17/2022,Ryan McMahon
+CHC,Coors Field,4/17/2022,Willson Contreras
+MIL,American Family Field,4/30/2022,Rowdy Tellez
+LAA,Fenway Park,5/4/2022,Jared Walsh
+SEA,Fenway Park,5/22/2022,Adam Frazier
+HOU,Fenway Park,5/17/2022,Yuli Gurriel
+NYM,Citi Field,5/28/2022,Jeff McNeil
+HOU,Fenway Park,5/17/2022,Michael Brantley
+ATL,Truist Park,5/11/2022,Travis Demeritte
+MIL,Wrigley Field,4/10/2022,Mike Brosseau
+BAL,Fenway Park,5/27/2022,Jorge Mateo
+DET,Comerica Park,4/13/2022,Jonathan Schoop
+TB,Tropicana Field,4/24/2022,Yandy Diaz
+COL,Citizens Bank Park,4/26/2022,Charlie Blackmon
+ARI,Wrigley Field,5/20/2022,Alek Thomas
+MIL,Wrigley Field,5/30/2022,Luis Urias
+NYY,Yankee Stadium,4/8/2022,Anthony Rizzo
+BAL,Fenway Park,5/28/2022,Robinson Chirinos
+DET,Comerica Park,4/13/2022,Akil Baddoo
+TOR,Rogers Centre,4/25/2022,Lourdes Gurriel Jr.
+LAD,Citizens Bank Park,5/22/2022,Mookie Betts
+CWS,Comerica Park,4/9/2022,Yasmani Grandal
+HOU,Fenway Park,5/17/2022,Kyle Tucker
+TOR,Rogers Centre,4/25/2022,Matt Chapman
+HOU,Fenway Park,5/17/2022,Jeremy Pena
+TOR,Rogers Centre,4/26/2022,George Springer
+TOR,Fenway Park,4/19/2022,Zack Collins
+MIL,American Family Field,4/29/2022,Hunter Renfroe
+CWS,Fenway Park,5/6/2022,Luis Robert
+LAD,Citizens Bank Park,5/22/2022,Edwin Rios
+HOU,Fenway Park,5/17/2022,Yordan Alvarez
+NYY,Yankee Stadium,4/8/2022,Giancarlo Stanton
+SEA,Rogers Centre,5/18/2022,Cal Raleigh
+CWS,Rogers Centre,5/31/2022,Andrew Vaughn
+NYM,Citi Field,5/14/2022,Patrick Mazeika
+TB,Tropicana Field,5/29/2022,Taylor Walls
+MIL,Busch Stadium,5/29/2022,Lorenzo Cain
+CHC,Wrigley Field,5/17/2022,Jonathan Villar
+CIN,PNC Park,5/12/2022,Tyler Stephenson
+SD,PNC Park,4/30/2022,Eric Hosmer
+BOS,Yankee Stadium,4/9/2022,Alex Verdugo
+KC,Kauffman Stadium,5/1/2022,Michael A. Taylor
+BAL,Yankee Stadium,4/26/2022,Anthony Santander
+BAL,Oriole Park at Camden Yards,5/16/2022,Anthony Santander
+TB,Tropicana Field,5/29/2022,Ji-Man Choi
+BOS,Fenway Park,5/22/2022,Franchy Cordero
+TOR,Yankee Stadium,5/10/2022,George Springer
+MIL,American Family Field,4/19/2022,Rowdy Tellez
+MIN,Target Field,4/9/2022,Byron Buxton
+STL,Busch Stadium,4/7/2022,Tyler O'Neill
+LAA,Yankee Stadium,5/31/2022,Luis Rengifo
+TEX,Yankee Stadium,5/8/2022,Eli White
+MIL,Wrigley Field,5/31/2022,Victor Caratini
+BAL,Yankee Stadium,5/24/2022,Austin Hays
+NYM,Nationals Park,5/12/2022,Mark Canha
+BAL,Oriole Park at Camden Yards,5/19/2022,Robinson Chirinos
+BAL,Yankee Stadium,4/27/2022,Anthony Santander
+CWS,Guaranteed Rate Field,5/14/2022,Yoan Moncada
+MIA,Marlins Park,5/17/2022,Jesus Sanchez
+MIA,Chase Field,5/11/2022,Joey Wendle
+LAD,Dodger Stadium,5/31/2022,Trea Turner
+CIN,PNC Park,5/13/2022,Mike Moustakas
+CIN,Great American Ball Park,5/7/2022,Brandon Drury
+STL,Busch Stadium,4/9/2022,Paul DeJong
+MIL,PNC Park,4/26/2022,Willy Adames
+LAD,Chase Field,5/28/2022,Mookie Betts
+MIL,American Family Field,4/20/2022,Rowdy Tellez
+LAD,Dodger Stadium,5/17/2022,Edwin Rios
+CLE,Great American Ball Park,4/13/2022,Oscar Mercado
+SD,Petco Park,4/20/2022,Ha-Seong Kim
+TEX,Globe Life Field,5/18/2022,Kole Calhoun
+HOU,Minute Maid Park,4/19/2022,Jeremy Pena
+STL,Busch Stadium,5/14/2022,Tommy Edman
+DET,Tropicana Field,5/16/2022,Jonathan Schoop
+SD,Oracle Park,5/20/2022,Jake Cronenworth
+NYM,Oracle Park,5/25/2022,Francisco Lindor
+LAA,Angel Stadium,5/10/2022,Chad Wallach
+STL,Oracle Park,5/8/2022,Juan Yepez
+CWS,Guaranteed Rate Field,4/16/2022,Jose Abreu
+BOS,Tropicana Field,4/22/2022,Rafael Devers
+LAA,Angel Stadium,5/10/2022,Mike Trout
+CIN,Truist Park,4/10/2022,Tyler Stephenson
+COL,Globe Life Field,4/11/2022,Connor Joe
+TOR,Rogers Centre,4/8/2022,Danny Jansen
+CWS,Comerica Park,4/8/2022,Andrew Vaughn
+MIL,American Family Field,4/29/2022,Hunter Renfroe
+LAA,Globe Life Field,4/16/2022,Shohei Ohtani
+MIA,Petco Park,5/7/2022,Joe Dunand
+STL,Oracle Park,5/5/2022,Yadier Molina
+STL,Busch Stadium,5/15/2022,Yadier Molina
+STL,Oracle Park,5/7/2022,Dylan Carlson
+STL,Busch Stadium,5/15/2022,Nolan Arenado
+TOR,Busch Stadium,5/24/2022,Danny Jansen
+PIT,Petco Park,5/27/2022,Bryan Reynolds
+CIN,Petco Park,4/18/2022,Tommy Pham
+LAD,Petco Park,4/24/2022,Cody Bellinger
+SF,Oracle Park,5/20/2022,Darin Ruf
+SF,Oracle Park,5/20/2022,Darin Ruf
+TOR,Busch Stadium,5/24/2022,Vladimir Guerrero Jr.
+LAD,Petco Park,4/24/2022,Freddie Freeman
+STL,Busch Stadium,5/13/2022,Paul Goldschmidt
+ATL,Truist Park,5/14/2022,Matt Olson
+MIL,Busch Stadium,5/28/2022,Keston Hiura
+WSH,Coors Field,5/5/2022,Keibert Ruiz
+PHI,Citizens Bank Park,4/26/2022,Odubel Herrera
+HOU,Minute Maid Park,5/7/2022,Jose Altuve
+SEA,Rogers Centre,5/18/2022,Abraham Toro
+ARI,Marlins Park,5/3/2022,Pavin Smith
+BOS,Comerica Park,4/13/2022,Enrique Hernandez
+NYY,Comerica Park,4/20/2022,Anthony Rizzo
+KC,Coors Field,5/15/2022,Bobby Witt Jr.
+MIN,Target Field,4/26/2022,Max Kepler
+ATL,Marlins Park,5/20/2022,Travis d'Arnaud
+NYY,Rogers Centre,5/2/2022,Gleyber Torres
+ATL,Marlins Park,5/20/2022,Dansby Swanson
+MIL,Marlins Park,5/14/2022,Willy Adames
+ARI,Marlins Park,5/3/2022,Christian Walker
+ATL,Marlins Park,5/20/2022,Marcell Ozuna
+HOU,Minute Maid Park,4/24/2022,Jeremy Pena
+MIL,Wrigley Field,4/10/2022,Rowdy Tellez
+ATL,Truist Park,5/27/2022,Austin Riley
+MIL,American Family Field,5/18/2022,Keston Hiura
+CLE,Progressive Field,5/7/2022,Franmil Reyes
+NYY,Yankee Stadium,5/10/2022,Aaron Judge
+CIN,Progressive Field,5/19/2022,Tyler Naquin
+LAA,Angel Stadium,4/24/2022,Jo Adell
+CWS,Guaranteed Rate Field,5/10/2022,Gavin Sheets
+BOS,Oriole Park at Camden Yards,5/1/2022,J.D. Martinez
+NYY,Oriole Park at Camden Yards,4/16/2022,Josh Donaldson
+NYY,Yankee Stadium,4/23/2022,Josh Donaldson
+SD,Chase Field,4/8/2022,Jurickson Profar
+CIN,Dodger Stadium,4/14/2022,Brandon Drury
+LAA,Globe Life Field,4/15/2022,Jo Adell
+ATL,Globe Life Field,4/29/2022,William Contreras
+PHI,Citizens Bank Park,5/21/2022,Kyle Schwarber
+MIL,Petco Park,5/24/2022,Mike Brosseau
+PHI,Citizens Bank Park,5/18/2022,Rhys Hoskins
+LAD,Dodger Stadium,5/30/2022,Edwin Rios
+PHI,Coors Field,4/20/2022,Johan Camargo
+CHC,Chase Field,5/14/2022,Yan Gomes
+SF,Citizens Bank Park,5/30/2022,Evan Longoria
+KC,Chase Field,5/24/2022,MJ Melendez
+ATL,Chase Field,5/30/2022,Austin Riley
+NYM,Citi Field,5/29/2022,Nick Plummer
+TB,Tropicana Field,4/26/2022,Wander Franco
+BAL,Fenway Park,5/30/2022,Anthony Santander
+LAA,Fenway Park,5/4/2022,Taylor Ward
+TB,Tropicana Field,4/26/2022,Rene Pinto
+SD,Petco Park,5/29/2022,Jurickson Profar
+DET,Dodger Stadium,5/1/2022,Jeimer Candelario
+BAL,Oriole Park at Camden Yards,5/16/2022,Anthony Santander
+CWS,Yankee Stadium,5/22/2022,A.J. Pollock
+MIL,American Family Field,4/19/2022,Hunter Renfroe
+LAD,Target Field,4/13/2022,Austin Barnes
+SF,Progressive Field,4/17/2022,Thairo Estrada
+NYY,Oriole Park at Camden Yards,5/16/2022,Jose Trevino
+LAD,Target Field,4/13/2022,Gavin Lux
+ATL,Petco Park,4/15/2022,Ozzie Albies
+MIN,Target Field,5/13/2022,Jorge Polanco
+STL,Busch Stadium,5/10/2022,Harrison Bader
+NYY,Yankee Stadium,4/24/2022,Anthony Rizzo
+TB,Oriole Park at Camden Yards,5/21/2022,Randy Arozarena
+TB,Oriole Park at Camden Yards,5/21/2022,Randy Arozarena
+BOS,Oriole Park at Camden Yards,4/29/2022,Christian Arroyo
+MIN,Oriole Park at Camden Yards,5/4/2022,Carlos Correa
+BOS,Fenway Park,5/27/2022,Xander Bogaerts
+LAD,Target Field,4/13/2022,Cody Bellinger
+OAK,Oakland Coliseum,4/29/2022,Sean Murphy
+TOR,Progressive Field,5/5/2022,Vladimir Guerrero Jr.
+MIN,Target Field,5/13/2022,Byron Buxton
+PHI,Citizens Bank Park,4/9/2022,Jean Segura
+SF,Coors Field,5/17/2022,Tommy La Stella
+CIN,Coors Field,4/30/2022,Aramis Garcia
+SF,Oracle Park,5/11/2022,Brandon Crawford
+WSH,Nationals Park,5/28/2022,Yadiel Hernandez
+CIN,Coors Field,4/30/2022,Tyler Naquin
+PHI,Citizens Bank Park,4/9/2022,Nick Castellanos
+PHI,Citizens Bank Park,4/9/2022,Rhys Hoskins
+TB,Tropicana Field,4/14/2022,Brandon Lowe
+LAA,Angel Stadium,5/22/2022,Shohei Ohtani
+SF,American Family Field,4/25/2022,Luis Gonzalez
+ATL,Citi Field,5/4/2022,Guillermo Heredia
+ARI,Dodger Stadium,5/17/2022,Alek Thomas
+DET,Dodger Stadium,5/1/2022,Miguel Cabrera
+PHI,Citizens Bank Park,5/21/2022,Alec Bohm
+COL,Coors Field,5/21/2022,C.J. Cron
+COL,Coors Field,5/21/2022,Brian Serven
+PHI,Dodger Stadium,5/13/2022,Bryce Harper
+SF,Oracle Park,4/26/2022,Wilmer Flores
+NYY,Yankee Stadium,5/24/2022,Jose Trevino
+DET,Comerica Park,5/14/2022,Willi Castro
+TB,Angel Stadium,5/11/2022,Kevin Kiermaier
+LAA,Oakland Coliseum,5/13/2022,Andrew Velazquez
+TB,Oakland Coliseum,5/2/2022,Yandy Diaz
+TEX,Globe Life Field,4/14/2022,Jonah Heim
+STL,Busch Stadium,4/10/2022,Nolan Arenado
+BOS,Fenway Park,5/29/2022,Enrique Hernandez
+NYY,Yankee Stadium,5/24/2022,Anthony Rizzo
+NYM,Citi Field,4/21/2022,Eduardo Escobar
+NYM,Citi Field,4/21/2022,Francisco Lindor
+CLE,Angel Stadium,4/27/2022,Jose Ramirez
+NYY,Yankee Stadium,5/24/2022,Gleyber Torres
+NYY,Yankee Stadium,5/24/2022,Gleyber Torres
+BOS,Fenway Park,5/29/2022,Christian Arroyo
+OAK,Oakland Coliseum,5/3/2022,Kevin Smith
+LAA,Angel Stadium,4/22/2022,Anthony Rendon
+LAA,Fenway Park,5/4/2022,Anthony Rendon
+DET,Comerica Park,4/13/2022,Spencer Torkelson
+CHC,Wrigley Field,5/16/2022,Willson Contreras
+BOS,Fenway Park,5/29/2022,Franchy Cordero
+TEX,Globe Life Field,5/31/2022,Corey Seager
+CWS,Guaranteed Rate Field,4/27/2022,Andrew Vaughn
+BOS,Fenway Park,5/29/2022,Rafael Devers
+TEX,Globe Life Field,5/31/2022,Adolis Garcia
+TOR,Rogers Centre,4/15/2022,Vladimir Guerrero Jr.
+TOR,Angel Stadium,5/26/2022,Vladimir Guerrero Jr.
+TOR,Angel Stadium,5/26/2022,George Springer
+DET,Comerica Park,5/14/2022,Eric Haase
+WSH,PNC Park,4/16/2022,Juan Soto
+CWS,Kauffman Stadium,5/16/2022,Luis Robert
+MIN,Kauffman Stadium,5/22/2022,Kyle Garlick
+NYY,Oriole Park at Camden Yards,5/19/2022,Giancarlo Stanton
+BOS,Fenway Park,5/29/2022,Bobby Dalbec
+CWS,Target Field,4/24/2022,Danny Mendick
+CLE,Progressive Field,5/5/2022,Steven Kwan
+PIT,PNC Park,5/13/2022,Ben Gamel
+WSH,Nationals Park,5/14/2022,Maikel Franco
+CHC,Great American Ball Park,5/24/2022,Frank Schwindel
+CHC,Great American Ball Park,5/24/2022,Frank Schwindel
+PIT,Great American Ball Park,5/8/2022,Michael Perez
+NYY,Yankee Stadium,4/13/2022,Anthony Rizzo
+NYY,Yankee Stadium,5/11/2022,Gleyber Torres
+STL,Busch Stadium,5/23/2022,Juan Yepez
+OAK,Oakland Coliseum,5/17/2022,Kevin Smith
+BOS,Fenway Park,4/16/2022,Xander Bogaerts
+MIL,American Family Field,5/3/2022,Willy Adames
+BOS,Fenway Park,5/16/2022,Trevor Story
+TOR,Rogers Centre,4/29/2022,Matt Chapman
+TEX,Rogers Centre,4/8/2022,Brad Miller
+LAA,Angel Stadium,5/29/2022,Shohei Ohtani
+LAA,Angel Stadium,5/29/2022,Shohei Ohtani
+HOU,Rogers Centre,4/30/2022,Yordan Alvarez
+HOU,Target Field,5/12/2022,Yordan Alvarez
+NYY,Yankee Stadium,4/13/2022,Aaron Judge
+CWS,Guaranteed Rate Field,4/30/2022,Tim Anderson
+CLE,Progressive Field,5/22/2022,Josh Naylor
+TB,Tropicana Field,5/16/2022,Brett Phillips
+PIT,Comerica Park,5/4/2022,Roberto Perez
+SEA,Marlins Park,4/30/2022,Dylan Moore
+ARI,Chase Field,5/10/2022,Jordan Luplow
+SD,Petco Park,5/5/2022,Manny Machado
+SD,Petco Park,5/5/2022,Manny Machado
+BAL,Angel Stadium,4/24/2022,Trey Mancini
+TEX,Globe Life Field,4/17/2022,Adolis Garcia
+CWS,Guaranteed Rate Field,4/30/2022,Luis Robert
+LAD,Dodger Stadium,5/30/2022,Hanser Alberto
+CHC,Wrigley Field,4/23/2022,Alfonso Rivas
+SD,PNC Park,4/29/2022,Ha-Seong Kim
+CHC,PNC Park,4/13/2022,Willson Contreras
+LAD,Dodger Stadium,5/30/2022,Mookie Betts
+MIL,American Family Field,4/18/2022,Christian Yelich
+COL,PNC Park,5/25/2022,C.J. Cron
+BAL,Oriole Park at Camden Yards,4/16/2022,Cedric Mullins II
+BAL,Oriole Park at Camden Yards,5/17/2022,Ramon Urias
+TOR,Yankee Stadium,4/11/2022,George Springer
+CLE,Yankee Stadium,4/22/2022,Franmil Reyes
+PHI,Citizens Bank Park,5/8/2022,Jean Segura
+SF,Oracle Park,5/24/2022,Tommy La Stella
+ARI,Citi Field,4/15/2022,Daulton Varsho
+STL,Citi Field,5/19/2022,Juan Yepez
+LAD,Wrigley Field,5/7/2022,Mookie Betts
+SF,Oracle Park,5/24/2022,Joc Pederson
+SF,Oracle Park,5/24/2022,Joc Pederson
+SF,Citi Field,4/20/2022,Brandon Belt
+STL,Citi Field,5/19/2022,Paul Goldschmidt
+ATL,Citi Field,5/2/2022,Austin Riley
+TB,Tropicana Field,4/30/2022,Taylor Walls
+BAL,Oriole Park at Camden Yards,5/5/2022,Cedric Mullins II
+HOU,Target Field,5/11/2022,Jose Altuve
+CWS,Target Field,4/24/2022,Tim Anderson
+LAD,Nationals Park,5/24/2022,Mookie Betts
+BAL,Oriole Park at Camden Yards,5/5/2022,Ryan Mountcastle
+KC,Kauffman Stadium,4/19/2022,Salvador Perez
+ARI,Chase Field,5/24/2022,David Peralta
+BAL,Angel Stadium,4/24/2022,Austin Hays
+ARI,Chase Field,5/24/2022,Daulton Varsho
+CLE,Progressive Field,5/30/2022,Jose Ramirez
+CHC,Truist Park,4/27/2022,Patrick Wisdom
+TOR,Fenway Park,4/20/2022,Raimel Tapia
+HOU,Fenway Park,5/18/2022,Jose Altuve
+MIL,American Family Field,4/16/2022,Victor Caratini
+NYY,Yankee Stadium,4/9/2022,Anthony Rizzo
+BOS,Fenway Park,5/20/2022,Jackie Bradley Jr.
+ARI,Busch Stadium,5/1/2022,Jordan Luplow
+SF,Oracle Park,5/8/2022,Mike Yastrzemski
+CWS,Guaranteed Rate Field,5/24/2022,Jose Abreu
+KC,Busch Stadium,4/12/2022,Salvador Perez
+NYY,Yankee Stadium,4/9/2022,Giancarlo Stanton
+MIN,Fenway Park,4/15/2022,Miguel Sano
+ARI,Busch Stadium,4/28/2022,Pavin Smith
+MIA,Marlins Park,4/21/2022,Jazz Chisholm Jr.
+MIA,Marlins Park,4/21/2022,Jesus Sanchez
+CHC,Petco Park,5/10/2022,Alfonso Rivas
+NYM,Chase Field,4/22/2022,James McCann
+MIA,Chase Field,5/11/2022,Avisail Garcia
+OAK,Tropicana Field,4/11/2022,Elvis Andrus
+MIA,Oracle Park,4/8/2022,Jacob Stallings
+COL,Coors Field,5/13/2022,Brendan Rodgers
+SEA,T-Mobile Park,4/19/2022,Abraham Toro
+NYM,Oracle Park,5/24/2022,Francisco Lindor
+COL,Coors Field,5/16/2022,Ryan McMahon
+OAK,Tropicana Field,4/11/2022,Chad Pinder
+COL,Coors Field,5/13/2022,Sam Hilliard
+OAK,Tropicana Field,4/11/2022,Seth Brown
+TEX,T-Mobile Park,4/21/2022,Nick Solak
+OAK,T-Mobile Park,5/23/2022,Chad Pinder
+HOU,Minute Maid Park,5/2/2022,Jeremy Pena
+HOU,T-Mobile Park,5/29/2022,Jeremy Pena
+MIN,Target Field,4/10/2022,Byron Buxton
+MIN,Target Field,4/10/2022,Byron Buxton
+TB,T-Mobile Park,5/7/2022,Brandon Lowe
+TB,T-Mobile Park,5/7/2022,Brandon Lowe
+MIN,Target Field,4/10/2022,Gary Sanchez
+HOU,Minute Maid Park,5/2/2022,Yordan Alvarez
+SF,Progressive Field,4/15/2022,Brandon Crawford
+PHI,Citizens Bank Park,5/3/2022,J.T. Realmuto
+KC,Progressive Field,5/30/2022,Emmanuel Rivera
+CIN,Progressive Field,5/17/2022,Tyler Naquin
+MIA,Petco Park,5/6/2022,Jesus Aguilar
+CWS,Guaranteed Rate Field,5/9/2022,Gavin Sheets
+SD,Progressive Field,5/4/2022,Manny Machado
+SF,Progressive Field,4/15/2022,Joc Pederson
+LAA,Angel Stadium,4/27/2022,Taylor Ward
+HOU,Globe Life Field,4/28/2022,Kyle Tucker
+HOU,Minute Maid Park,5/24/2022,Kyle Tucker
+PHI,Citi Field,5/29/2022,Nick Castellanos
+ATL,Petco Park,4/17/2022,Marcell Ozuna
+SF,Oracle Park,4/12/2022,Brandon Belt
+LAA,Globe Life Field,5/18/2022,Jared Walsh
+ATL,Truist Park,5/13/2022,William Contreras
+PHI,Citi Field,4/30/2022,Kyle Schwarber
+LAA,Globe Life Field,4/15/2022,Shohei Ohtani
+PHI,T-Mobile Park,5/9/2022,Jean Segura
+HOU,T-Mobile Park,4/16/2022,Martin Maldonado
+TOR,Rogers Centre,5/16/2022,Bo Bichette
+BOS,Fenway Park,5/21/2022,Rafael Devers
+BOS,Fenway Park,5/21/2022,Rafael Devers
+TOR,Rogers Centre,5/16/2022,Matt Chapman
+PHI,T-Mobile Park,5/9/2022,Rhys Hoskins
+KC,T-Mobile Park,4/22/2022,Salvador Perez
+HOU,Minute Maid Park,5/3/2022,Yordan Alvarez
+OAK,T-Mobile Park,5/24/2022,Jed Lowrie
+STL,Busch Stadium,5/11/2022,Juan Yepez
+BOS,Fenway Park,5/19/2022,Trevor Story
+BOS,Fenway Park,5/19/2022,Trevor Story
+MIN,Oriole Park at Camden Yards,5/5/2022,Byron Buxton
+LAA,Angel Stadium,4/23/2022,Mike Trout
+LAA,Angel Stadium,4/23/2022,Mike Trout
+NYY,Oriole Park at Camden Yards,5/17/2022,Aaron Judge
+HOU,Angel Stadium,4/7/2022,Alex Bregman
+TOR,Angel Stadium,5/29/2022,Bo Bichette
+CHC,Wrigley Field,5/18/2022,Ian Happ
+LAA,Globe Life Field,4/15/2022,Jared Walsh
+TOR,Rogers Centre,4/8/2022,Teoscar Hernandez
+MIL,Busch Stadium,5/27/2022,Keston Hiura
+SD,Petco Park,5/27/2022,Luke Voit
+NYM,Citizens Bank Park,4/13/2022,Pete Alonso
+HOU,Angel Stadium,4/7/2022,Yordan Alvarez
+CIN,Great American Ball Park,4/13/2022,Tyler Stephenson
+DET,Target Field,5/25/2022,Jeimer Candelario
+TOR,Progressive Field,5/5/2022,Alejandro Kirk
+TB,Tropicana Field,4/9/2022,Francisco Mejia
+NYY,Yankee Stadium,4/26/2022,Anthony Rizzo
+NYY,Yankee Stadium,4/26/2022,Anthony Rizzo
+DET,Comerica Park,5/13/2022,Miguel Cabrera
+PHI,Citizens Bank Park,5/5/2022,Nick Castellanos
+PHI,Citizens Bank Park,5/5/2022,Bryce Harper
+NYY,Yankee Stadium,5/23/2022,Aaron Judge
+NYY,Yankee Stadium,5/23/2022,Aaron Judge
+NYY,Yankee Stadium,4/26/2022,Joey Gallo
+PIT,American Family Field,4/18/2022,Diego Castillo
+BAL,Oriole Park at Camden Yards,4/12/2022,Cedric Mullins II
+CHC,American Family Field,4/30/2022,Yan Gomes
+MIA,Marlins Park,5/14/2022,Brian Anderson
+NYM,Citizens Bank Park,5/5/2022,Francisco Lindor
+BAL,Oriole Park at Camden Yards,5/19/2022,Anthony Santander
+MIA,Marlins Park,5/14/2022,Jesus Aguilar
+SD,Petco Park,5/8/2022,Jorge Alfaro
+ARI,Chase Field,4/24/2022,Christian Walker
+CHC,Wrigley Field,5/31/2022,Willson Contreras
+SF,Citi Field,4/19/2022,Joc Pederson
+WSH,Nationals Park,5/11/2022,Juan Soto
+ATL,Truist Park,5/24/2022,Matt Olson
+MIA,Marlins Park,5/14/2022,Jorge Soler
+WSH,Nationals Park,5/11/2022,Nelson Cruz
+ATL,Truist Park,5/6/2022,Ronald Acuna Jr.
+CLE,Kauffman Stadium,4/11/2022,Oscar Mercado
+LAA,Globe Life Field,4/15/2022,Kurt Suzuki
+KC,Globe Life Field,5/11/2022,Whit Merrifield
+COL,Coors Field,5/14/2022,Charlie Blackmon
+SEA,T-Mobile Park,4/24/2022,Ty France
+COL,Coors Field,5/14/2022,Sam Hilliard
+LAA,Globe Life Field,4/15/2022,Shohei Ohtani
+TOR,Minute Maid Park,4/23/2022,Santiago Espinal
+ARI,Chase Field,5/6/2022,David Peralta
+ARI,Chase Field,5/6/2022,Daulton Varsho
+KC,Coors Field,5/13/2022,Ryan O'Hearn
+PIT,PNC Park,5/25/2022,Jack Suwinski
+CIN,Great American Ball Park,5/9/2022,Kyle Farmer
+BOS,Guaranteed Rate Field,5/24/2022,Rafael Devers
+SEA,Guaranteed Rate Field,4/14/2022,Mitch Haniger
+ATL,American Family Field,5/17/2022,Marcell Ozuna
+CHC,Wrigley Field,5/31/2022,Patrick Wisdom
+NYY,Guaranteed Rate Field,5/15/2022,Joey Gallo
+CHC,Chase Field,5/15/2022,Rafael Ortega
+CHC,Wrigley Field,5/20/2022,Jonathan Villar
+TB,Tropicana Field,5/25/2022,Harold Ramirez
+ARI,Chase Field,4/22/2022,Daulton Varsho
+MIA,Chase Field,5/9/2022,Garrett Cooper
+LAD,Chase Field,5/26/2022,Freddie Freeman
+WSH,Nationals Park,5/12/2022,Juan Soto
+ATL,Chase Field,5/31/2022,Matt Olson
+ATL,Marlins Park,5/21/2022,William Contreras
+PHI,Citizens Bank Park,4/13/2022,Bryce Harper
+CHC,Chase Field,5/15/2022,Patrick Wisdom
+CHC,Wrigley Field,5/20/2022,Patrick Wisdom
+OAK,Oakland Coliseum,5/14/2022,Luis Barrera
+TEX,Globe Life Field,5/18/2022,Nathaniel Lowe
+MIA,Angel Stadium,4/11/2022,Jesus Sanchez
+PIT,Great American Ball Park,5/7/2022,Ben Gamel
+HOU,Minute Maid Park,5/8/2022,Aledmys Diaz
+CIN,Truist Park,4/7/2022,Brandon Drury
+SF,Progressive Field,4/15/2022,Joey Bart
+CIN,Great American Ball Park,4/27/2022,Brandon Drury
+LAD,Petco Park,4/24/2022,Cody Bellinger
+SF,Progressive Field,4/17/2022,Brandon Belt
+OAK,Comerica Park,5/9/2022,Tony Kemp
+MIN,Target Field,4/27/2022,Max Kepler
+MIN,Target Field,4/27/2022,Max Kepler
+BOS,Fenway Park,5/16/2022,Xander Bogaerts
+PHI,Citi Field,4/30/2022,Rhys Hoskins
+MIN,Target Field,4/27/2022,Ryan Jeffers
+CHC,Wrigley Field,5/4/2022,Nico Hoerner
+CLE,Guaranteed Rate Field,5/10/2022,Josh Naylor
+KC,Kauffman Stadium,5/18/2022,Bobby Witt Jr.
+TOR,Rogers Centre,5/31/2022,Alejandro Kirk
+TOR,Rogers Centre,5/31/2022,Alejandro Kirk
+SF,American Family Field,4/25/2022,Joc Pederson
+LAA,Guaranteed Rate Field,4/29/2022,Taylor Ward
+STL,Busch Stadium,5/26/2022,Paul Goldschmidt
+CHC,PNC Park,4/12/2022,Seiya Suzuki
+CHC,Wrigley Field,5/4/2022,Patrick Wisdom
+LAA,Guaranteed Rate Field,4/29/2022,Shohei Ohtani
+ATL,Globe Life Field,4/29/2022,Travis Demeritte
+BOS,Guaranteed Rate Field,5/24/2022,Enrique Hernandez
+OAK,Oakland Coliseum,4/24/2022,Stephen Piscotty
+TOR,Rogers Centre,4/10/2022,Danny Jansen
+BOS,Guaranteed Rate Field,5/24/2022,Trevor Story
+TOR,Rogers Centre,4/10/2022,Vladimir Guerrero Jr.
+TOR,Rogers Centre,4/10/2022,Matt Chapman
+TOR,Rogers Centre,4/10/2022,George Springer
+CLE,Progressive Field,4/21/2022,Franmil Reyes
+NYY,Guaranteed Rate Field,5/12/2022,Giancarlo Stanton
+NYY,Guaranteed Rate Field,5/12/2022,Giancarlo Stanton
+DET,Comerica Park,5/30/2022,Derek Hill
+DET,Target Field,5/25/2022,Harold Castro
+STL,Busch Stadium,4/12/2022,Andrew Knizner
+TB,Tropicana Field,4/29/2022,Josh Lowe
+TB,Tropicana Field,4/23/2022,Kevin Kiermaier
+CLE,Progressive Field,5/31/2022,Austin Hedges
+BAL,Oriole Park at Camden Yards,5/4/2022,Cedric Mullins II
+STL,Busch Stadium,4/12/2022,Albert Pujols
+STL,Busch Stadium,4/12/2022,Nolan Arenado
+BAL,Oriole Park at Camden Yards,5/4/2022,Ramon Urias
+OAK,Oakland Coliseum,4/21/2022,Sean Murphy
+BAL,Oriole Park at Camden Yards,4/29/2022,Ryan Mountcastle
+SEA,Fenway Park,5/22/2022,Eugenio Suarez
+TB,Tropicana Field,4/29/2022,Mike Zunino
+BOS,Fenway Park,5/28/2022,Bobby Dalbec
+NYY,Kauffman Stadium,5/1/2022,Aaron Judge
+PHI,Citi Field,5/27/2022,Garrett Stubbs
+SEA,T-Mobile Park,4/21/2022,J.P. Crawford
+CLE,Progressive Field,5/17/2022,Owen Miller
+HOU,Minute Maid Park,5/22/2022,Jose Altuve
+SEA,T-Mobile Park,4/21/2022,Ty France
+SF,Oracle Park,4/30/2022,Jason Vosler
+SEA,Citi Field,5/14/2022,Jesse Winker
+BAL,Yankee Stadium,5/23/2022,Ramon Urias
+LAA,Globe Life Field,5/17/2022,Anthony Rendon
+SF,Great American Ball Park,5/29/2022,Evan Longoria
+SEA,Citi Field,5/15/2022,Julio Rodriguez
+CWS,Guaranteed Rate Field,5/13/2022,Gavin Sheets
+OAK,Oakland Coliseum,5/28/2022,Ramon Laureano
+MIL,American Family Field,5/5/2022,Willy Adames
+COL,Coors Field,5/1/2022,Randal Grichuk
+TEX,Yankee Stadium,5/8/2022,Kole Calhoun
+LAA,Globe Life Field,5/17/2022,Taylor Ward
+HOU,Globe Life Field,4/26/2022,Kyle Tucker
+BOS,Yankee Stadium,4/8/2022,Rafael Devers
+TOR,Yankee Stadium,4/13/2022,Vladimir Guerrero Jr.
+TOR,Yankee Stadium,4/13/2022,Vladimir Guerrero Jr.
+COL,Coors Field,5/3/2022,C.J. Cron
+LAA,Angel Stadium,5/27/2022,Tyler Wade
+HOU,Minute Maid Park,4/23/2022,Alex Bregman
+OAK,Rogers Centre,4/17/2022,Stephen Vogt
+LAA,Angel Stadium,5/27/2022,Jared Walsh
+NYY,Rogers Centre,5/3/2022,Aaron Judge
+CLE,Kauffman Stadium,4/10/2022,Oscar Mercado
+MIA,Marlins Park,5/4/2022,Jon Berti
+MIN,Fenway Park,4/18/2022,Jorge Polanco
+ARI,Chase Field,5/24/2022,Pavin Smith
+MIA,Marlins Park,5/4/2022,Jesus Aguilar
+BAL,Fenway Park,5/30/2022,Ramon Urias
+SEA,Fenway Park,5/19/2022,Dylan Moore
+ARI,Chase Field,5/24/2022,Jordan Luplow
+BAL,Fenway Park,5/30/2022,Ryan Mountcastle
+TEX,Globe Life Field,5/12/2022,Brad Miller
+CWS,Guaranteed Rate Field,5/25/2022,Jake Burger
+MIN,Fenway Park,4/18/2022,Kyle Garlick
+LAD,Wrigley Field,5/7/2022,Austin Barnes
+ARI,Wrigley Field,5/20/2022,Josh Rojas
+SD,Petco Park,5/11/2022,Eric Hosmer
+PIT,Wrigley Field,4/22/2022,Michael Chavis
+PIT,PNC Park,4/12/2022,Bryan Reynolds
+ATL,Truist Park,4/28/2022,Dansby Swanson
+CIN,Great American Ball Park,5/23/2022,Tommy Pham
+PIT,Wrigley Field,4/22/2022,Roberto Perez
+PIT,Wrigley Field,5/18/2022,Jack Suwinski
+CIN,Great American Ball Park,5/23/2022,Aristides Aquino
+MIL,Great American Ball Park,5/11/2022,Hunter Renfroe
+ATL,Truist Park,4/28/2022,Austin Riley
+SD,Petco Park,5/11/2022,Luke Voit
+HOU,Minute Maid Park,5/5/2022,Jose Altuve
+HOU,Minute Maid Park,5/5/2022,Jeremy Pena
+LAD,Dodger Stadium,4/29/2022,Justin Turner
+LAD,Dodger Stadium,4/29/2022,Chris Taylor
+COL,Comerica Park,4/24/2022,Randal Grichuk
+PHI,Citizens Bank Park,5/22/2022,Garrett Stubbs
+SF,Dodger Stadium,5/4/2022,Brandon Crawford
+ARI,Dodger Stadium,5/16/2022,Christian Walker
+MIA,Marlins Park,5/4/2022,Jon Berti
+TB,Oriole Park at Camden Yards,5/21/2022,Kevin Kiermaier
+CHC,Wrigley Field,5/21/2022,Frank Schwindel
+LAD,Chase Field,5/27/2022,Trea Turner
+LAD,Chase Field,5/27/2022,Mookie Betts
+HOU,Chase Field,4/12/2022,Jose Siri
+STL,Busch Stadium,4/29/2022,Paul Goldschmidt
+MIA,Chase Field,5/10/2022,Jorge Soler
+CHC,Wrigley Field,5/21/2022,Patrick Wisdom
+LAD,Chase Field,5/27/2022,Edwin Rios
+SF,Oracle Park,5/21/2022,Wilmer Flores
+PHI,Citizens Bank Park,4/27/2022,Odubel Herrera
+CIN,Great American Ball Park,4/26/2022,Nick Senzel
+TEX,Globe Life Field,5/16/2022,Jonah Heim
+ATL,Truist Park,5/13/2022,Dansby Swanson
+ARI,Chase Field,4/10/2022,Christian Walker
+MIA,Angel Stadium,4/12/2022,Jazz Chisholm Jr.
+HOU,Angel Stadium,4/8/2022,Jeremy Pena
+MIA,Coors Field,5/30/2022,Jesus Sanchez
+TEX,Globe Life Field,5/18/2022,Brad Miller
+OAK,T-Mobile Park,5/25/2022,Elvis Andrus
+PHI,Dodger Stadium,5/12/2022,Johan Camargo
+OAK,Citizens Bank Park,4/10/2022,Billy McKinney
+CWS,Guaranteed Rate Field,4/13/2022,Tim Anderson
+MIN,Target Field,4/8/2022,Gio Urshela
+SD,Petco Park,4/23/2022,Jake Cronenworth
+NYM,Citi Field,5/15/2022,Francisco Lindor
+ARI,Dodger Stadium,5/17/2022,Jordan Luplow
+ARI,Dodger Stadium,5/17/2022,Christian Walker
+CHC,Wrigley Field,5/7/2022,Willson Contreras
+BOS,Fenway Park,5/20/2022,Trevor Story
+MIA,Marlins Park,4/16/2022,Avisail Garcia
+PHI,T-Mobile Park,5/10/2022,Nick Castellanos
+CWS,Guaranteed Rate Field,4/13/2022,Luis Robert
+CWS,Guaranteed Rate Field,4/13/2022,Eloy Jimenez
+OAK,T-Mobile Park,5/25/2022,Seth Brown
+PHI,Dodger Stadium,5/12/2022,Bryce Harper
+NYM,Citi Field,5/27/2022,Pete Alonso
+TB,T-Mobile Park,5/5/2022,Mike Zunino
+CLE,Minute Maid Park,5/23/2022,Jose Ramirez
+BOS,Fenway Park,5/18/2022,Xander Bogaerts
+TOR,Minute Maid Park,4/24/2022,Lourdes Gurriel Jr.
+LAA,Minute Maid Park,4/18/2022,Max Stassi
+TOR,Rogers Centre,4/30/2022,George Springer
+TOR,Rogers Centre,4/30/2022,George Springer
+TOR,Minute Maid Park,4/24/2022,Zack Collins
+TOR,Angel Stadium,5/26/2022,Danny Jansen
+HOU,Angel Stadium,4/8/2022,Kyle Tucker
+HOU,Angel Stadium,4/8/2022,Kyle Tucker
+MIL,American Family Field,4/20/2022,Keston Hiura
+MIL,American Family Field,5/4/2022,Kolten Wong
+SD,Petco Park,4/20/2022,Jurickson Profar
+SD,Great American Ball Park,4/27/2022,Jurickson Profar
+MIL,American Family Field,5/4/2022,Rowdy Tellez
+MIL,Great American Ball Park,5/11/2022,Christian Yelich
+MIL,Great American Ball Park,5/11/2022,Hunter Renfroe
+CHC,Great American Ball Park,5/23/2022,Patrick Wisdom
+PIT,Dodger Stadium,5/31/2022,Tucupita Marcano
+TB,Tropicana Field,5/18/2022,Isaac Paredes
+PHI,Dodger Stadium,5/14/2022,Jean Segura
+ARI,Chase Field,4/27/2022,Nick Ahmed
+CHC,Wrigley Field,4/18/2022,Frank Schwindel
+PIT,PNC Park,5/9/2022,Michael Perez
+PIT,Dodger Stadium,5/31/2022,Michael Chavis
+MIN,Tropicana Field,4/30/2022,Max Kepler
+MIL,American Family Field,5/20/2022,Tyrone Taylor
+ARI,Chase Field,4/10/2022,Cooper Hummel
+MIN,Target Field,5/25/2022,Trevor Larnach
+SF,Nationals Park,4/24/2022,Joc Pederson
+BAL,Comerica Park,5/15/2022,Trey Mancini
+ATL,Truist Park,4/12/2022,Marcell Ozuna
+PHI,Dodger Stadium,5/14/2022,Rhys Hoskins
+COL,Coors Field,4/10/2022,C.J. Cron
+PHI,Dodger Stadium,5/14/2022,Bryce Harper
+PHI,Dodger Stadium,5/14/2022,Kyle Schwarber
+MIN,Comerica Park,5/31/2022,Gary Sanchez
+NYM,Citi Field,5/30/2022,Nick Plummer
+NYY,Tropicana Field,5/27/2022,Gleyber Torres
+NYY,Tropicana Field,5/27/2022,Matt Carpenter
+LAA,Angel Stadium,5/9/2022,Jared Walsh
+SD,PNC Park,4/29/2022,Jake Cronenworth
+SD,Truist Park,5/13/2022,Ha-Seong Kim
+HOU,Nationals Park,5/15/2022,Jose Altuve
+SD,Petco Park,4/16/2022,Trent Grisham
+TEX,Globe Life Field,4/29/2022,Corey Seager
+SD,Petco Park,4/14/2022,Manny Machado
+ATL,Truist Park,4/12/2022,Marcell Ozuna
+LAD,Dodger Stadium,4/14/2022,Will Smith
+OAK,T-Mobile Park,5/24/2022,Elvis Andrus
+SEA,Rogers Centre,5/18/2022,Ty France
+NYY,Yankee Stadium,4/13/2022,Gleyber Torres
+KC,T-Mobile Park,4/24/2022,Hunter Dozier
+HOU,Rogers Centre,4/29/2022,Jeremy Pena
+SEA,Rogers Centre,5/16/2022,Eugenio Suarez
+HOU,Rogers Centre,4/29/2022,Yordan Alvarez
+SD,PNC Park,4/30/2022,Manny Machado
+LAD,PNC Park,5/9/2022,Edwin Rios
+ATL,Truist Park,5/11/2022,Orlando Arcia
+SEA,Fenway Park,5/19/2022,Julio Rodriguez
+TEX,Globe Life Field,5/15/2022,Kole Calhoun
+TEX,Globe Life Field,5/15/2022,Adolis Garcia
+DET,Comerica Park,4/11/2022,Javier Baez
+CIN,Great American Ball Park,5/27/2022,Brandon Drury
+SD,Oracle Park,5/21/2022,Manny Machado
+STL,Busch Stadium,5/15/2022,Paul Goldschmidt
+KC,Kauffman Stadium,5/19/2022,Hunter Dozier
+MIN,Target Field,4/23/2022,Byron Buxton
+SEA,Guaranteed Rate Field,4/12/2022,Eugenio Suarez
+MIN,Target Field,4/23/2022,Ryan Jeffers
+NYY,Guaranteed Rate Field,5/13/2022,Giancarlo Stanton
+NYY,Guaranteed Rate Field,5/13/2022,Aaron Judge
+NYY,Guaranteed Rate Field,5/13/2022,Joey Gallo
+CLE,Oakland Coliseum,4/29/2022,Josh Naylor
+TOR,Rogers Centre,4/16/2022,Matt Chapman
+TOR,Rogers Centre,4/16/2022,Zack Collins
+MIN,Oakland Coliseum,5/16/2022,Gary Sanchez
+MIA,Marlins Park,4/29/2022,Miguel Rojas
+HOU,Minute Maid Park,5/3/2022,Jose Altuve
+MIN,Target Field,4/10/2022,Jorge Polanco
+MIN,Target Field,4/10/2022,Max Kepler
+CIN,Rogers Centre,5/22/2022,Joey Votto
+MIA,Marlins Park,5/1/2022,Jorge Soler
+NYY,Yankee Stadium,5/10/2022,Giancarlo Stanton
+MIN,Target Field,4/9/2022,Luis Arraez
+LAD,Dodger Stadium,5/17/2022,Trea Turner
+MIA,Marlins Park,5/1/2022,Brian Anderson
+LAD,Dodger Stadium,5/17/2022,Justin Turner
+BOS,Fenway Park,5/22/2022,Christian Arroyo
+LAD,Dodger Stadium,5/17/2022,Mookie Betts
+BOS,Fenway Park,5/22/2022,Trevor Story
+LAD,Chase Field,4/25/2022,Will Smith
+LAD,Dodger Stadium,5/17/2022,Will Smith
+PHI,T-Mobile Park,5/11/2022,Rhys Hoskins
+MIL,American Family Field,4/25/2022,Willy Adames
+PHI,Marlins Park,4/15/2022,Nick Castellanos
+CLE,Great American Ball Park,4/12/2022,Andres Gimenez
+ARI,Chase Field,4/22/2022,Christian Walker
+WSH,Nationals Park,4/7/2022,Juan Soto
+TB,Tropicana Field,5/17/2022,Kevin Kiermaier
+MIN,Comerica Park,5/30/2022,Jose Miranda
+HOU,Minute Maid Park,5/6/2022,Martin Maldonado
+COL,Comerica Park,4/23/2022,Charlie Blackmon
+MIN,Comerica Park,5/30/2022,Gio Urshela
+COL,Comerica Park,4/23/2022,Connor Joe
+TB,Tropicana Field,5/17/2022,Brett Phillips
+LAD,Dodger Stadium,4/30/2022,Mookie Betts
+HOU,Minute Maid Park,5/6/2022,Chas McCormick
+MIN,Comerica Park,5/30/2022,Gary Sanchez
+PIT,PNC Park,5/11/2022,Daniel Vogelbach
+LAA,Angel Stadium,4/10/2022,Jack Mayfield
+SEA,T-Mobile Park,4/17/2022,Ty France
+NYY,Yankee Stadium,4/26/2022,Anthony Rizzo
+WSH,Nationals Park,5/29/2022,Lane Thomas
+WSH,Nationals Park,4/8/2022,Josh Bell
+BOS,Fenway Park,5/17/2022,Rafael Devers
+TEX,Minute Maid Park,5/22/2022,Mitch Garver
+TOR,Rogers Centre,4/29/2022,Vladimir Guerrero Jr.
+TOR,Minute Maid Park,4/23/2022,George Springer
+BOS,Fenway Park,5/17/2022,J.D. Martinez
+WSH,Nationals Park,5/28/2022,Riley Adams
+SEA,T-Mobile Park,5/28/2022,Kyle Lewis
+PHI,Citi Field,5/1/2022,Bryce Harper
+PHI,Citizens Bank Park,5/8/2022,Bryce Harper
+PHI,Citi Field,5/1/2022,Kyle Schwarber
+PHI,Citi Field,5/1/2022,Kyle Schwarber
+LAA,Angel Stadium,5/22/2022,Mike Trout
+NYY,Yankee Stadium,4/26/2022,Aaron Judge
+CHC,Wrigley Field,5/22/2022,Frank Schwindel
+NYM,Citi Field,4/16/2022,Starling Marte
+PHI,Truist Park,5/24/2022,Bryce Harper
+CHC,Wrigley Field,5/22/2022,Patrick Wisdom
+HOU,Angel Stadium,4/8/2022,Aledmys Diaz
+CLE,Angel Stadium,4/28/2022,Austin Hedges
+HOU,Angel Stadium,4/8/2022,Jose Altuve
+TEX,Globe Life Field,5/17/2022,Kole Calhoun
+TEX,Angel Stadium,5/25/2022,Kole Calhoun
+TEX,Globe Life Field,5/17/2022,Corey Seager
+TEX,Angel Stadium,5/25/2022,Mitch Garver
+LAA,Globe Life Field,4/16/2022,Taylor Ward
+COL,Globe Life Field,4/11/2022,C.J. Cron
+CHC,Wrigley Field,4/10/2022,Seiya Suzuki
+TEX,Oakland Coliseum,4/22/2022,Andy Ibanez
+TEX,Oakland Coliseum,4/22/2022,Nathaniel Lowe
+TB,Tropicana Field,4/12/2022,Ji-Man Choi
+LAA,Oakland Coliseum,5/14/2022,Taylor Ward
+TB,Tropicana Field,4/12/2022,Brandon Lowe
+LAA,Oakland Coliseum,5/14/2022,Shohei Ohtani
+NYY,Kauffman Stadium,5/1/2022,Aaron Judge
+TB,T-Mobile Park,5/8/2022,Manuel Margot
+PHI,T-Mobile Park,5/10/2022,Rhys Hoskins
+BOS,Guaranteed Rate Field,5/24/2022,Christian Vazquez
+SEA,Citi Field,5/15/2022,Cal Raleigh
+SF,Oracle Park,5/24/2022,Joc Pederson
+TEX,Globe Life Field,4/26/2022,Adolis Garcia
+STL,Citi Field,5/17/2022,Paul Goldschmidt
+NYY,Guaranteed Rate Field,5/13/2022,Josh Donaldson
+ARI,Dodger Stadium,5/16/2022,David Peralta
+SD,Busch Stadium,5/31/2022,Trent Grisham
+NYM,Citi Field,5/19/2022,Pete Alonso
+CLE,Guaranteed Rate Field,5/9/2022,Josh Naylor
+DET,Comerica Park,4/8/2022,Eric Haase
+MIN,Target Field,4/24/2022,Byron Buxton
+ARI,Chase Field,5/30/2022,Pavin Smith
+CWS,Guaranteed Rate Field,5/15/2022,Adam Engel
+CLE,Yankee Stadium,4/23/2022,Josh Naylor
+CWS,Yankee Stadium,5/21/2022,Jose Abreu
+TOR,Rogers Centre,5/4/2022,Matt Chapman
+PIT,PNC Park,5/21/2022,Bryan Reynolds
+NYY,Oriole Park at Camden Yards,5/16/2022,Anthony Rizzo
+NYY,Oriole Park at Camden Yards,5/16/2022,Josh Donaldson
+NYY,Yankee Stadium,4/27/2022,Joey Gallo
+STL,Busch Stadium,5/1/2022,Nolan Arenado
+STL,Busch Stadium,5/1/2022,Harrison Bader
+CWS,Target Field,4/22/2022,Andrew Vaughn
+SEA,Target Field,4/10/2022,Mitch Haniger
+NYM,Chase Field,4/24/2022,J.D. Davis
+MIN,Oakland Coliseum,5/17/2022,Royce Lewis
+MIN,Target Field,5/7/2022,Jorge Polanco
+SEA,T-Mobile Park,5/24/2022,Julio Rodriguez
+TEX,Oakland Coliseum,5/29/2022,Corey Seager
+TEX,Oakland Coliseum,5/29/2022,Brad Miller
+MIN,Oakland Coliseum,5/17/2022,Gary Sanchez
+HOU,Minute Maid Park,5/8/2022,Alex Bregman
+PIT,Comerica Park,5/4/2022,Daniel Vogelbach
+TOR,Minute Maid Park,4/22/2022,Santiago Espinal
+SEA,T-Mobile Park,5/27/2022,Ty France
+SEA,T-Mobile Park,5/27/2022,Taylor Trammell
+TOR,Minute Maid Park,4/22/2022,Bradley Zimmer
+SEA,T-Mobile Park,5/27/2022,Julio Rodriguez
+LAA,Angel Stadium,4/9/2022,Jared Walsh
+SEA,Minute Maid Park,5/4/2022,Eugenio Suarez
+SEA,T-Mobile Park,5/27/2022,Kyle Lewis
+LAA,Angel Stadium,4/9/2022,Mike Trout
+MIA,Truist Park,5/28/2022,Miguel Rojas
+NYM,Citi Field,5/4/2022,Luis Guillorme
+CLE,Yankee Stadium,4/23/2022,Austin Hedges
+ARI,Chase Field,5/11/2022,Jordan Luplow
+TB,T-Mobile Park,5/6/2022,Manuel Margot
+PHI,T-Mobile Park,5/10/2022,Jean Segura
+DET,Comerica Park,5/29/2022,Harold Castro
+HOU,Minute Maid Park,5/23/2022,Alex Bregman
+MIN,Target Field,5/15/2022,Gio Urshela
+DET,Comerica Park,5/29/2022,Jeimer Candelario
+MIN,Target Field,5/23/2022,Max Kepler
+BAL,Tropicana Field,4/8/2022,Anthony Santander
+DET,Tropicana Field,5/18/2022,Spencer Torkelson
+CWS,Comerica Park,4/10/2022,Andrew Vaughn
+BAL,Oriole Park at Camden Yards,5/22/2022,Ryan Mountcastle
+MIN,Target Field,5/15/2022,Byron Buxton
+SEA,T-Mobile Park,5/6/2022,Eugenio Suarez
+LAA,Angel Stadium,4/26/2022,Mike Trout
+SEA,Guaranteed Rate Field,4/14/2022,Jarred Kelenic
+CHC,Wrigley Field,5/17/2022,Christopher Morel
+STL,PNC Park,5/22/2022,Albert Pujols
+CIN,Great American Ball Park,5/8/2022,Colin Moran
+ARI,Nationals Park,4/21/2022,Jake McCarthy
+COL,Coors Field,5/5/2022,Brendan Rodgers
+ARI,Nationals Park,4/21/2022,Cooper Hummel
+ARI,Nationals Park,4/21/2022,Matt Davidson
+NYM,Citi Field,5/30/2022,Pete Alonso
+MIL,Marlins Park,5/15/2022,Kolten Wong
+CLE,Target Field,5/13/2022,Oscar Mercado
+MIL,Marlins Park,5/15/2022,Jace Peterson
+BAL,Oriole Park at Camden Yards,5/5/2022,Jorge Mateo
+DET,Target Field,5/23/2022,Jonathan Schoop
+ATL,Truist Park,4/23/2022,Ozzie Albies
+ARI,Chase Field,5/9/2022,Ketel Marte
+ARI,Marlins Park,5/4/2022,Daulton Varsho
+KC,Kauffman Stadium,5/21/2022,Emmanuel Rivera
+LAA,Angel Stadium,4/11/2022,Jo Adell
+LAA,Angel Stadium,4/11/2022,Brandon Marsh
+ATL,Truist Park,4/23/2022,Alex Dickerson
+ATL,Truist Park,5/29/2022,Marcell Ozuna
+ATL,Truist Park,5/29/2022,Marcell Ozuna
+ATL,Marlins Park,5/21/2022,William Contreras
+ATL,Truist Park,4/23/2022,Austin Riley
+ATL,Truist Park,5/29/2022,Austin Riley
+LAD,Target Field,4/13/2022,Max Muncy
+PHI,Marlins Park,4/17/2022,Bryce Harper
+CIN,Great American Ball Park,5/8/2022,Colin Moran
+CIN,PNC Park,5/13/2022,Mike Moustakas
+CIN,PNC Park,5/13/2022,Brandon Drury
+MIL,PNC Park,4/26/2022,Willy Adames
+CHC,Wrigley Field,4/24/2022,Ian Happ
+WSH,Nationals Park,5/14/2022,Yadiel Hernandez
+TEX,Minute Maid Park,5/20/2022,Kole Calhoun
+TEX,Globe Life Field,4/27/2022,Mitch Garver
+CIN,Great American Ball Park,4/13/2022,Jake Fraley
+SD,Great American Ball Park,4/27/2022,Eric Hosmer
+NYY,Yankee Stadium,4/22/2022,Aaron Judge
+CWS,Target Field,4/23/2022,Jose Abreu
+OAK,Oakland Coliseum,4/21/2022,Cristian Pache
+DET,Comerica Park,5/15/2022,Miguel Cabrera
+TB,Tropicana Field,4/10/2022,Brandon Lowe
+TB,Oriole Park at Camden Yards,5/20/2022,Mike Zunino
+NYY,Yankee Stadium,4/27/2022,Giancarlo Stanton
+SEA,T-Mobile Park,4/23/2022,Ty France
+CWS,Kauffman Stadium,5/19/2022,Luis Robert
+NYY,Kauffman Stadium,4/29/2022,Aaron Judge
+CHC,Great American Ball Park,5/26/2022,Nico Hoerner
+MIN,Target Field,5/6/2022,Jose Miranda
+COL,Coors Field,4/29/2022,Elias Diaz
+LAD,Dodger Stadium,4/16/2022,Trea Turner
+MIL,American Family Field,5/5/2022,Luis Urias
+MIL,Great American Ball Park,5/10/2022,Luis Urias
+COL,Coors Field,4/29/2022,Ryan McMahon
+ATL,Truist Park,4/10/2022,Travis d'Arnaud
+MIL,American Family Field,5/5/2022,Tyrone Taylor
+SEA,T-Mobile Park,5/23/2022,Cal Raleigh
+SEA,T-Mobile Park,5/23/2022,Julio Rodriguez
+MIL,American Family Field,5/5/2022,Willy Adames
+CHC,Great American Ball Park,5/26/2022,Willson Contreras
+TOR,Rogers Centre,5/21/2022,Bo Bichette
+TEX,Oakland Coliseum,5/28/2022,Corey Seager
+TEX,Oakland Coliseum,5/28/2022,Adolis Garcia
+CHC,Great American Ball Park,5/26/2022,Ian Happ
+MIN,Target Field,5/6/2022,Byron Buxton
+MIL,American Family Field,5/5/2022,Christian Yelich
+ATL,Truist Park,4/10/2022,Matt Olson
+SEA,T-Mobile Park,5/23/2022,Eugenio Suarez
+MIL,American Family Field,5/5/2022,Keston Hiura
+DET,Target Field,5/25/2022,Harold Castro
+CLE,Target Field,5/13/2022,Andres Gimenez
+KC,Kauffman Stadium,5/20/2022,Emmanuel Rivera
+DET,Target Field,4/26/2022,Javier Baez
+HOU,Nationals Park,5/13/2022,Yuli Gurriel
+MIA,Nationals Park,4/26/2022,Joey Wendle
+NYM,Nationals Park,4/8/2022,Jeff McNeil
+HOU,Nationals Park,5/13/2022,Jose Altuve
+COL,Nationals Park,5/29/2022,Charlie Blackmon
+LAD,Nationals Park,5/24/2022,Trea Turner
+ARI,Nationals Park,4/19/2022,Daulton Varsho
+LAD,Nationals Park,5/24/2022,Chris Taylor
+LAA,Angel Stadium,5/7/2022,Brandon Marsh
+LAD,Nationals Park,5/24/2022,Mookie Betts
+MIA,Marlins Park,5/18/2022,Jazz Chisholm Jr.
+LAA,Angel Stadium,5/7/2022,Jared Walsh
+HOU,Nationals Park,5/13/2022,Yordan Alvarez
+CHC,Wrigley Field,5/20/2022,Ildemaro Vargas
+SD,Chase Field,4/10/2022,Jurickson Profar
+CHC,Wrigley Field,5/20/2022,Christopher Morel
+NYM,Citi Field,4/15/2022,Starling Marte
+NYM,Citi Field,4/15/2022,Francisco Lindor
+LAD,Chase Field,5/26/2022,Chris Taylor
+SD,Chase Field,4/10/2022,Jorge Alfaro
+BOS,Fenway Park,4/15/2022,Alex Verdugo
+CLE,Target Field,5/15/2022,Jose Ramirez
+SEA,Target Field,4/8/2022,Mitch Haniger
+CLE,Angel Stadium,4/27/2022,Jose Ramirez
+TB,Tropicana Field,4/27/2022,Kevin Kiermaier
+KC,T-Mobile Park,4/23/2022,Carlos Santana
+MIN,Target Field,4/10/2022,Carlos Correa
+SEA,T-Mobile Park,5/5/2022,Adam Frazier
+SEA,Tropicana Field,4/27/2022,J.P. Crawford
+NYY,Tropicana Field,5/29/2022,Aaron Judge
+MIL,Great American Ball Park,5/11/2022,Jace Peterson
+CLE,Great American Ball Park,4/13/2022,Owen Miller
+MIL,Great American Ball Park,5/11/2022,Mike Brosseau
+PIT,Great American Ball Park,5/7/2022,Bryan Reynolds
+PIT,Great American Ball Park,5/8/2022,Bryan Reynolds
+MIL,American Family Field,5/4/2022,Rowdy Tellez
+ATL,Truist Park,4/7/2022,Austin Riley
+CHC,Wrigley Field,5/30/2022,P.J. Higgins
+CHC,Wrigley Field,5/31/2022,P.J. Higgins
+NYY,Yankee Stadium,4/24/2022,Tim Locastro
+SF,Busch Stadium,5/15/2022,Luis Gonzalez
+NYM,Oracle Park,5/23/2022,Jeff McNeil
+CHC,Wrigley Field,5/30/2022,Rafael Ortega
+CIN,Great American Ball Park,5/26/2022,Kyle Farmer
+CLE,Guaranteed Rate Field,5/9/2022,Andres Gimenez
+CLE,Progressive Field,5/30/2022,Andres Gimenez
+ARI,Busch Stadium,5/1/2022,Nick Ahmed
+MIL,Wrigley Field,5/30/2022,Jace Peterson
+BOS,Guaranteed Rate Field,5/26/2022,Kevin Plawecki
+SF,Oracle Park,4/12/2022,Wilmer Flores
+OAK,Tropicana Field,4/11/2022,Sheldon Neuse
+NYY,Yankee Stadium,5/31/2022,Jose Trevino
+SF,Citizens Bank Park,5/30/2022,Curt Casali
+NYY,Yankee Stadium,4/24/2022,DJ LeMahieu
+PIT,Great American Ball Park,5/7/2022,Diego Castillo
+WSH,Nationals Park,4/22/2022,Maikel Franco
+SF,Busch Stadium,5/15/2022,Joey Bart
+LAA,Angel Stadium,5/21/2022,Andrew Velazquez
+DET,Comerica Park,5/31/2022,Jonathan Schoop
+STL,PNC Park,5/22/2022,Albert Pujols
+MIL,Wrigley Field,5/30/2022,Victor Caratini
+ATL,Truist Park,4/12/2022,Ozzie Albies
+ATL,Petco Park,4/14/2022,Ozzie Albies
+COL,Citizens Bank Park,4/26/2022,Charlie Blackmon
+TEX,Oakland Coliseum,5/28/2022,Marcus Semien
+OAK,Tropicana Field,4/12/2022,Jed Lowrie
+SEA,T-Mobile Park,5/7/2022,Abraham Toro
+STL,PNC Park,5/22/2022,Harrison Bader
+NYM,Citi Field,5/31/2022,Eduardo Escobar
+PIT,Great American Ball Park,5/7/2022,Yoshi Tsutsugo
+PIT,PNC Park,5/22/2022,Yoshi Tsutsugo
+NYM,Oracle Park,5/23/2022,Mark Canha
+PIT,PNC Park,4/30/2022,Michael Chavis
+TB,Tropicana Field,4/12/2022,Brett Phillips
+SF,Oracle Park,4/26/2022,Austin Slater
+MIL,Wrigley Field,5/30/2022,Tyrone Taylor
+MIL,Wrigley Field,5/30/2022,Tyrone Taylor
+CLE,Great American Ball Park,4/12/2022,Jose Ramirez
+CLE,Comerica Park,5/28/2022,Jose Ramirez
+CIN,Great American Ball Park,4/12/2022,Tyler Naquin
+WSH,Truist Park,4/12/2022,Josh Bell
+ATL,Truist Park,5/25/2022,Dansby Swanson
+CIN,Great American Ball Park,4/27/2022,Tommy Pham
+SEA,Guaranteed Rate Field,4/14/2022,Cal Raleigh
+LAA,Angel Stadium,5/10/2022,Anthony Rendon
+SF,Oracle Park,5/25/2022,Evan Longoria
+SF,Oracle Park,5/25/2022,Evan Longoria
+LAA,Fenway Park,5/5/2022,Brandon Marsh
+CWS,Guaranteed Rate Field,4/17/2022,Gavin Sheets
+MIL,American Family Field,4/29/2022,Willy Adames
+BAL,Oriole Park at Camden Yards,5/1/2022,Rougned Odor
+BAL,Oriole Park at Camden Yards,5/20/2022,Rougned Odor
+BAL,Fenway Park,5/28/2022,Rougned Odor
+ARI,Dodger Stadium,5/17/2022,Christian Walker
+CWS,Guaranteed Rate Field,5/9/2022,A.J. Pollock
+TEX,Globe Life Field,4/14/2022,Corey Seager
+TEX,Globe Life Field,4/30/2022,Corey Seager
+BOS,Fenway Park,5/19/2022,Trevor Story
+SF,Oracle Park,4/12/2022,Joc Pederson
+SF,Oracle Park,5/25/2022,Joc Pederson
+SF,Citizens Bank Park,5/31/2022,Joc Pederson
+SF,Oracle Park,5/25/2022,Mike Yastrzemski
+HOU,Target Field,5/12/2022,Kyle Tucker
+OAK,Oracle Park,4/27/2022,Chad Pinder
+ATL,Truist Park,5/14/2022,Marcell Ozuna
+TEX,Globe Life Field,5/11/2022,Brad Miller
+PIT,PNC Park,5/22/2022,Jack Suwinski
+PIT,PNC Park,5/22/2022,Jack Suwinski
+STL,Busch Stadium,5/30/2022,Paul Goldschmidt
+MIL,American Family Field,5/3/2022,Rowdy Tellez
+KC,Kauffman Stadium,5/17/2022,MJ Melendez
+KC,Target Field,5/27/2022,MJ Melendez
+WSH,Truist Park,4/12/2022,Juan Soto
+MIL,American Family Field,4/30/2022,Christian Yelich
+MIL,American Family Field,4/30/2022,Hunter Renfroe
+COL,Coors Field,4/16/2022,C.J. Cron
+BOS,Fenway Park,5/3/2022,J.D. Martinez
+ATL,Truist Park,4/28/2022,Adam Duvall
+SEA,T-Mobile Park,4/15/2022,Eugenio Suarez
+MIA,Petco Park,5/7/2022,Jorge Soler
+NYY,Guaranteed Rate Field,5/12/2022,Josh Donaldson
+WSH,Angel Stadium,5/7/2022,Nelson Cruz
+TB,Oakland Coliseum,5/3/2022,Mike Zunino
+LAD,PNC Park,5/10/2022,Edwin Rios
+LAA,Angel Stadium,5/9/2022,Shohei Ohtani
+HOU,Target Field,5/12/2022,Yordan Alvarez
+NYY,Rogers Centre,5/3/2022,Giancarlo Stanton
+LAA,Angel Stadium,5/10/2022,Mike Trout
+NYY,Yankee Stadium,4/22/2022,Aaron Judge
